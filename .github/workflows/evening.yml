@@ -1,0 +1,32 @@
+name: Evening Update
+
+on:
+  schedule:
+    - cron: '30 16 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch OMX30 close
+        run: python scripts/evening.py
+
+      - name: Push update
+        run: |
+          git config user.name  "OMX30 Bot"
+          git config user.email "bot@omx30.local"
+          git add data/scorecard.json
+          git diff --staged --quiet || git commit -m "Evening update $(date +'%Y-%m-%d')"
+          git push
