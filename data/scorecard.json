@@ -3,8 +3,8 @@
     "date": "2026-04-27",
     "dateLabel": "Mon 27 Apr",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.688,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "Geopolitical/trade headlines (China-Meta, UAE-Pakistan) create uncertainty, but OMX30 technicals remain constructive"
     ],
     "narrative": "OMX30 opens Monday in a structural bull market\u2014up 8.7% from its 200-day MA with robust ADX 44.7 signaling strong directional momentum. Overnight, US 10Y yields rose 51bp to 4.33%, lifting bank NIM expectations but capping tech/growth multiples. Commodity divergence: Brent crude crashed 2.98% (easing industrials margin pressure), while copper firmed 0.58%, directly benefiting Boliden and mining. Currency headwinds are modest: USD/SEK weakened 52bp, slightly unfavorable for Volvo/Atlas Copco exporters. Technicals remain bullish\u2014MACD above signal, ROC-90 at +9.6%\u2014but RSI 64.26 and proximity to 52-week highs (83% of range, -4.4% from peak) warrant caution on mean reversion. Key risk: escalating China-US tensions and geopolitical noise could trigger quick VIX spike; watch US Jobless Claims at 14:30 CET for macro confirmation.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3079.76,
+    "magnitudeError": 1.088,
     "sectorImpacts": [
       {
         "sector": "Banks",
