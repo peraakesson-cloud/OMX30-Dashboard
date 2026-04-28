@@ -262,7 +262,7 @@ Generate the complete morning brief. Respond ONLY with valid JSON, no markdown, 
     client  = anthropic.Anthropic(api_key=API_KEY)
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=2500,
+        max_tokens=4096,
         system="You are the head of research at a Swedish equity trading desk. Respond ONLY with valid JSON, nothing else.",
         messages=[{"role": "user", "content": prompt}],
     )
