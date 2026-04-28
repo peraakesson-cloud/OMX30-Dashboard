@@ -3,8 +3,8 @@
     "date": "2026-04-28",
     "dateLabel": "Tue 28 Apr",
     "predicted": 0.15,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.771,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_MIXED",
@@ -16,8 +16,8 @@
       "Global correlation weighted -0.191% signals modest risk-off tilt despite OMX resilience"
     ],
     "narrative": "OMX30 opens Tuesday with structural bullish backdrop (+8.6% above 200-MA) but tactical headwinds that warrant caution. MACD has triggered a bearish crossover (hist=-1.727) contradicting the bull regime, while US 10Y yields surged +60bps to 4.336% creating DCF compression risk for tech/growth and refinancing pressure on real estate. ADX at 18.1 sits below our 20-point confidence threshold, reducing technical signal strength by 30%. The weighted correlation signal of -0.191% reflects mild risk-off sentiment despite yesterday's mixed closes (DAX -0.29%, CAC -0.11%, S&P +0.12%). Brent crude collapsing -3.16% to 104.8 eases input cost inflation, a modest positive for consumer names, but USD strength (+0.12% in USD/SEK) is the cleanest tailwind for OMX exporters.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3056.01,
+    "magnitudeError": 0.921,
     "sectorImpacts": [
       {
         "sector": "Banks",
