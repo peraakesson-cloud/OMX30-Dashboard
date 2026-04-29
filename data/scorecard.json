@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-04-29",
+    "dateLabel": "Wed 29 Apr",
+    "predicted": -0.2,
+    "actual": null,
+    "result": "pending",
+    "confidence": "Low",
+    "recommendation": "NEUTRAL",
+    "technicalBias": "BEARISH",
+    "correlationBias": "BEARISH",
+    "drivers": [
+      "Broad selloff across DAX, CAC, NASDAQ (-0.90%) signals risk-off momentum",
+      "MACD bearish crossover with negative histogram (-3.229) confirms downside pressure",
+      "Stochastic deeply oversold (K=15.2) flags mean reversion risk to downside before recovery",
+      "USD/SEK strength (+0.75%) provides modest exporter tailwind but insufficient offset",
+      "Oil heavy decline (-5.41%) reduces input cost inflation; mixed for industrials vs consumer"
+    ],
+    "narrative": "OMX30 faces a challenging open on Wednesday as global equity sentiment turns sour: DAX -0.27%, CAC -0.47%, and especially NASDAQ -0.90% signal broad risk-off in tech and growth. Technical deterioration is pronounced\u2014MACD has crossed below signal line (hist=-3.229), RSI at 43.41 is neutral but vulnerable, and Stochastic K at 15.2 indicates deeply oversold conditions that could trigger sharp mean-reversion selling. The index remains +7.7% above 200-MA but has slipped -0.3% below 50-MA, straddling support. USD/SEK +0.75% supports exporters (Atlas Copco, Volvo, Ericsson), but weak ADX (6.3) undermines trend confidence. US 10Y yield +41bp aids banks, yet oil's -5.41% collapse and overnight NASDAQ weakness will weigh on sentiment. Watch for capitulation at ~3085 support.",
+    "omxClose": null,
+    "magnitudeError": null,
+    "sectorImpacts": [
+      {
+        "sector": "Industrials",
+        "stocks": [
+          "Atlas Copco A",
+          "Volvo B",
+          "Sandvik"
+        ],
+        "direction": "MIXED",
+        "magnitude": "Slight Positive",
+        "reason": "USD/SEK +0.75% provides FX tailwind for exports, but global equity weakness and oil -5.41% create offsetting drag. Net modest positive from FX.",
+        "keyDriver": "strong_usd_sek_exporters"
+      },
+      {
+        "sector": "Banks",
+        "stocks": [
+          "SEB A",
+          "Handelsbanken A",
+          "Swedbank A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate",
+        "reason": "US 10Y yield +41bp to 4.354% expands NIM expectations. Defensible on broad risk-off as credit spread support.",
+        "keyDriver": "yields_up"
+      },
+      {
+        "sector": "Tech & Telecom",
+        "stocks": [
+          "Ericsson B",
+          "Hexagon B",
+          "Sinch"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "NASDAQ -0.90% overnight and weak sentiment flow pressures valuation. DCF compression from higher rates also headwind.",
+        "keyDriver": "nasdaq_down_risk_off"
+      },
+      {
+        "sector": "Pharma",
+        "stocks": [
+          "AstraZeneca",
+          "Essity B"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Slight",
+        "reason": "Defensive rotation into safety on risk-off; yield pressure is secondary benefit for stable cash flows.",
+        "keyDriver": "risk_off_defensive"
+      },
+      {
+        "sector": "Mining & Materials",
+        "stocks": [
+          "Boliden",
+          "SSAB A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate",
+        "reason": "Gold +0.18% and copper +1.71% support Boliden directly. Oil down -5.41% helps SSAB on input costs.",
+        "keyDriver": "copper_gold_commodities"
+      },
+      {
+        "sector": "Consumer & Retail",
+        "stocks": [
+          "H&M B"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Slight",
+        "reason": "EUR/SEK +0.55% increases sourcing costs; risk-off sentiment pressures discretionary. Oil decline offers minimal offset.",
+        "keyDriver": "weak_eur_sek_sourcing"
+      },
+      {
+        "sector": "Real Estate",
+        "stocks": [
+          "Fastighets AB Balder",
+          "Castellum"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Slight",
+        "reason": "US 10Y +41bp translates to higher Swedish mortgage yields; refinancing pressure outweighs any beta-off benefit.",
+        "keyDriver": "yields_up_refinancing"
+      }
+    ],
+    "marketSnapshot": {
+      "DAX 40": {
+        "change": -0.271,
+        "corr": 0.89,
+        "region": "Europe"
+      },
+      "CAC 40": {
+        "change": -0.465,
+        "corr": 0.85,
+        "region": "Europe"
+      },
+      "FTSE 100": {
+        "change": 0.113,
+        "corr": 0.78,
+        "region": "Europe"
+      },
+      "S&P 500": {
+        "change": -0.489,
+        "corr": 0.52,
+        "region": "Americas"
+      },
+      "Dow Jones": {
+        "change": -0.053,
+        "corr": 0.51,
+        "region": "Americas"
+      },
+      "NASDAQ": {
+        "change": -0.897,
+        "corr": 0.49,
+        "region": "Americas"
+      },
+      "Nikkei 225": {
+        "change": -1.024,
+        "corr": 0.38,
+        "region": "Asia"
+      },
+      "Hang Seng": {
+        "change": 1.503,
+        "corr": 0.31,
+        "region": "Asia"
+      },
+      "Shanghai": {
+        "change": 0.662,
+        "corr": 0.22,
+        "region": "Asia"
+      }
+    },
+    "technicals": {
+      "rsi": {
+        "value": 43.41,
+        "signal": "neutral"
+      },
+      "macd": {
+        "macd": 22.4107,
+        "signal": 25.6401,
+        "histogram": -3.2294,
+        "crossover": "bearish",
+        "above_signal": false
+      },
+      "bollinger": {
+        "upper": 3233.68,
+        "middle": 3074.06,
+        "lower": 2914.44,
+        "pct_b": 0.443,
+        "band_width": 10.38,
+        "position": "lower_half"
+      },
+      "moving_averages": {
+        "ma50": 3065.16,
+        "ma50_pct": -0.3,
+        "above_ma50": false,
+        "ma200": 2836.34,
+        "ma200_pct": 7.74,
+        "above_ma200": true,
+        "cross": "none"
+      },
+      "adx": {
+        "adx": 6.28,
+        "plus_di": 26.68,
+        "minus_di": 23.53,
+        "trend_strength": "weak",
+        "bullish_trend": true
+      },
+      "stochastic": {
+        "k": 15.2,
+        "d": 33.58,
+        "zone": "oversold",
+        "k_above_d": false
+      },
+      "roc90": {
+        "value": 8.02,
+        "signal": "strong_momentum"
+      },
+      "week52": {
+        "high52": 3222.75,
+        "low52": 2398.84,
+        "pct_from_high": -5.17,
+        "pct_from_low": 27.4,
+        "pct_of_range": 79.8
+      }
+    },
+    "technicalSummary": [
+      "MACD bearish crossover",
+      "Above 200-MA (+7.7%)",
+      "Below 50-MA (-0.3%)",
+      "ADX 6 (weak trend, bullish bias)",
+      "Stochastic oversold (K=15)",
+      "3M momentum: +8.0% (strong_momentum)"
+    ]
+  },
+  {
     "date": "2026-04-28",
     "dateLabel": "Tue 28 Apr",
     "predicted": 0.15,
