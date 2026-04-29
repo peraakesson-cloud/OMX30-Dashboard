@@ -3,8 +3,8 @@
     "date": "2026-04-29",
     "dateLabel": "Wed 29 Apr",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.506,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "Oil heavy decline (-5.41%) reduces input cost inflation; mixed for industrials vs consumer"
     ],
     "narrative": "OMX30 faces a challenging open on Wednesday as global equity sentiment turns sour: DAX -0.27%, CAC -0.47%, and especially NASDAQ -0.90% signal broad risk-off in tech and growth. Technical deterioration is pronounced\u2014MACD has crossed below signal line (hist=-3.229), RSI at 43.41 is neutral but vulnerable, and Stochastic K at 15.2 indicates deeply oversold conditions that could trigger sharp mean-reversion selling. The index remains +7.7% above 200-MA but has slipped -0.3% below 50-MA, straddling support. USD/SEK +0.75% supports exporters (Atlas Copco, Volvo, Ericsson), but weak ADX (6.3) undermines trend confidence. US 10Y yield +41bp aids banks, yet oil's -5.41% collapse and overnight NASDAQ weakness will weigh on sentiment. Watch for capitulation at ~3085 support.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3040.54,
+    "magnitudeError": 0.306,
     "sectorImpacts": [
       {
         "sector": "Industrials",
