@@ -3,8 +3,8 @@
     "date": "2026-04-30",
     "dateLabel": "Thu 30 Apr",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.656,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "USD/SEK strength (+0.46%) supports exporters but insufficient to overcome broad sentiment headwinds"
     ],
     "narrative": "OMX30 faces a conflicted setup Thursday morning. While the index trades +6.0% above its 200-day MA in an official bull regime, overnight signals are distinctly negative: European bourses closed lower (FTSE especially weak at -1.16%), global correlation turned negative (-0.500%), and oil's 4.67% drop despite supply-disruption headlines signals demand anxiety rather than geopolitical risk-on. Technically, oversold conditions (RSI 32.83, Stochastic in deep oversold) suggest mean-reversion potential, but ADX at 13.7\u2014well below the 18 threshold\u2014severely weakens our confidence in any bounce; we reduce magnitude by 30% and flag this as a low-conviction environment. US 10Y yield spike to 4.418% (up 147bp) will support bank NIMs but compress tech and real estate valuations. The risk/reward tilts slightly negative.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3060.48,
+    "magnitudeError": 0.856,
     "sectorImpacts": [
       {
         "sector": "Banks",
