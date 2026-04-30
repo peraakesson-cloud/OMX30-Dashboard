@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-04-30",
+    "dateLabel": "Thu 30 Apr",
+    "predicted": -0.2,
+    "actual": null,
+    "result": "pending",
+    "confidence": "Low",
+    "recommendation": "NEUTRAL",
+    "technicalBias": "BEARISH",
+    "correlationBias": "BEARISH",
+    "drivers": [
+      "Weak European close (DAX -0.27%, CAC -0.39%, FTSE -1.16%) with negative correlation signal (-0.500%)",
+      "Oil down 4.67% to 112.5 despite headline about supply disruption \u2014 demand concern signals risk-off",
+      "OMX30 oversold (RSI 32.83, Stochastic K=3.8) but ADX weak at 13.7 limits reversal confidence",
+      "Yield spike (US 10Y +147bp) compresses valuations; tech/real estate exposed while bank NIM benefit offset by macro caution",
+      "USD/SEK strength (+0.46%) supports exporters but insufficient to overcome broad sentiment headwinds"
+    ],
+    "narrative": "OMX30 faces a conflicted setup Thursday morning. While the index trades +6.0% above its 200-day MA in an official bull regime, overnight signals are distinctly negative: European bourses closed lower (FTSE especially weak at -1.16%), global correlation turned negative (-0.500%), and oil's 4.67% drop despite supply-disruption headlines signals demand anxiety rather than geopolitical risk-on. Technically, oversold conditions (RSI 32.83, Stochastic in deep oversold) suggest mean-reversion potential, but ADX at 13.7\u2014well below the 18 threshold\u2014severely weakens our confidence in any bounce; we reduce magnitude by 30% and flag this as a low-conviction environment. US 10Y yield spike to 4.418% (up 147bp) will support bank NIMs but compress tech and real estate valuations. The risk/reward tilts slightly negative.",
+    "omxClose": null,
+    "magnitudeError": null,
+    "sectorImpacts": [
+      {
+        "sector": "Banks",
+        "stocks": [
+          "SEB A",
+          "Handelsbanken A",
+          "Swedbank A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Modest",
+        "reason": "US 10Y yield +147bp to 4.418% expands NIM outlook; however, broader macro caution limits enthusiasm.",
+        "keyDriver": "yields_up"
+      },
+      {
+        "sector": "Industrials",
+        "stocks": [
+          "Volvo B",
+          "Atlas Copco A",
+          "Sandvik"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "Oil down 4.67% raises input cost uncertainty; USD/SEK strength (+0.46%) provides partial offset for exporters but insufficient.",
+        "keyDriver": "oil_down_and_usd_sek_up"
+      },
+      {
+        "sector": "Mining & Materials",
+        "stocks": [
+          "Boliden",
+          "SSAB A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Modest",
+        "reason": "Gold +1.14% to 4597 and copper +1.17% to 5.947 provide direct revenue tailwinds; Boliden particularly supported.",
+        "keyDriver": "gold_up_copper_up"
+      },
+      {
+        "sector": "Tech & Telecom",
+        "stocks": [
+          "Ericsson B",
+          "Hexagon B",
+          "Sinch"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "NASDAQ flat overnight but yield spike compresses DCF valuations; weak ADX reduces sentiment confidence.",
+        "keyDriver": "yields_up_dcf_compression"
+      },
+      {
+        "sector": "Real Estate",
+        "stocks": [
+          "Fastighets AB Balder",
+          "Castellum"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "Yield spike to 4.418% increases refinancing costs and caps valuations; defensive bid limited by macro caution.",
+        "keyDriver": "yields_up"
+      },
+      {
+        "sector": "Consumer & Retail",
+        "stocks": [
+          "H&M B"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Modest",
+        "reason": "Oil down suggests some spending relief, but weak EUR/SEK (+0.07%) slightly raises sourcing cost pressure.",
+        "keyDriver": "oil_down_partial_offset"
+      },
+      {
+        "sector": "Pharma & Defensives",
+        "stocks": [
+          "AstraZeneca",
+          "Essity B"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Modest",
+        "reason": "Risk-off sentiment and yield compression may trigger modest defensive rotation into quality; still dampened by low ADX.",
+        "keyDriver": "risk_off_defensive_rotation"
+      }
+    ],
+    "marketSnapshot": {
+      "DAX 40": {
+        "change": -0.265,
+        "corr": 0.89,
+        "region": "Europe"
+      },
+      "CAC 40": {
+        "change": -0.394,
+        "corr": 0.85,
+        "region": "Europe"
+      },
+      "FTSE 100": {
+        "change": -1.158,
+        "corr": 0.78,
+        "region": "Europe"
+      },
+      "S&P 500": {
+        "change": -0.04,
+        "corr": 0.52,
+        "region": "Americas"
+      },
+      "Dow Jones": {
+        "change": -0.57,
+        "corr": 0.51,
+        "region": "Americas"
+      },
+      "NASDAQ": {
+        "change": 0.038,
+        "corr": 0.49,
+        "region": "Americas"
+      },
+      "Nikkei 225": {
+        "change": -1.056,
+        "corr": 0.38,
+        "region": "Asia"
+      },
+      "Hang Seng": {
+        "change": -1.104,
+        "corr": 0.31,
+        "region": "Asia"
+      },
+      "Shanghai": {
+        "change": 0.15,
+        "corr": 0.22,
+        "region": "Asia"
+      }
+    },
+    "technicals": {
+      "rsi": {
+        "value": 32.83,
+        "signal": "neutral"
+      },
+      "macd": {
+        "macd": 9.0879,
+        "signal": 20.8504,
+        "histogram": -11.7625,
+        "crossover": "none",
+        "above_signal": false
+      },
+      "bollinger": {
+        "upper": 3205.98,
+        "middle": 3085.62,
+        "lower": 2965.27,
+        "pct_b": 0.187,
+        "band_width": 7.8,
+        "position": "lower_half"
+      },
+      "moving_averages": {
+        "ma50": 3061.14,
+        "ma50_pct": -1.66,
+        "above_ma50": false,
+        "ma200": 2841.21,
+        "ma200_pct": 5.95,
+        "above_ma200": true,
+        "cross": "none"
+      },
+      "adx": {
+        "adx": 13.72,
+        "plus_di": 19.42,
+        "minus_di": 25.6,
+        "trend_strength": "weak",
+        "bullish_trend": false
+      },
+      "stochastic": {
+        "k": 3.76,
+        "d": 8.1,
+        "zone": "oversold",
+        "k_above_d": false
+      },
+      "roc90": {
+        "value": 6.27,
+        "signal": "strong_momentum"
+      },
+      "week52": {
+        "high52": 3222.75,
+        "low52": 2411.78,
+        "pct_from_high": -6.59,
+        "pct_from_low": 24.82,
+        "pct_of_range": 73.8
+      }
+    },
+    "technicalSummary": [
+      "MACD below signal",
+      "Above 200-MA (+6.0%)",
+      "Below 50-MA (-1.7%)",
+      "ADX 14 (weak trend, bearish bias)",
+      "Stochastic oversold (K=4)",
+      "3M momentum: +6.3% (strong_momentum)"
+    ]
+  },
+  {
     "date": "2026-04-29",
     "dateLabel": "Wed 29 Apr",
     "predicted": -0.2,
