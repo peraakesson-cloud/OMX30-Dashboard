@@ -3,8 +3,8 @@
     "date": "2026-05-01",
     "dateLabel": "Fri 01 May",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.656,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -15,8 +15,8 @@
       "Yield decline (-63bp on US 10Y) reduces refinancing pressure; OMX30 +7.7% above 200-MA sustains bull regime"
     ],
     "narrative": "OMX30 opens in a technically ambiguous bull regime: +7.7% above the 200-day MA but only -0.1% from the 50-day, with RSI at 41 showing neutral positioning and MACD below signal. The ADX at 13.7 flags weak trend conviction, triggering a 30% confidence reduction per protocol. However, European peers rallied solidly overnight (DAX +141bp, CAC +53bp) and the weighted correlation signal is constructive at +0.639%. Copper strength (+135bp) is a tailwind for Boliden and materials, while the -63bp drop in US 10Y yields removes some tech DCF headwind. Key risk: MACD remains bearish, RSI is nowhere near reversal extremes, and geopolitical headlines (Iran-Israel tensions) could reignite risk-off behavior despite this morning's positive tone.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3060.49,
+    "magnitudeError": 0.156,
     "sectorImpacts": [
       {
         "sector": "Industrials",
