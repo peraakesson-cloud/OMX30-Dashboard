@@ -3,8 +3,8 @@
     "date": "2026-05-04",
     "dateLabel": "Mon 04 May",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.817,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "RSI 43.88 neutral but approaching oversold \u2014 mean reversion risk if selling accelerates"
     ],
     "narrative": "OMX30 enters Monday in a conflicted technical posture. While the index remains +7.9% above its 200-day MA and shows strong 90-day momentum (+9.1%), weak ADX (1.8) with bearish directional bias and MACD falling below signal strip conviction from the bull setup. Global cues are mixed: NASDAQ +0.89% supports tech sentiment, but CAC 40's -0.87% and oil's sharp +2.80% rally create crosscurrents. Rising geopolitical tension (Iran/Hormuz) has spiked VIX to 18.08 (+6.42%), while US yields fell 27bp to 4.378%, easing some refinancing pressure but not enough to offset energy cost headwinds. The index sits 4.8% from its 52-week high and only +0.3% above the 50-MA\u2014near-term support will be critical.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3035.49,
+    "magnitudeError": 1.017,
     "sectorImpacts": [
       {
         "sector": "Industrials",
