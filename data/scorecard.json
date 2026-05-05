@@ -3,8 +3,8 @@
     "date": "2026-05-05",
     "dateLabel": "Tue 05 May",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.216,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "RSI 37.08 approaching oversold \u2014 mean reversion risk"
     ],
     "narrative": "OMX30 faces a mixed morning with fragmented global signals. DAX and CAC rallied overnight while S&P 500 and Dow fell 0.41\u20131.13%, creating near-zero correlation bias (\u22120.037%). Domestically, the index sits at 79% of 52-week range and 5.2% below highs despite +7.4% above 200-MA, signaling conflicting strength/weakness. Technically, weak ADX (15.9, well below 18) and MACD below signal demand confidence reduction by 30%. Copper's +2.92% surge and gold's +0.74% gain are bright spots for Boliden and mining stocks. USD/SEK at 9.287 (+0.82%) supports Volvo, Atlas Copco, and Ericsson, but sector rotation into banks (yields up +155bps on US 10Y) faces headwinds from stretched valuations and weak momentum.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3072.42,
+    "magnitudeError": 1.016,
     "sectorImpacts": [
       {
         "sector": "Banks",
