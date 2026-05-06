@@ -3,8 +3,8 @@
     "date": "2026-05-06",
     "dateLabel": "Wed 06 May",
     "predicted": 1.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 2.829,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Stochastic overbought (K=81.9) signals mean reversion risk; RSI 54.45 neutral but elevated"
     ],
     "narrative": "OMX30 opens on strong European tailwinds with DAX and CAC leading at +2.5\u20133.2%, supported by a +1.813% weighted correlation signal and risk-on sentiment from Iran peace developments. Oil's -7.85% collapse is a net positive for industrials and consumer sectors, offsetting input cost inflation. However, technicals warn caution: the index sits +10.6% above its 200-MA, Stochastic K is overbought at 81.9, and MACD has turned negative (hist=-2.915). Weak ADX of 14.8 means trending conviction is low, requiring 30% confidence haircut. Yields falling sharply (-0.68% US 10Y) create a mixed environment\u2014positive for equities but negative for bank NIM expansion. Expect a modest opening rally (+1.0\u20131.5%) but watch for profit-taking into overbought conditions.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3159.33,
+    "magnitudeError": 1.629,
     "sectorImpacts": [
       {
         "sector": "Industrials",
