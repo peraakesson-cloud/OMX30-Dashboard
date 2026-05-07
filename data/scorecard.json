@@ -3,8 +3,8 @@
     "date": "2026-05-07",
     "dateLabel": "Thu 07 May",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.52,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -16,8 +16,8 @@
       "Technical setup remains constructive despite proximity to 52W high (-2.4%); RSI 53.29 neutral avoids mean reversion signal; ADX 21 supports trend strength"
     ],
     "narrative": "OMX30 enters Thursday on the back of a powerful Asia-US risk rally, with NASDAQ's +2.02% and Nikkei's +5.58% overnight providing strong positive momentum. Locally, the index sits +10.3% above the 200-day moving average in confirmed bull regime, supported by a bullish MACD crossover and 90-day ROC of +10.7%. Oil's -3.22% retreat to $98 eases input-cost concerns for heavy industrials, while gold's +1.48% and copper's +1.26% directly support Boliden and mining equities. Technicals show RSI 53.29 (neutral, no mean reversion flag) and ADX 21 (moderate trend strength), placing us in the upper half of the Bollinger band at %B=0.74. The main risk is reversal from the 52W high proximity (-2.4%), and US Jobless Claims at 14:30 CET could introduce intraday volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3111.32,
+    "magnitudeError": 2.02,
     "sectorImpacts": [
       {
         "sector": "Industrials (28% weight)",
