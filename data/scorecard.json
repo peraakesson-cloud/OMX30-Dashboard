@@ -3,8 +3,8 @@
     "date": "2026-05-08",
     "dateLabel": "Fri 08 May",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.21,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "UK political uncertainty (Labour losses, Reform surge) creates regional headwind for pan-European sentiment"
     ],
     "narrative": "OMX30 faces a challenging open as European peers (DAX -0.73%, CAC -0.68%) post overnight declines and global correlation deteriorates to -0.448%. The index maintains structural strength (still +7.6% above 200-MA, ROC-90 +8.0%), but technical conviction is fragile: ADX at 12.3 (below 18 threshold) requires confidence reduction per rules, and RSI at 36.31 approaches oversold levels prone to mean reversion whipsaws. The 83bp rise in US 10Y yields benefits banks (NIM expansion) but pressures real estate refinancing costs and technology DCF multiples. Commodity divergence\u2014copper rallying sharply (+2.82%) while oil flat\u2014creates mixed input-cost signals for industrials. UK political turmoil adds regional anxiety without direct OMX catalyst.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3073.69,
+    "magnitudeError": 1.01,
     "sectorImpacts": [
       {
         "sector": "Banks",
