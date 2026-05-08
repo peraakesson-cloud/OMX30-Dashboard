@@ -1,5 +1,202 @@
 [
   {
+    "date": "2026-05-08",
+    "dateLabel": "Fri 08 May",
+    "predicted": -0.2,
+    "actual": null,
+    "result": "pending",
+    "confidence": "Low",
+    "recommendation": "NEUTRAL",
+    "technicalBias": "NEUTRAL",
+    "correlationBias": "BEARISH",
+    "drivers": [
+      "Global equity weakness (-0.45% weighted correlation signal) with DAX/CAC leading declines",
+      "Weak ADX (12.3) reduces conviction; RSI 36.31 approaching oversold territory signals mean reversion risk",
+      "Copper strength (+2.82%) offsets oil stability, but yields up 83bp constrains tech/real estate valuations",
+      "UK political uncertainty (Labour losses, Reform surge) creates regional headwind for pan-European sentiment"
+    ],
+    "narrative": "OMX30 faces a challenging open as European peers (DAX -0.73%, CAC -0.68%) post overnight declines and global correlation deteriorates to -0.448%. The index maintains structural strength (still +7.6% above 200-MA, ROC-90 +8.0%), but technical conviction is fragile: ADX at 12.3 (below 18 threshold) requires confidence reduction per rules, and RSI at 36.31 approaches oversold levels prone to mean reversion whipsaws. The 83bp rise in US 10Y yields benefits banks (NIM expansion) but pressures real estate refinancing costs and technology DCF multiples. Commodity divergence\u2014copper rallying sharply (+2.82%) while oil flat\u2014creates mixed input-cost signals for industrials. UK political turmoil adds regional anxiety without direct OMX catalyst.",
+    "omxClose": null,
+    "magnitudeError": null,
+    "sectorImpacts": [
+      {
+        "sector": "Banks",
+        "stocks": [
+          "SEB A",
+          "Handelsbanken A",
+          "Swedbank A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate",
+        "reason": "US 10Y yield +83bp to 4.39% expands NIM outlook; Swedish mortgage spreads benefit.",
+        "keyDriver": "yields_up"
+      },
+      {
+        "sector": "Real Estate",
+        "stocks": [
+          "Fastighets AB Balder",
+          "Castellum"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "Rising yields (+83bp) increase refinancing and discount rate pressures on property valuations.",
+        "keyDriver": "yields_up"
+      },
+      {
+        "sector": "Tech & Telecom",
+        "stocks": [
+          "Ericsson B",
+          "Hexagon B",
+          "Sinch"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Mild",
+        "reason": "NASDAQ -0.13%, yield rise compresses DCF multiples, MACD below signal weakens momentum.",
+        "keyDriver": "nasdaq_down_yields_up"
+      },
+      {
+        "sector": "Mining & Materials",
+        "stocks": [
+          "Boliden"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Strong",
+        "reason": "Copper +2.82% and Gold +0.75% drive direct revenue lift; direct commodity price exposure.",
+        "keyDriver": "copper_gold_up"
+      },
+      {
+        "sector": "Industrials",
+        "stocks": [
+          "Atlas Copco A",
+          "Volvo B",
+          "Sandvik"
+        ],
+        "direction": "NEUTRAL",
+        "magnitude": "Mild",
+        "reason": "Mixed signals: copper strength offsets flat oil, weak ADX limits conviction, USD/SEK flat.",
+        "keyDriver": "commodity_divergence_weak_adx"
+      },
+      {
+        "sector": "Consumer & Retail",
+        "stocks": [
+          "H&M B"
+        ],
+        "direction": "NEUTRAL",
+        "magnitude": "Mild",
+        "reason": "EUR/SEK flat (-0.28%); sourcing cost pressures muted. Oil flat caps spending headwind.",
+        "keyDriver": "fx_neutral_oil_stable"
+      }
+    ],
+    "marketSnapshot": {
+      "DAX 40": {
+        "change": -0.729,
+        "corr": 0.89,
+        "region": "Europe"
+      },
+      "CAC 40": {
+        "change": -0.679,
+        "corr": 0.85,
+        "region": "Europe"
+      },
+      "FTSE 100": {
+        "change": -0.088,
+        "corr": 0.78,
+        "region": "Europe"
+      },
+      "S&P 500": {
+        "change": -0.38,
+        "corr": 0.52,
+        "region": "Americas"
+      },
+      "Dow Jones": {
+        "change": -0.628,
+        "corr": 0.51,
+        "region": "Americas"
+      },
+      "NASDAQ": {
+        "change": -0.127,
+        "corr": 0.49,
+        "region": "Americas"
+      },
+      "Nikkei 225": {
+        "change": -0.191,
+        "corr": 0.38,
+        "region": "Asia"
+      },
+      "Hang Seng": {
+        "change": -0.873,
+        "corr": 0.31,
+        "region": "Asia"
+      },
+      "Shanghai": {
+        "change": -0.003,
+        "corr": 0.22,
+        "region": "Asia"
+      }
+    },
+    "technicals": {
+      "rsi": {
+        "value": 36.31,
+        "signal": "neutral"
+      },
+      "macd": {
+        "macd": 11.8377,
+        "signal": 14.9848,
+        "histogram": -3.1471,
+        "crossover": "none",
+        "above_signal": false
+      },
+      "bollinger": {
+        "upper": 3185.29,
+        "middle": 3104.96,
+        "lower": 3024.63,
+        "pct_b": 0.291,
+        "band_width": 5.17,
+        "position": "lower_half"
+      },
+      "moving_averages": {
+        "ma50": 3053.9,
+        "ma50_pct": 0.57,
+        "above_ma50": true,
+        "ma200": 2855.22,
+        "ma200_pct": 7.57,
+        "above_ma200": true,
+        "cross": "none"
+      },
+      "adx": {
+        "adx": 12.31,
+        "plus_di": 19.34,
+        "minus_di": 24.77,
+        "trend_strength": "weak",
+        "bullish_trend": false
+      },
+      "stochastic": {
+        "k": 39.23,
+        "d": 61.71,
+        "zone": "neutral",
+        "k_above_d": false
+      },
+      "roc90": {
+        "value": 7.96,
+        "signal": "strong_momentum"
+      },
+      "week52": {
+        "high52": 3222.75,
+        "low52": 2424.04,
+        "pct_from_high": -4.7,
+        "pct_from_low": 26.71,
+        "pct_of_range": 81.1
+      }
+    },
+    "technicalSummary": [
+      "MACD below signal",
+      "Above 200-MA (+7.6%)",
+      "Above 50-MA (+0.6%)",
+      "ADX 12 (weak trend, bearish bias)",
+      "3M momentum: +8.0% (strong_momentum)"
+    ]
+  },
+  {
     "date": "2026-05-07",
     "dateLabel": "Thu 07 May",
     "predicted": 0.5,
