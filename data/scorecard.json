@@ -3,8 +3,8 @@
     "date": "2026-05-11",
     "dateLabel": "Mon 11 May",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.187,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "OMX30 firmly in bull regime (+7.8% vs 200-MA) but momentum softening (MACD below signal, RSI 40.27 neutral)"
     ],
     "narrative": "OMX30 opens Monday in a structurally bullish trend (+7.8% above 200-MA) but technical momentum is fading\u2014MACD below signal, RSI neutral at 40.27, and critically, ADX is weak at 14.9, signaling low directional conviction. Global equity markets showed mixed performance with Europe split (DAX +0.05%, CAC -0.69%) and Asia soft (Hang Seng -0.87%), while the weighted correlation signal is slightly negative at -0.049%. Rising US 10Y yields (+0.60%) and elevated VIX (+4.54% to 17.97) create a seesaw: banks benefit from wider NIMs but real estate and tech face headwinds, while surging oil (+2.81%) and copper (+3.87%) lift mining but pressures industrials and consumer spending. UK political turmoil (Starmer under siege) adds ambient risk-off sentiment. Given weak ADX momentum, OMX30 likely consolidates near the 50-MA at 3180 with modest upside bias capped by technicals.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3079.45,
+    "magnitudeError": 0.013,
     "sectorImpacts": [
       {
         "sector": "Banks",
