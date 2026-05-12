@@ -3,8 +3,8 @@
     "date": "2026-05-12",
     "dateLabel": "Tue 12 May",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.063,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "OMX30 technically mixed: long-term bull structure (+7.1% vs 200-MA) but MACD bearish below signal, RSI neutral at 40.8, ADX moderate (21.9) reducing conviction"
     ],
     "narrative": "OMX30 faces a conflicted morning as Continental weakness, UK political turmoil, and sharper US yields clash with a structurally bullish 200-MA backdrop. The weighted global correlation signal is mildly negative at -0.332%, with Europe down 0.5\u20131.2% but US and Asia holding steady. Domestically, the technicals lack urgency: MACD is below signal (hist -5.041), RSI sits neutral at 40.8, and ADX 21.9 signals moderate but bearish directional bias\u2014below the confidence threshold of 18. Oil's 3.5% surge and USD/SEK strength (+38bp) help exporters (Volvo, Atlas Copco, Ericsson) but simultaneously lift borrowing costs and input inflation, pressuring consumer and cyclical stocks. The OMX30 is +7.1% above the 200-MA and only +0.5% above the 50-MA, leaving it vulnerable to profit-taking if momentum stalls.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3046.71,
+    "magnitudeError": 0.863,
     "sectorImpacts": [
       {
         "sector": "Banks",
