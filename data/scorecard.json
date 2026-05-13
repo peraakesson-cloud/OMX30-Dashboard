@@ -3,8 +3,8 @@
     "date": "2026-05-13",
     "dateLabel": "Wed 13 May",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.046,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_TO_BEARISH",
@@ -16,8 +16,8 @@
       "RSI 39.66 neutral; MACD below signal and ADX 22.2 moderate with bearish DI bias suggests limited conviction"
     ],
     "narrative": "OMX30 opens into mixed European sentiment with DAX outperforming CAC and FTSE, while US equities finished soft (NASDAQ -0.71%) on rising Treasury yields now at 4.463%. The strong USD/SEK at 9.323 (+1.16%) and EUR/SEK at 10.92 (+0.58%) should support large-cap exporters (Volvo, Atlas Copco, Ericsson), but gains are capped by technical weakness: MACD below signal, ADX showing moderate strength with bearish DI bias, and the index still -5.4% from 52W highs. Copper's +2.04% surge is a bright spot for Boliden, but oil's stability and gold's modest +0.40% offer limited additional commodity tailwind. The index trades 6.5% above 200-MA in established bull trend, yet sits only +0.1% above 50-MA with RSI in neutral territory\u2014classic setup for choppy, range-bound trade.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3048.11,
+    "magnitudeError": 0.154,
     "sectorImpacts": [
       {
         "sector": "Industrials",
