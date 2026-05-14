@@ -3,8 +3,8 @@
     "date": "2026-05-14",
     "dateLabel": "Thu 14 May",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.046,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Risk-off sentiment (UK political uncertainty) may support defensive rotation"
     ],
     "narrative": "OMX30 opens with tailwinds from continental Europe, particularly Germany's +1.45% surge which typically correlates strongly with Swedish industrials. The weighted correlation signal of +0.517% leans constructive. However, technicals show caution: RSI at 39.66 is neutral-to-oversold, MACD below signal with negative histogram (-7.426), and ADX at 22.2 suggests moderate momentum with bearish DI bias. The index sits 6.5% above its 200-MA but only +0.1% above the 50-MA, indicating consolidation. USD/SEK at 9.323 (+0.33%) is constructive for exporters. Key risk: US 10Y yields at 4.481 compress tech valuations, and Shanghai weakness (-1.52%) signals Asia hesitation.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3048.11,
+    "magnitudeError": 0.354,
     "sectorImpacts": [
       {
         "sector": "Industrials",
