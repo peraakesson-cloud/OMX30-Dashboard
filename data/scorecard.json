@@ -3,8 +3,8 @@
     "date": "2026-05-15",
     "dateLabel": "Fri 15 May",
     "predicted": -0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.383,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_TO_BEARISH",
@@ -17,8 +17,8 @@
       "Moderate ADX (21.4) with bearish DI bias and MACD below signal reduce conviction"
     ],
     "narrative": "OMX30 faces a crosswind this morning following sharp European selloff (DAX -1.94%, CAC -1.59%, FTSE -1.82%) that correlates strongly with Swedish equities at r=0.85-0.89. US markets closed modestly positive (+0.77% S&P 500), but VIX spiked 10% and US 10Y yield fell 45bp to 4.461%, signaling a risk-off pivot. While OMX30 trades +5.8% above 200-MA in bull regime and USD/SEK strength (+1.35%) benefits heavy industrials and exporters, technical deterioration is concerning: oversold Stochastic (K=16.6), MACD below signal, and ADX moderate with bearish lean suggest exhaustion. Oil +2.41% adds input cost headwinds to Industrials and Consumer sectors. Expect opening weakness tracking Europe, with support at 3085 (lower Bollinger) and 3123 (yesterday close) as key holds.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3036.44,
+    "magnitudeError": 0.117,
     "sectorImpacts": [
       {
         "sector": "Industrials",
