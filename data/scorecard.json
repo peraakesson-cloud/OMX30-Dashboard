@@ -3,8 +3,8 @@
     "date": "2026-05-18",
     "dateLabel": "Mon 18 May",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.628,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "ADX 21.6 moderate with bearish DI bias\u2014confidence capped at Medium per rules"
     ],
     "narrative": "OMX30 opens to a split global backdrop: Continental Europe rallying hard (+1.49% DAX, +0.44% CAC) while US and Asia retreat, creating a neutral setup for Stockholm. The index remains in bull regime 6.6% above its 200-MA and 90-day momentum is strong (+5.3% ROC), but technical internals are mixed\u2014MACD below signal, RSI at 44 (neutral), and ADX 21.6 with bearish DI bias limiting conviction. Oil's +1.89% climb and weak EUR/SEK (-0.17%) create cross-currents: industrials face input cost headwinds while exporters lack currency support. The 52-week position at 79% of range suggests limited room for fresh upside without a catalyst.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3055.52,
+    "magnitudeError": 0.428,
     "sectorImpacts": [
       {
         "sector": "Industrials",
