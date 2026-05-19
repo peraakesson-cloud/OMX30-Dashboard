@@ -3,8 +3,8 @@
     "date": "2026-05-19",
     "dateLabel": "Tue 19 May",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.195,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Commodity weakness: Oil -1.20%, Copper -1.16% pressure industrials & mining"
     ],
     "narrative": "OMX30 opens to a mixed risk-off session despite remaining +6.7% above the 200-day MA in established bull trend. US yields surged 82bp overnight to 4.661%, creating meaningful headwinds for tech and real estate valuations, while weakness across NASDAQ (-0.72%), Asia (Hang Seng -1.11%), and commodities signals broad deleveraging. The weak ADX reading (13.2, below 18) severely dampens confidence in sustained directional moves \u2014 technical support erodes to ~30% credibility. SEK strength (both crosses down) offers minor tailwind for export-heavy industrials like Volvo and Atlas Copco, but copper's -1.16% drop and oil's -1.20% decline hit mining and industrial cost structures. Defensives (Essity, AstraZeneca) may benefit from modest risk-off rotation, while banks face compression from yield surge despite NIM gains.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3061.49,
+    "magnitudeError": 0.395,
     "sectorImpacts": [
       {
         "sector": "Banks",
