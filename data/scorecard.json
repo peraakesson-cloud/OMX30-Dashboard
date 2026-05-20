@@ -3,8 +3,8 @@
     "date": "2026-05-20",
     "dateLabel": "Wed 20 May",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.195,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Yield compression (US 10Y -163bps) benefits banking NIM while reducing tech DCF headwinds"
     ],
     "narrative": "OMX30 opens with tailwinds from a robust European rally led by DAX and CAC, signalling risk appetite recovery across the continent. The +1.05% correlation signal is constructive, though technicals present a mixed picture: strong momentum (ROC +5.5%, +7.9% above 200-MA) is offset by MACD below signal line and weak ADX (12.0), warranting a confidence cut to Medium per protocol. Copper's +2.43% is a direct positive for Boliden and materials; oil's -4.94% drop eases input cost pressures on industrials and consumer sectors. Yield compression supports banks' NIM outlook while removing some valuation pressure from tech. Key risk: ADX weakness means momentum may lack follow-through; watch for mean reversion if RSI drifts toward 70.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3061.49,
+    "magnitudeError": 0.305,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
