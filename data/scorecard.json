@@ -3,8 +3,8 @@
     "date": "2026-05-22",
     "dateLabel": "Fri 22 May",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.968,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "OMX30 +9.3% above 200-MA in established bull market"
     ],
     "narrative": "OMX30 opens with tailwinds from a strong European session led by DAX outperformance (+1.15%) and broad positive momentum across Asia (Nikkei +3.14%). Technicals remain constructive: the index sits +9.3% above its 200-day MA, MACD is above signal with robust histogram (+4.272), and ADX 31.7 confirms a strong bullish trend. However, Stochastic K at 81.9 signals overbought conditions, requiring caution on mean reversion risk into any intraday weakness. Copper's +1.85% jump is a material tailwind for industrials and mining. USD/SEK's +0.28% move supports large-cap exporters. The main risk is profit-taking given we sit at 90% of 52-week range.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3146.13,
+    "magnitudeError": 0.568,
     "sectorImpacts": [
       {
         "sector": "Industrials",
