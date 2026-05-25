@@ -3,8 +3,8 @@
     "date": "2026-05-25",
     "dateLabel": "Mon 25 May",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.484,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_BULLISH",
@@ -17,8 +17,8 @@
       "Overbought technicals (Bollinger %B=1.12, K=100) require caution despite bullish macro setup"
     ],
     "narrative": "OMX30 opens to strong European tailwinds with DAX and CAC rallying +1.26% and +1.35% respectively, supported by weighted correlation signal of +0.929%. The index sits 10.7% above its 200-MA in a defined bull market regime with ADX 35.6 confirming strong directional bias. However, technicals flash overbought warnings: RSI 68.6, Stochastic K at extremes (100.0), and price 1.12% above upper Bollinger Band signal imminent mean reversion risk. USD/SEK weakness (-0.76%) and EUR/SEK decline (-0.55%) create headwinds for Sweden's export champions despite positive risk sentiment. Copper strength (+0.58%) supports industrials and Boliden, offsetting modest oil weakness (-3.22%). The setup favors a cautious long bias with tight risk management given extended technical positioning.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3192.83,
+    "magnitudeError": 0.684,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
