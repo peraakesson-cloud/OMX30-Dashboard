@@ -3,8 +3,8 @@
     "date": "2026-05-26",
     "dateLabel": "Tue 26 May",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.96,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -16,8 +16,8 @@
       "Geopolitical risk (Iran strikes) keeps VIX elevated at 16.77 but contained; defensive rotation possible"
     ],
     "narrative": "OMX30 opens in solid bull market positioning with +9.8% above the 200-day moving average and MACD above signal, though technicals show overbought conditions (Stochastic K=81.4, RSI 61.42 approaching 70). Copper's +0.69% rally is a tailwind for industrials and Boliden. Declining US 10Y yields (-0.61% to 4.558%) ease refinancing concerns for real estate and reduce DCF compression risk for tech. However, stochastic overbought and 1.8% gap from 52-week highs signal mean reversion risk; geopolitical tension (Iran strikes) and VIX uptick suggest caution despite bullish technicals. Expect modest positive open driven by cyclical strength, but watch for profit-taking at resistance.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3162.19,
+    "magnitudeError": 1.36,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
