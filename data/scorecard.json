@@ -3,8 +3,8 @@
     "date": "2026-05-27",
     "dateLabel": "Wed 27 May",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.19,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_BULLISH",
@@ -17,8 +17,8 @@
       "Oil -6.26% reduces input cost headwinds for industrials and consumer sectors"
     ],
     "narrative": "OMX30 enters Wednesday session with solid European tailwinds and a constructive technical setup, sitting 9.9% above the 200-day MA in confirmed bull market regime. Stochastic overbought (K=84.4, D=86.5) signals potential mean reversion, though MACD remains above signal and ADX weak suggests low conviction directionally\u2014expect range-bound consolidation rather than breakout. Currency weakness (SEK softening vs EUR and USD) is a net positive for Volvo, Atlas Copco, and Ericsson, offsetting the NASDAQ lag. Energy selloff (Brent -6.26%) removes near-term cost inflation fears, benefiting consumer spending and industrial margins. Key risk: Stochastic mean reversion if OMX30 breaks below 50-MA support at ~3100; watch for any trade policy escalation tied to Trump headlines.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3156.18,
+    "magnitudeError": 0.59,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
