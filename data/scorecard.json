@@ -3,8 +3,8 @@
     "date": "2026-05-28",
     "dateLabel": "Thu 28 May",
     "predicted": 0.1,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.018,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Strong USD/SEK (+0.21%) supports exporters but offset by global risk sentiment"
     ],
     "narrative": "OMX30 enters the session technically well-positioned (bull regime, +8.4% above 200-MA, MACD bullish) but faces headwinds from deteriorating global sentiment and weak ADX (9.5), which dampens conviction on directional moves. European peers sold off overnight (DAX -0.02%, CAC -0.29%, FTSE -0.69%), and negative correlation signal (-0.227%) suggests decoupling is unlikely. Geopolitical risks (US-Iran escalation, trade rhetoric) have lifted VIX to 16.68 and are driving a subtle risk-off. USD/SEK strength (+0.21%) is constructive for Volvo, Atlas Copco, Ericsson, but sentiment compression in tech/commodities limits upside. Watch for early weakness into US Jobless Claims at 14:30 CET.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3124.05,
+    "magnitudeError": 1.118,
     "sectorImpacts": [
       {
         "sector": "Industrials & Machinery",
