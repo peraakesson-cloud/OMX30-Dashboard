@@ -3,8 +3,8 @@
     "date": "2026-05-29",
     "dateLabel": "Fri 29 May",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.449,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "VIX modest at 15.82; yields down -58bp supports risk appetite but limits bank NIM expansion"
     ],
     "narrative": "OMX30 opens with a constructive backdrop: European indices rally led by CAC 40's +0.95%, NASDAQ +0.91% supports tech sentiment, and Asia shows resilience despite Shanghai weakness. The OMX30 sits +7.9% above its 200-day moving average in a confirmed bull market regime, with MACD above signal and RSI at 58.57 suggesting moderate upside without overbought extremes. However, ADX at 2.4 signals weak directional momentum\u2014confidence should remain measured. Oil's -1.13% drop alleviates input-cost headwinds for industrials and consumer sectors, while gold's +0.96% gain provides a modest tailwind for mining. The key headwind: US 10Y yields fell 58bp, which pressures bank NIM assumptions and creates DCF compression for high-multiple tech names. Watch for mean-reversion risk if RSI pushes above 70 or breaks below 45.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3138.09,
+    "magnitudeError": 0.049,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
