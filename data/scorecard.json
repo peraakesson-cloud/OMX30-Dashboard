@@ -3,8 +3,8 @@
     "date": "2026-06-01",
     "dateLabel": "Mon 01 Jun",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.389,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -16,8 +16,8 @@
       "VIX spike to 15.77 (+2.94%) creates near-term caution despite positive technicals"
     ],
     "narrative": "OMX30 opens with tailwinds from broad European and Asian strength, particularly DAX's +0.40% and Asia's resilience despite Shanghai weakness. The index remains firmly in bull market territory at +8.2% above its 200-day moving average with MACD above signal and strong 90-day momentum (+5.2%), suggesting structural uptrend continuation. However, weak ADX (8.4) tempers conviction\u2014this is a low-conviction bull setup requiring confirmation. Rising VIX (+2.94%) and higher US yields (4.453%, -0.04%) inject caution; copper's +2.91% and oil's +2.18% surge favor industrial names but risk-off undertones are emerging. Watch for US Jobless Claims at 14:30 CET as the key catalyst.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3094.5,
+    "magnitudeError": 1.789,
     "sectorImpacts": [
       {
         "sector": "Industrials",
