@@ -3,8 +3,8 @@
     "date": "2026-06-02",
     "dateLabel": "Tue 02 Jun",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.791,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Weak ADX (6.1) limits conviction; RSI 63.22 neutral, no overbought mean-reversion risk"
     ],
     "narrative": "OMX30 opens to broad European strength, with DAX and CAC leading. The index sits firmly in bull market structure (+8.2% above 200-MA) and MACD remains above signal, though ADX weakness at 6.1 signals a lack of strong directional commitment. The +0.514% correlation signal and positive risk sentiment from Asia (Hang Seng +2.52%) provide tailwind. However, rising US yields (10Y +49bp to 4.475%) and elevated VIX (+0.81%) inject caution into tech and real estate. USD/SEK at 9.293 (up 0.58%) favours exporters (Volvo, Atlas Copco, Ericsson), while commodity strength (gold +1.78%, copper +1.51%) underpins Boliden. The geopolitical headline on US nuclear deployments in Europe adds background risk; watch for any escalation in market sentiment shifts.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3149.91,
+    "magnitudeError": 1.391,
     "sectorImpacts": [
       {
         "sector": "Banks",
