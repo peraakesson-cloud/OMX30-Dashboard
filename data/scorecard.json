@@ -1,5 +1,226 @@
 [
   {
+    "date": "2026-06-03",
+    "dateLabel": "Wed 03 Jun",
+    "predicted": 0.4,
+    "actual": null,
+    "result": "pending",
+    "confidence": "Medium",
+    "recommendation": "NEUTRAL_TO_BULLISH",
+    "technicalBias": "NEUTRAL",
+    "correlationBias": "SLIGHTLY_BULLISH",
+    "drivers": [
+      "Weak ADX (9.3) limits upside conviction despite bull regime",
+      "USD/SEK strength (+0.67%) supports major exporters (Volvo, Atlas Copco, Ericsson)",
+      "Oil spike (+2.48%) pressures industrials and consumer spending but supports energy allocations",
+      "Geopolitical escalation (US-Iran tensions) creates VIX uptick (+1.71%) \u2014 defensive tilt favored",
+      "US yields down 45bps supports tech valuations but mixed for bank NIM expansion"
+    ],
+    "narrative": "OMX30 opens in a structural bull market (+8.0% vs 200-MA) but technical momentum is diluted by weak ADX (9.3), signaling low conviction despite MACD above signal and neutral RSI (61.35). EUR/SEK weakness and USD/SEK strength provide tailwinds for export-heavy industrials and pharma; however, the 2.48% oil surge creates headwinds for input-intensive sectors and consumer discretionary. Geopolitical risk (US-Iran fire exchange) has lifted VIX 171bps and yields have compressed 45bps, triggering defensive positioning. Sector rotation toward AstraZeneca/Essity and mining (via gold stability) is likely, while banks face offsetting pressures: wider spreads from elevated rates offset by falling yields damaging loan pricing momentum.",
+    "omxClose": null,
+    "magnitudeError": null,
+    "sectorImpacts": [
+      {
+        "sector": "Industrials (28%)",
+        "stocks": [
+          "Atlas Copco A",
+          "Volvo B",
+          "Sandvik"
+        ],
+        "direction": "MIXED",
+        "magnitude": "Moderate",
+        "reason": "USD/SEK +0.67% boosts export pricing power, but Brent +2.48% raises input cost pressure. Net: slight headwind for margin-sensitive sub-segments.",
+        "keyDriver": "oil_up_and_strong_usd"
+      },
+      {
+        "sector": "Banks (18%)",
+        "stocks": [
+          "SEB A",
+          "Handelsbanken A",
+          "Swedbank A"
+        ],
+        "direction": "NEUTRAL",
+        "magnitude": "Low",
+        "reason": "US 10Y yield down 45bps (negative for loan pricing) partially offset by elevated rate volatility (VIX +1.71%, supports option revenue). Net: flat to slightly negative.",
+        "keyDriver": "yields_down"
+      },
+      {
+        "sector": "Pharma (12%)",
+        "stocks": [
+          "AstraZeneca",
+          "Essity B"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate",
+        "reason": "Geopolitical risk escalation (US-Iran tensions) triggers defensive rotation; lower yields support biotech valuation multiples. Risk-off environment favors counter-cyclical exposure.",
+        "keyDriver": "risk_off_and_yields_down"
+      },
+      {
+        "sector": "Tech & Telecom (12%)",
+        "stocks": [
+          "Ericsson B",
+          "Hexagon B",
+          "Sinch"
+        ],
+        "direction": "NEUTRAL",
+        "magnitude": "Low",
+        "reason": "NASDAQ flat (+0.03%) removes negative sentiment drag. Falling yields (+4.455 to lower) support growth multiples, but weak ADX limits upside enthusiasm. Hold.",
+        "keyDriver": "nasdaq_flat_and_yields_down"
+      },
+      {
+        "sector": "Mining & Materials (8%)",
+        "stocks": [
+          "Boliden",
+          "SSAB A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate",
+        "reason": "Gold +0.03% and copper -0.44% are mixed, but geopolitical premium in precious metals supports Boliden long-term. SSAB pressured by oil/energy costs.",
+        "keyDriver": "gold_stable_and_risk_off"
+      },
+      {
+        "sector": "Consumer & Retail (8%)",
+        "stocks": [
+          "H&M B",
+          "EVO Gaming"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "Brent +2.48% increases fuel/transport costs, pressuring consumer discretionary spending. EUR/SEK weakness (+0.47%) raises H&M sourcing costs. Avoid on weakness.",
+        "keyDriver": "oil_up_and_weak_eur"
+      },
+      {
+        "sector": "Vehicles & Auto (8%)",
+        "stocks": [
+          "Volvo Cars B",
+          "Volvo B"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate_to_Strong",
+        "reason": "USD/SEK +0.67% is a strong tailwind for export-heavy Volvo B; Volvo Cars B benefits from strong Nordic export demand and currency upside.",
+        "keyDriver": "strong_usd_sek"
+      },
+      {
+        "sector": "Real Estate (6%)",
+        "stocks": [
+          "Fastighets AB Balder",
+          "Castellum"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Low",
+        "reason": "Yields down 45bps supports refinancing, but VIX spike and risk-off sentiment typically pressures property valuations. Monitor closely.",
+        "keyDriver": "yields_down_but_risk_off"
+      }
+    ],
+    "marketSnapshot": {
+      "DAX 40": {
+        "change": -0.893,
+        "corr": 0.89,
+        "region": "Europe"
+      },
+      "CAC 40": {
+        "change": -0.208,
+        "corr": 0.85,
+        "region": "Europe"
+      },
+      "FTSE 100": {
+        "change": -0.195,
+        "corr": 0.78,
+        "region": "Europe"
+      },
+      "S&P 500": {
+        "change": 0.129,
+        "corr": 0.52,
+        "region": "Americas"
+      },
+      "Dow Jones": {
+        "change": 0.448,
+        "corr": 0.51,
+        "region": "Americas"
+      },
+      "NASDAQ": {
+        "change": 0.026,
+        "corr": 0.49,
+        "region": "Americas"
+      },
+      "Nikkei 225": {
+        "change": 2.499,
+        "corr": 0.38,
+        "region": "Asia"
+      },
+      "Hang Seng": {
+        "change": -1.556,
+        "corr": 0.31,
+        "region": "Asia"
+      },
+      "Shanghai": {
+        "change": 0.218,
+        "corr": 0.22,
+        "region": "Asia"
+      }
+    },
+    "technicals": {
+      "rsi": {
+        "value": 61.35,
+        "signal": "neutral"
+      },
+      "macd": {
+        "macd": 17.4106,
+        "signal": 16.528,
+        "histogram": 0.8826,
+        "crossover": "none",
+        "above_signal": true
+      },
+      "bollinger": {
+        "upper": 3200.58,
+        "middle": 3109.16,
+        "lower": 3017.73,
+        "pct_b": 0.623,
+        "band_width": 5.88,
+        "position": "upper_half"
+      },
+      "moving_averages": {
+        "ma50": 3064.71,
+        "ma50_pct": 2.19,
+        "above_ma50": true,
+        "ma200": 2899.72,
+        "ma200_pct": 8.0,
+        "above_ma200": true,
+        "cross": "none"
+      },
+      "adx": {
+        "adx": 9.26,
+        "plus_di": 24.69,
+        "minus_di": 20.5,
+        "trend_strength": "weak",
+        "bullish_trend": true
+      },
+      "stochastic": {
+        "k": 63.9,
+        "d": 60.64,
+        "zone": "neutral",
+        "k_above_d": true
+      },
+      "roc90": {
+        "value": 4.28,
+        "signal": "neutral"
+      },
+      "week52": {
+        "high52": 3222.75,
+        "low52": 2424.04,
+        "pct_from_high": -2.83,
+        "pct_from_low": 29.19,
+        "pct_of_range": 88.6
+      }
+    },
+    "technicalSummary": [
+      "MACD above signal",
+      "Above 200-MA (+8.0%)",
+      "Above 50-MA (+2.2%)",
+      "ADX 9 (weak trend, bullish bias)"
+    ]
+  },
+  {
     "date": "2026-06-02",
     "dateLabel": "Tue 02 Jun",
     "predicted": 0.4,
@@ -5529,103 +5750,6 @@
       },
       "Shanghai": {
         "change": 0.52,
-        "corr": 0.22,
-        "region": "Asia"
-      }
-    }
-  },
-  {
-    "date": "2026-04-21",
-    "dateLabel": "Mon 21 Apr",
-    "predicted": -0.47,
-    "actual": -0.26,
-    "result": "correct",
-    "confidence": "Medium",
-    "recommendation": "BEARISH",
-    "technicalBias": "BEARISH",
-    "correlationBias": "BEARISH",
-    "magnitudeError": 0.212,
-    "drivers": [
-      "DAX -1.15%",
-      "CAC -1.12%",
-      "Iran ceasefire uncertainty"
-    ],
-    "narrative": "Strongly negative European peers drove a clear bearish signal. DAX fell 1.15% and CAC dropped 1.12% on Iran ceasefire uncertainty. OMX30 traded below both moving averages with MACD in negative territory. Direction correct at -0.26% vs predicted -0.47% \u2014 the 50-MA near 3,185 provided partial support.",
-    "omxClose": 3153.29,
-    "sectorImpacts": [
-      {
-        "sector": "Industrials (28%)",
-        "stocks": [
-          "Atlas Copco A",
-          "Volvo B",
-          "Sandvik"
-        ],
-        "direction": "NEGATIVE",
-        "magnitude": "Moderate",
-        "reason": "European industrial bellwethers all fell on geopolitical uncertainty. Trade exposure adds risk.",
-        "keyDriver": "war_risk"
-      },
-      {
-        "sector": "Pharma (12%)",
-        "stocks": [
-          "AstraZeneca",
-          "Essity B"
-        ],
-        "direction": "POSITIVE",
-        "magnitude": "Mild",
-        "reason": "Defensive rotation on risk-off day. AstraZeneca outperformed index.",
-        "keyDriver": "defensive"
-      }
-    ],
-    "technicalSummary": [
-      "Below 200-MA (-3.3%)",
-      "Below 50-MA (-1.9%)",
-      "MACD below signal",
-      "ADX 20 moderate developing downtrend"
-    ],
-    "marketSnapshot": {
-      "DAX 40": {
-        "change": -1.15,
-        "corr": 0.89,
-        "region": "Europe"
-      },
-      "CAC 40": {
-        "change": -1.12,
-        "corr": 0.85,
-        "region": "Europe"
-      },
-      "FTSE 100": {
-        "change": -0.55,
-        "corr": 0.78,
-        "region": "Europe"
-      },
-      "S&P 500": {
-        "change": -0.24,
-        "corr": 0.52,
-        "region": "Americas"
-      },
-      "Dow Jones": {
-        "change": -0.01,
-        "corr": 0.51,
-        "region": "Americas"
-      },
-      "NASDAQ": {
-        "change": -0.26,
-        "corr": 0.49,
-        "region": "Americas"
-      },
-      "Nikkei 225": {
-        "change": 0.89,
-        "corr": 0.38,
-        "region": "Asia"
-      },
-      "Hang Seng": {
-        "change": 0.13,
-        "corr": 0.31,
-        "region": "Asia"
-      },
-      "Shanghai": {
-        "change": -0.24,
         "corr": 0.22,
         "region": "Asia"
       }
