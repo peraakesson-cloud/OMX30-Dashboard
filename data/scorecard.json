@@ -3,8 +3,8 @@
     "date": "2026-06-03",
     "dateLabel": "Wed 03 Jun",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.491,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL_TO_BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "US yields down 45bps supports tech valuations but mixed for bank NIM expansion"
     ],
     "narrative": "OMX30 opens in a structural bull market (+8.0% vs 200-MA) but technical momentum is diluted by weak ADX (9.3), signaling low conviction despite MACD above signal and neutral RSI (61.35). EUR/SEK weakness and USD/SEK strength provide tailwinds for export-heavy industrials and pharma; however, the 2.48% oil surge creates headwinds for input-intensive sectors and consumer discretionary. Geopolitical risk (US-Iran fire exchange) has lifted VIX 171bps and yields have compressed 45bps, triggering defensive positioning. Sector rotation toward AstraZeneca/Essity and mining (via gold stability) is likely, while banks face offsetting pressures: wider spreads from elevated rates offset by falling yields damaging loan pricing momentum.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3134.46,
+    "magnitudeError": 0.891,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
