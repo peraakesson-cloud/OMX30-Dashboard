@@ -3,8 +3,8 @@
     "date": "2026-06-04",
     "dateLabel": "Thu 04 Jun",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.027,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BULLISH",
@@ -16,8 +16,8 @@
       "Commodity divergence: gold +1.24% (defensive) vs oil -1.49% (demand concerns)"
     ],
     "narrative": "OMX30 sits in structurally bullish positioning\u20148.1% above 200-MA, MACD above signal, ADX 19.6 with bullish DI bias\u2014but faces headwinds from deteriorating global risk sentiment. Overnight declines across US equities (-0.74% to -1.21%), Asia weakness (Nikkei -1.36%, Hang Seng -1.48%), and the negative correlation signal (-0.417%) suggest caution despite domestic technicals. Rising US 10Y yields (4.491%, +0.81%) create a mixed picture: tailwinds for Swedish banks (NIM expansion) offset by headwinds for tech and real estate. The uptick in VIX (16.48) and flight-to-safety in gold suggest risk-off undercurrents that may cap upside. RSI 63.99 and Stochastic readings (K=66, D=68.2) remain neutral, offering no mean-reversion extremes.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3135.31,
+    "magnitudeError": 0.173,
     "sectorImpacts": [
       {
         "sector": "Banks",
