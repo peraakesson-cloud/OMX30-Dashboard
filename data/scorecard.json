@@ -3,8 +3,8 @@
     "date": "2026-06-05",
     "dateLabel": "Fri 05 Jun",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.603,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "Oil weakness and VIX uptick (15.7, +1.95%) suggesting risk-off sentiment building"
     ],
     "narrative": "OMX30 enters Friday in a technical consolidation phase: while the index maintains a structural bull market (7.6% above 200-MA), yesterday's MACD bearish crossover and neutral RSI suggest momentum is fading into overbought territory. Global correlation is weakly positive (+0.067%) but masks divergence\u2014US equities rallied on Dow strength while Asia declined sharply (Nikkei -1.31%, Hang Seng -1.15%), signaling selective risk appetite rather than broad risk-on. The 10Y US yield fell 31bp, pressuring tech valuations and reducing refinancing relief for real estate. Copper weakness (-1.39%) and flat Brent (-0.68%) limit industrial and energy tailwinds. Key risk: Friday positioning ahead of weekend geopolitical headlines (see: Iran/Russia cyber intelligence story) could trigger late-session volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3116.4,
+    "magnitudeError": 0.803,
     "sectorImpacts": [
       {
         "sector": "Banks",
