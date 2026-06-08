@@ -3,8 +3,8 @@
     "date": "2026-06-08",
     "dateLabel": "Mon 08 Jun",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.309,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Weak ADX (0.7) limits conviction; RSI 53.1 neutral \u2014 technical backdrop fragile"
     ],
     "narrative": "OMX30 faces a challenging open after heavy overnight selloff across US equities (NASDAQ -4.18%) and Asian bourses (Nikkei -3.85%), driven by surging US 10Y yields (+132bp to 4.536%) and escalating Middle East tensions. While OMX remains structurally bullish (6.1% above 200-MA), the combination of negative correlation signal (-1.468%), weak ADX (0.7), and MACD below signal suggests tactical vulnerability. Oil's 4.07% surge will pressure industrials and consumer demand, while yield strength diverts capital from growth and compresses DCF models. Key risk: further escalation in Iran conflict or additional Fed hawkishness could trigger rapid de-risking.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3106.76,
+    "magnitudeError": 0.091,
     "sectorImpacts": [
       {
         "sector": "Banks",
