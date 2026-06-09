@@ -3,8 +3,8 @@
     "date": "2026-06-09",
     "dateLabel": "Tue 09 Jun",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.176,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "VIX compression (-3.86%) indicates risk-on sentiment, though RSI 51.07 and Stochastic neutrality suggest limited upside momentum"
     ],
     "narrative": "OMX30 enters Tuesday on a constructive global backdrop with European indices firm (DAX +0.28%, CAC +0.69%) and Asian bourses rallying hard (Nikkei +2.17%). The index remains structurally bullish at +6.8% above its 200-day moving average, though technicals show mixed conviction: RSI sits neutral at 51.07, MACD is below signal (hist=-4.283), and ADX of 10.4 signals weak momentum with a bearish directional bias. Commodity moves favour selective exposure\u2014copper +1.41% and gold +0.53% benefit Boliden, while oil's -2.24% slide eases industrial input costs. The key friction point is weak USD/SEK (-0.36%), which pressures large exporters, though the 35bp rise in US 10Y yields supports bank net interest margins. VIX compression to 18.19 suggests appetite for risk, but combined with the low ADX reading, we recommend a cautious bullish tilt with reduced conviction.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3070.22,
+    "magnitudeError": 1.576,
     "sectorImpacts": [
       {
         "sector": "Banks",
