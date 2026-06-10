@@ -3,8 +3,8 @@
     "date": "2026-06-10",
     "dateLabel": "Wed 10 Jun",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.176,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -16,8 +16,8 @@
       "US 10Y yield +35bp compresses tech/defensive valuations despite NASDAQ +0.86%"
     ],
     "narrative": "OMX30 faces headwinds from strong continental selloff despite resilient US tech. DAX and FTSE declines (r=0.89, r=0.78) and VIX surge indicate risk-off sentiment overwhelming correlation support from USD/SEK strength (+0.41%). Technically, oversold stochastic (K=4.2) and weak ADX (13.2) create conflicting signals\u2014while the index sits +5.5% above 200-MA (supportive), MACD below signal and RSI 45.72 suggest consolidation. US jobless claims at 14:30 CET and continued yield volatility (4.552%) will be key.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3070.22,
+    "magnitudeError": 0.976,
     "sectorImpacts": [
       {
         "sector": "Banks",
