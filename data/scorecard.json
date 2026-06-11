@@ -3,8 +3,8 @@
     "date": "2026-06-11",
     "dateLabel": "Thu 11 Jun",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.527,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "ADX 32.6 with bearish DI bias signals downtrend persistence despite bull regime label"
     ],
     "narrative": "OMX30 faces headwinds from a sharp US equity selloff overnight (S&P -1.62%, NASDAQ -1.98%) despite continental Europe showing resilience (DAX +0.08%, CAC +0.63%). The weighted correlation signal is -0.363%, indicating US weakness is offsetting positive European technicals. While the index trades 5.7% above its 200-MA in bull regime, the MACD is below signal with deteriorating histogram (-9.392) and ADX 32.6 shows strong bearish directional bias. US 10Y yields spiking to 4.542% will pressure Swedish tech and real estate, though banks benefit from widening NIMs. Risk-off sentiment dominates despite modest commodity stability and USD strength.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3054.04,
+    "magnitudeError": 0.327,
     "sectorImpacts": [
       {
         "sector": "Banks",
