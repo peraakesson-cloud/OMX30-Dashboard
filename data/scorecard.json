@@ -3,8 +3,8 @@
     "date": "2026-06-12",
     "dateLabel": "Fri 12 Jun",
     "predicted": 1.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.604,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "OMX30 structural strength: +7.6% above 200-MA, in bull regime, although ADX 25.8 shows strong bearish DI bias"
     ],
     "narrative": "OMX30 opens to broad-based global tailwinds with DAX, CAC and NASDAQ all substantially higher overnight, generating a +1.96% weighted correlation signal. The yield environment has shifted notably lower (US 10Y down 174bp), which should ease DCF compression fears and support equity valuations, though the 40bps move in rates requires careful positioning. Technicals remain supportive\u2014the index sits +7.6% above its 200-day moving average in confirmed bull regime\u2014but RSI at 42.46 and MACD below signal line suggest consolidation or modest retracement risk. The ADX strength (25.8) with bearish DI bias indicates profit-taking pressure despite positive sentiment. Commodity strength (gold +3.76%, copper +2.93%) provides tailwind for Boliden and mining exposure, while weaker SEK (EUR/SEK -0.65%, USD/SEK -1.08%) benefits industrial exporters.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3113.57,
+    "magnitudeError": 0.404,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
