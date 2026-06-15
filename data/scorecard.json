@@ -3,8 +3,8 @@
     "date": "2026-06-15",
     "dateLabel": "Mon 15 Jun",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.666,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -15,8 +15,8 @@
       "OMX30 +8.1% above 200-MA in bull market but weak ADX (8.6) limits conviction; Stochastic overbought at K=82.1 signals mean-reversion risk"
     ],
     "narrative": "Global equities surge on Iran-US ceasefire breakthrough, with continental Europe leading (+1.28% DAX, +1.18% CAC). OMX30 enters Monday in established bull regime (+8.1% above 200-MA, +1.9% above 50-MA) supported by 1.094% weighted correlation bias and commodity strength (gold +3.40%, copper +0.96%). However, technical momentum flags: ADX at 8.6 (bearish-biased, below 18 threshold) reduces confidence to Medium; Stochastic K=82.1 is overbought; MACD remains below signal with negative histogram (-2.371). US 10Y yields jumped +54bp to 4.487%, benefiting banks but pressuring rate-sensitive tech. VIX compression (-5.77%) and oil weakness (-5.11%) suggest risk appetite but lack decisive trend conviction.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3134.32,
+    "magnitudeError": 0.166,
     "sectorImpacts": [
       {
         "sector": "Banks",
