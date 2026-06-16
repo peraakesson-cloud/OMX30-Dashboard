@@ -3,8 +3,8 @@
     "date": "2026-06-16",
     "dateLabel": "Tue 16 Jun",
     "predicted": 0.6,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.233,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Weak ADX (11.2) and overbought Stochastic (K=81.5) suggest consolidation rather than breakout"
     ],
     "narrative": "OMX30 opens with tailwinds from continental Europe's strong overnight close, particularly DAX's +1.71% surge, supported by a weighted correlation signal of +1.063%. The index remains well-positioned above the 200-MA (+8.0%) in a confirmed bull market, though technical momentum shows signs of exhaustion: Stochastic K at 81.5 signals overbought conditions, MACD has rolled below signal (histogram -2.538), and weak ADX (11.2) indicates directional conviction is fading. The spike in US 10Y yields to 4.487% creates a mixed backdrop\u2014positive for Swedish banks' NIM expectations but a headwind for tech DCF valuations. Copper remains firm and gold adds 0.86%, supporting cyclicals and mining. Key risk: mean reversion bias given overbought technicals and ADX weakness\u2014any weakness from 3180 resistance could spark quick profit-taking.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3141.63,
+    "magnitudeError": 0.367,
     "sectorImpacts": [
       {
         "sector": "Banks",
