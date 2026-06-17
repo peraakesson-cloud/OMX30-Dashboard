@@ -3,8 +3,8 @@
     "date": "2026-06-17",
     "dateLabel": "Wed 17 Jun",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.626,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BULLISH_STRUCTURE_WEAKENING",
@@ -17,8 +17,8 @@
       "USD/SEK weakness (-0.17%) headwind for exporters despite structural bull positioning"
     ],
     "narrative": "OMX30 enters Wednesday in a technical paradox: bull market structure (+8.2% above 200-MA, MACD bullish crossover) collides with overbought conditions (Stochastic 86.3, RSI 55.8 neutral-to-high) and weak trend confirmation (ADX 6.8). Global markets sent conflicting signals overnight\u2014US underperformance (S&P -0.57%, NASDAQ -1.15%) and Hong Kong weakness (-0.74%) offset by Nikkei strength (+0.72%), creating -7.5bp net correlation headwind. Commodity tailwinds (copper +0.67%, gold +0.42%, Brent +0.39%) provide isolated support for mining and energy-exposed industrials, but NASDAQ weakness threatens tech sentiment. USD/SEK depreciation (-0.17%) undermines the typical exporter advantage despite structural USD strength narratives.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3161.29,
+    "magnitudeError": 0.426,
     "sectorImpacts": [
       {
         "sector": "Banks",
