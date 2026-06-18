@@ -3,8 +3,8 @@
     "date": "2026-06-18",
     "dateLabel": "Thu 18 Jun",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.549,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "US 10Y yield +54bps supporting banks but commodities weakness (-1.95% Brent, -1.61% gold) pressuring materials"
     ],
     "narrative": "OMX30 enters Friday session in a technical bull market (+8.4% above 200-MA) but faces significant headwinds from overnight US equity collapse and negative global correlation (-0.479%). The Stochastic K=90.6 and D=83.4 signal overbought conditions, while ADX at 9.5 (below 18 threshold) indicates weak trend conviction requiring 30% confidence reduction. USD/SEK strength (+1.98%) should benefit industrial exporters (Volvo, Atlas Copco, Ericsson), but NASDAQ's -1.34% drop limits sentiment for tech/telecom names. Banks gain from elevated US yields (4.487% +54bps), but commodities weakness hits Boliden and SSAB. Risk-off momentum is minimal given VIX compression (-7.48%), limiting defensive rotation into pharma. Current technicals suggest consolidation near 3,120 with mean reversion risk if support breaks.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3178.64,
+    "magnitudeError": 0.349,
     "sectorImpacts": [
       {
         "sector": "Banks",
