@@ -3,8 +3,8 @@
     "date": "2026-06-19",
     "dateLabel": "Fri 19 Jun",
     "predicted": 0.1,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.549,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "CAUTIONARY",
@@ -17,8 +17,8 @@
       "VIX compression (-8.51%) masks underlying US equity volatility"
     ],
     "narrative": "OMX30 opens into a conflicted macro setup: Continental Europe rallies (DAX +0.76%, CAC +0.61%) but Anglo-Saxon markets tumble (S&P 500 -1.22%, NASDAQ -1.34%), resulting in -0.168% correlation signal. Technically, the index sits in a bull regime (+8.2% vs 200-MA, MACD bullish crossover) but stochastic overbought (86.4/75.9) and weak ADX (6.8) suggest fragile momentum. USD/SEK strength (+0.66%) and EUR/SEK appreciation (+0.25%) offer tailwinds for industrials/exporters, yet oil (-0.94%) and gold (-0.97%) weakness remove commodity support. The real risk: overbought conditions combined with thin trend conviction (ADX<18) make this a low-confidence entry; any negative US data could trigger quick reversal.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3178.64,
+    "magnitudeError": 0.449,
     "sectorImpacts": [
       {
         "sector": "Industrials",
