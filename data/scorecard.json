@@ -3,8 +3,8 @@
     "date": "2026-06-22",
     "dateLabel": "Mon 22 Jun",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.38,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_BULLISH",
@@ -17,8 +17,8 @@
       "Stochastic overbought (K=82.4) signals near-term consolidation risk"
     ],
     "narrative": "OMX30 enters Monday supported by strong NASDAQ performance (+1.91%) and positive Shanghai (+1.77%), though Continental Europe shows caution (DAX -0.10%, CAC -0.41%). The index remains firmly bullish at +7.9% above its 200-MA and +1.6% above 50-MA, but technicals warn of overbought conditions: Stochastic K/D readings of 82.4/88.0 suggest mean reversion risk in the near term. Yields have fallen 27bp on the US 10Y (4.451%), which supports tech valuations but slightly compresses bank NIM expansion. VIX spike to 17.25 (+5.18%) and UK political uncertainty (Starmer resignation) inject caution into the session open.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3190.72,
+    "magnitudeError": 0.12,
     "sectorImpacts": [
       {
         "sector": "Industrials",
