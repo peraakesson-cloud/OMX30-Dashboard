@@ -3,8 +3,8 @@
     "date": "2026-06-23",
     "dateLabel": "Tue 23 Jun",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.412,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Weak ADX (5.1) reduces technical conviction; RSI 47.7 neutral with mean-reversion risk"
     ],
     "narrative": "OMX30 opens into a mixed backdrop today. Global equities rolled over overnight\u2014DAX, CAC, and Nikkei all sharply lower\u2014creating a negative correlation signal (-1.128%) that typically precedes 0.2\u20130.5% opening weakness in Stockholm. While OMX30 technicals remain constructive (bull regime, +7% vs 200-MA, MACD positive), the weakness is structural rather than tactical: ADX is very weak at 5.1, which cuts conviction by ~30%, and VIX's sharp spike to 20.22 signals risk-off rotation. The one bright spot is USD/SEK strength (+0.92%), which should support large-cap exporters, but NASDAQ's -1.32% tumble undermines sentiment for tech and industrial bellwethers. Watch the open carefully for follow-through selling or a technical bounce off 3085 (lower Bollinger).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3145.66,
+    "magnitudeError": 1.212,
     "sectorImpacts": [
       {
         "sector": "Industrials",
