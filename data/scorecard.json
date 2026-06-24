@@ -3,8 +3,8 @@
     "date": "2026-06-24",
     "dateLabel": "Wed 24 Jun",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.041,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -15,8 +15,8 @@
       "Oil (-1.96%) and gold (-0.76%) decline reduce commodity tailwinds; yields down 27bp suggests growth concerns"
     ],
     "narrative": "OMX30 opens into a mixed macro environment. Global equity selloff overnight, particularly in US growth (NASDAQ -2.21%), has created headwinds despite a structurally bullish OMX30 technical setup (+7.2% vs 200-MA, MACD above signal). The broad negative correlation coefficient (-0.551%) and declining risk appetite (VIX -1.44% but still 19.2) argue for caution. However, USD/SEK strength (+1.55%) and maintained bull market regime provide some offset for large-cap exporters. Weak ADX (5.8) reduces conviction; mean reversion risk builds with Stochastic K at 70.8. Net: Watch for opening weakness followed by potential consolidation rather than follow-through selling.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3146.96,
+    "magnitudeError": 0.241,
     "sectorImpacts": [
       {
         "sector": "Industrials",
