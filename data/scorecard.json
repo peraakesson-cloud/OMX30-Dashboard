@@ -3,8 +3,8 @@
     "date": "2026-06-25",
     "dateLabel": "Thu 25 Jun",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.078,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_CAUTION",
@@ -17,8 +17,8 @@
       "Weak ADX 4.5 reduces conviction; reduce confidence and magnitude by 30%"
     ],
     "narrative": "OMX30 enters today anchored in bull regime (+7.8% vs 200-MA, +1.7% vs 50-MA) with supportive European opens and a +0.395% weighted correlation signal. Copper's sharp +2.45% rally and gold's +0.53% gain provide direct tailwinds to Boliden and industrials, while falling US 10Y yields (\u221227bp to 4.451%) ease real estate refinancing costs and tech valuation pressure. However, Stochastic K=83.3 D=75.5 signals overbought conditions with elevated mean reversion risk, and critically, ADX 4.5 (well below 18) indicates weak trend conviction\u2014warranting a 30% reduction in expected move magnitude and confidence downgrade. RSI 55.23 remains neutral but sits in transition zone; watch for rejection at upper Bollinger band (0.75 %B).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3180.88,
+    "magnitudeError": 0.678,
     "sectorImpacts": [
       {
         "sector": "Industrials",
