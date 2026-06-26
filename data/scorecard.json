@@ -3,8 +3,8 @@
     "date": "2026-06-26",
     "dateLabel": "Fri 26 Jun",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.859,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "MIXED",
@@ -17,8 +17,8 @@
       "VIX +4.50% to 19.74 suggests creeping risk aversion despite OMX30 technical strength"
     ],
     "narrative": "OMX30 faces conflicting signals this morning. Technical structure remains constructive\u20147.8% above 200-MA with MACD bullish and ADX moderately bullish\u2014but correlation headwinds are severe (-0.827% weighted signal) following broad European declines and sharp Asia selloff led by Nikkei's -4.15% plunge. Stochastic overbought conditions (81.7) combined with VIX's +4.50% spike and oil's -3.32% drop suggest profit-taking and demand destruction concerns are overriding domestic bull signals. USD/SEK weakness (-0.41%) hurts major exporters. Risk/reward tilts negative into the Friday close despite technicals remaining above key moving averages.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3153.55,
+    "magnitudeError": 0.659,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
