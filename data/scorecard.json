@@ -3,8 +3,8 @@
     "date": "2026-06-29",
     "dateLabel": "Mon 29 Jun",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.419,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "RSI 58.3 neutral\u2014no mean reversion warning; MACD above signal with +2.066 histogram confirms sustained bullish structure"
     ],
     "narrative": "OMX30 enters Monday in confirmed bull market structure: +7.3% above 200-MA, ADX 30.3 showing strong directional bias, MACD above signal line. Global backdrop is mixed (Europe flat to slightly negative, US marginally down Friday close), but Asia's overnight strength (Hang Seng +1.56%, Shanghai +1.16%) and commodity move (Brent +2.21%, copper +0.62%) provide positive tailwinds. Oil's jump is a double-edged sword\u2014it lifts Industrials (cost headwind) and pressures Consumer spending, but copper strength directly benefits Boliden. Technically, RSI at 58 offers room to run; Stochastic at K=74.8/D=79.1 signals potential consolidation but not reversal. Key risk: US Jobless Claims at 14:30 CET could trigger renewed risk-off if weaker than expected, and yields are already ebbing (10Y -0.46%), which may pressure bank NIM expansion narratives.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3166.78,
+    "magnitudeError": 0.019,
     "sectorImpacts": [
       {
         "sector": "Industrials",
