@@ -3,8 +3,8 @@
     "date": "2026-06-30",
     "dateLabel": "Tue 30 Jun",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.151,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "RSI 70.31 overbought and Stochastic K=96 flagging mean reversion risk; -1.0% from 52W high creates caution"
     ],
     "narrative": "OMX30 opens into a genuinely bullish setup: global equities printed strong gains (NASDAQ +206bps, DAX +88bps) and correlation signal at +67bps provides tailwind. The index sits +8.4% above its 200-day moving average in a bull regime with MACD above signal and ADX 35.2 confirming trend strength. However, technical overbought conditions (RSI 70.31, Stochastic K=96) and proximity to 52W highs (-1.0%) warrant tactical caution. Copper's +235bps surge and gold's +28bps directly benefit Boliden; oil +118bps pressures input-cost sensitive industrials. Yields down 46bps (US 10Y to 4.372%) is a mild headwind for banks but removes DCF compression pressure from Tech.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3203.22,
+    "magnitudeError": 0.651,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
