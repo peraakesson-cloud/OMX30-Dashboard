@@ -3,8 +3,8 @@
     "date": "2026-07-01",
     "dateLabel": "Wed 01 Jul",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.572,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "US yields down -46bp: reduces refinancing pressure and supports equity valuations"
     ],
     "narrative": "OMX30 opens into a firmly bullish technical environment with the index 8.5% above its 200-day moving average and ADX 58.9 signaling strong directional conviction. Global equity markets delivered broad-based strength overnight (S&P +0.79%, NASDAQ +1.52%, DAX +0.28%), supporting a positive correlation bias of +0.275%. However, RSI at 74.16 and Stochastic K/D both in overbought territory (89.5/87.9) flag mean reversion risk and warrant caution on fresh long entries. USD/SEK strength (+0.34%) provides a structural tailwind for Swedish exporters, though falling US 10Y yields (-46bp to 4.37%) create mixed signals: positive for equities on lower discount rates but compressive for bank NIM expansion. The index sits 0.8% below all-time highs with resistance at 3180 (50-MA) and support at 3085 (lower Bollinger band).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3184.91,
+    "magnitudeError": 0.972,
     "sectorImpacts": [
       {
         "sector": "Industrials",
