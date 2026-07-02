@@ -3,8 +3,8 @@
     "date": "2026-07-02",
     "dateLabel": "Thu 02 Jul",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.801,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "Overbought technicals (RSI 70.97, Stochastic K=82.3) signal mean reversion risk"
     ],
     "narrative": "OMX30 opens Thursday in a strong bull regime with +8.3% positioning above the 200-MA and a robust ADX of 48.7 signaling sustained uptrend momentum. Continental European peers delivered solid overnight gains (CAC +0.56%, FTSE +0.43%), offsetting weakness in tech-heavy NASDAQ (-0.66%) and Asia ex-Hong Kong. Commodity strength\u2014gold +0.47% and copper +0.52%\u2014provides direct support for Boliden and broader industrials, while weaker DXY (-0.40%) and modest USD/SEK depreciation (-0.14%) favor export-oriented names. However, RSI at 70.97 and Stochastic K=82.3 indicate overbought conditions, creating mean reversion risk and warranting tactical caution despite the bullish setup. Watch today's US Jobless Claims (14:30 CET) as a potential volatility trigger.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3210.41,
+    "magnitudeError": 0.401,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
