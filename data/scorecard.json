@@ -3,8 +3,8 @@
     "date": "2026-07-03",
     "dateLabel": "Fri 03 Jul",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.141,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_BULLISH",
@@ -16,8 +16,8 @@
       "USD/SEK weakness (-0.85%) slightly headwind for export champions; EUR/USD +0.70% supports multi-currency revenues"
     ],
     "narrative": "OMX30 opens Friday with solid structural support: the index trades +9.2% above its 200-day moving average in established bull regime, MACD remains above signal line, and ADX 42.7 signals strong trending conviction with bullish directional bias. However, RSI-14 at 69.06 and Stochastic K/D at 89.6/84.6 indicate overbought conditions requiring caution on mean reversion. Global markets show mixed signals\u2014Dow +1.14% and Asia strength (Nikkei +1.47%, Hang Seng +1.28%) contrast NASDAQ weakness (-0.80%), while precious metals surge (gold +1.98%, copper +1.83%) and oil edges lower. VIX dip to 15.92 suggests contained volatility, but positioning at 52-week highs leaves limited margin for disappointment.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3247.03,
+    "magnitudeError": 0.741,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
