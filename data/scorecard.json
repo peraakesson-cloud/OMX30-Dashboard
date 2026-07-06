@@ -3,8 +3,8 @@
     "date": "2026-07-06",
     "dateLabel": "Mon 06 Jul",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.354,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_BULLISH",
@@ -16,8 +16,8 @@
       "RSI 67.91 approaching overbought threshold \u2014 mean reversion warning"
     ],
     "narrative": "OMX30 enters Monday in a robust bull structure: 9.6% above the 200-day MA, MACD positive, and ADX 38.9 signaling strong directional bias. European bourses closed modestly higher Friday, with DAX and CAC both outperforming, providing positive overnight momentum. Commodity strength (copper +1.69%, gold +0.94%) props up Boliden and the industrials complex, while US yields edging higher (+22bp to 4.485%) creates a mild headwind for rate-sensitive tech but supports bank NIMs. However, stochastic oscillators are deeply overbought (K=88.4, D=88.0) and RSI at 67.91 signals exhaustion risk; combined with the index near 52-week highs, pullback toward the 3,123 pivot or lower Bollinger band (3,085) is tactically plausible. Geopolitical friction (Russia/NATO headlines) and NASDAQ's -0.80% decline inject caution.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3235.53,
+    "magnitudeError": 0.754,
     "sectorImpacts": [
       {
         "sector": "Banks",
