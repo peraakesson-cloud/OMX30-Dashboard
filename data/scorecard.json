@@ -3,8 +3,8 @@
     "date": "2026-07-07",
     "dateLabel": "Tue 07 Jul",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.929,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "Overbought stochastic (K=81, D=85.8) signals mean reversion risk"
     ],
     "narrative": "OMX30 opens into a mixed European backdrop (DAX -0.28% vs CAC/FTSE positive) but derives support from stronger US overnight closes, particularly NASDAQ's +1.12% run. The index sits at 98% of 52-week range, just -0.5% from highs, supported by genuine bull technicals: +9.2% above 200-MA, MACD positive, ADX 36.1 (strong directional bias). However, stochastic K/D at 81/85.8 flags overbought conditions and mean reversion risk. USD/SEK at 9.648 (+0.08%) provides tailwind for export-heavy names. Copper's +0.89% jump bolsters industrial input optimism. The weighted correlation signal remains slightly positive (+0.087%), but VIX's +1.61% tick and US yield rise (+0.22%) introduce caution\u2014rates now at 4.485% may start pressuring growth/tech and refinancing-sensitive real estate.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3205.46,
+    "magnitudeError": 1.329,
     "sectorImpacts": [
       {
         "sector": "Banks",
