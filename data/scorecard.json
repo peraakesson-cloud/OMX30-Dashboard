@@ -3,8 +3,8 @@
     "date": "2026-07-08",
     "dateLabel": "Wed 08 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.902,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "ADX 13.1 (weak trend) reduces technical conviction by 30%; weak bull bias insufficient to overcome macro headwinds"
     ],
     "narrative": "OMX30 faces conflicting signals heading into Wednesday. While the index maintains a structural bull setup (+7.3% vs 200-MA, MACD above signal), weak ADX (13.1) limits conviction. Overnight losses across Europe and Asia, combined with the correlation reading of -0.607%, create a tangible risk-off tone. US yields rising 98bp to 4.529% directly compress valuations in tech and telecom (Ericsson, Hexagon), a material headwind. Rising oil and stronger USD/SEK (+0.55%) offer some offset to exporters (Volvo, Atlas Copco), but industrial input-cost pressure from Brent +2.28% likely dominates. Banking sector should benefit from widened NIM spreads, but this is insufficient to drive broad-based upside in a risk-off environment. Expect a modest down open.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3144.48,
+    "magnitudeError": 1.702,
     "sectorImpacts": [
       {
         "sector": "Banks",
