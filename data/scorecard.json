@@ -3,8 +3,8 @@
     "date": "2026-07-09",
     "dateLabel": "Thu 09 Jul",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.333,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Geopolitical overhang (US-Iran escalation) keeps risk appetite subdued despite gold rally"
     ],
     "narrative": "OMX30 faces a technically muddled open with weak ADX (5.2) signaling low trend conviction despite a 6.7% bull-regime premium to 200-MA. Global cues are contradictory: Asian strength (Nikkei +138bps, Shanghai +166bps) battles US equity weakness (Dow -109bps, S&P -28bps), while copper surges +268bps and gold jumps +121bps\u2014typical risk-off/commodity rotation. US 10Y yields climbed 88bps to 4.569%, which should help Nordic banks but pressures real estate and tech. Geopolitical noise (Iran strikes) and weak ADX bias suggest range-bound trading; RSI at 48 offers no mean-reversion edge. Confidence is deliberately suppressed to Low per weak ADX rule (reduce by 30%).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3186.4,
+    "magnitudeError": 1.133,
     "sectorImpacts": [
       {
         "sector": "Banks",
