@@ -3,8 +3,8 @@
     "date": "2026-07-10",
     "dateLabel": "Fri 10 Jul",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.271,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "VIX uptick to 16.1 and 52W position (-2.2% from high) suggest market consolidation rather than breakout"
     ],
     "narrative": "OMX30 enters Friday supported by overnight US tech strength (NASDAQ +1.30%) and Asian recovery (Nikkei +1.20%), with correlation signal turning modestly bullish at +0.327%. However, technical structure remains choppy: ADX at 0.6 (well below 18) signals weak trend definition, MACD sits below signal line, and RSI 48.13 is neutral\u2014reducing confidence to Low. Yields fell 66bps overnight, pressuring bank NIM assumptions and dampening the typical summer risk-on narrative. USD/SEK weakness (-0.33%) and EUR/SEK decline (-0.25%) work against major exporters (Volvo, Atlas Copco, Ericsson). Copper's +0.76% pop and gold's modest -0.50% dip create mixed commodity signals. The index sits 7% above its 200-MA (bullish structure) but only 1.5% above 50-MA, with OMX30 52W range at 90% utilization and -2.2% from recent highs\u2014positioning suggests consolidation and mean-reversion risk.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3177.78,
+    "magnitudeError": 0.471,
     "sectorImpacts": [
       {
         "sector": "Banks",
