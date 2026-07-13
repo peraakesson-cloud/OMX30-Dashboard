@@ -3,8 +3,8 @@
     "date": "2026-07-13",
     "dateLabel": "Mon 13 Jul",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.334,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Geopolitical escalation (Iran/US strikes) creating macro uncertainty"
     ],
     "narrative": "OMX30 opens Monday in a technically mixed bull regime (+6.6% vs 200-MA) but faces headwinds from a sharply higher US 10Y yield (4.569%, +66bp), which compresses DCF multiples across tech and real estate. The weighted correlation signal is negative (-0.133%), and Asian indices sold off hard overnight (Nikkei -1.92%, Shanghai -2.06%), suggesting risk-off momentum despite the index's local strength. Brent crude +3.03% lifts energy but pressures industrials' input costs and consumer discretionary. VIX jumped 8.18%, flagging vol expansion that contradicts the weak ADX (0.8)\u2014a strong mean-reversion risk if momentum stalls. Geopolitical escalation (Iran/US strikes) and memory chip sector weakness add tail risk.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3167.16,
+    "magnitudeError": 0.534,
     "sectorImpacts": [
       {
         "sector": "Banks",
