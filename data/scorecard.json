@@ -3,8 +3,8 @@
     "date": "2026-07-14",
     "dateLabel": "Tue 14 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.138,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_TO_WEAK",
@@ -16,8 +16,8 @@
       "OMX30 technicals conflicted: bull regime vs RSI neutral, MACD below signal, Stochastic oversold, ADX critically weak at 4.6"
     ],
     "narrative": "OMX30 opens in a precarious state Tuesday morning. Global equities traded lower overnight (S&P -0.79%, NASDAQ -1.55%, DAX/CAC -0.43%/-0.63%), creating a -0.301% correlation headwind, while US 10Y yields surged +0.88% to 4.609%. The index sits +5.7% above its 200-MA but only +0.2% above the 50-MA, indicating near-term consolidation pressure. Technicals are conflicted: RSI 49 is neutral, MACD has turned below signal (hist=-7.245), and critically, ADX is extremely weak at 4.6 with bearish directional bias\u2014this mandates a 30% confidence reduction per protocol. The Stochastic K/D (7.2/25.2) flags oversold conditions, creating mean-reversion risk. Commodity strength (copper +2.37%, Brent +2.93%, gold +0.90%) offers sector-specific lifts but also hints at demand concerns and cost inflation.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3162.79,
+    "magnitudeError": 0.062,
     "sectorImpacts": [
       {
         "sector": "Banks",
