@@ -3,8 +3,8 @@
     "date": "2026-07-15",
     "dateLabel": "Wed 15 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.377,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -16,8 +16,8 @@
       "Oil +1.52% pressures industrials and consumer spending despite commodity tailwind to miners"
     ],
     "narrative": "OMX30 opens in a difficult spot: European peer weakness and a sharp US 10Y yield move (+0.88%) are conflicting headwinds despite positive Asia overnight and a 6.0% bull-market cushion above the 200-MA. The ADX at 0.7 is dangerously weak with bearish directional bias, and Stochastic K at 10.5 signals oversold conditions\u2014both reduce confidence in directional calls to 30% magnitude discount. MACD already below signal, %B in lower half, and RSI neutral at 50.5 suggest the market is digesting a momentum plateau. USD/SEK weakness (-0.49%) dulls the exporter narrative (Atlas Copco, Volvo, Ericsson), while rising rates hurt real estate refinancing. Oil's +1.52% gains create cross-currents: positive for Boliden on copper+gold, but negative for Industrials and Consumer on input/fuel costs.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3150.86,
+    "magnitudeError": 0.177,
     "sectorImpacts": [
       {
         "sector": "Banks",
