@@ -3,8 +3,8 @@
     "date": "2026-07-16",
     "dateLabel": "Thu 16 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.043,
+    "result": "partial",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -15,8 +15,8 @@
       "Copper strength (+1.35%) supports industrials but oil flat and yields collapsing (-87bp) compress bank NIM outlook"
     ],
     "narrative": "OMX30 opens to mixed signals: continental peers closed -0.30% to -0.41% while US finished modestly positive (S&P +0.38%, NASDAQ +0.62%), but Asian deterioration (Nikkei -2.79%, Shanghai -1.85%) has tempered risk appetite. The 4.8% premium to 200-MA suggests underlying strength, yet MACD trades below signal with a negative histogram (-9.818), RSI sits neutral at 45.19, and critically the stochastic K=0.1 is severely oversold\u2014classic mean reversion territory. ADX at 20.5 with bearish DI bias and Bollinger %B at 0.05 (lower half) confirm we are at technical inflection: either OMX30 bounces or rolls over. The -87bp collapse in US 10Y yield (now 4.545%) is the wild card\u2014devastating for bank NIM expansion and raising recession fears despite equity market superficial calm.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3149.51,
+    "magnitudeError": 0.157,
     "sectorImpacts": [
       {
         "sector": "Banks",
