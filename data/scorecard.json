@@ -3,8 +3,8 @@
     "date": "2026-07-17",
     "dateLabel": "Fri 17 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.082,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "OMX30 remains +5.9% above 200-MA but RSI neutral (48.22) and MACD below signal"
     ],
     "narrative": "OMX30 faces headwinds from a sharp global tech selloff and risk-off sentiment despite maintaining a structural bull market position (+5.9% above 200-MA). The NASDAQ's 1.47% decline and AI trade reversal signal weakness in growth sectors, while rising US yields (+53bp) apply DCF compression to Nordic tech and real estate. Swedish exporters find partial support from a stronger USD/SEK (+0.60%), but the elevated VIX (17.89) and negative correlation signal (-0.950%) suggest caution. MACD below signal line and moderate ADX (22.2 with bearish DI bias) reduce conviction; only +0.6% above 50-MA offers thin buffer. Watch for US Jobless Claims at 14:30 CET as a potential catalyst.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3146.94,
+    "magnitudeError": 0.118,
     "sectorImpacts": [
       {
         "sector": "Banks",
