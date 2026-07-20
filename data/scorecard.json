@@ -3,8 +3,8 @@
     "date": "2026-07-20",
     "dateLabel": "Mon 20 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.411,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "MIXED",
@@ -16,8 +16,8 @@
       "RSI 41.25 neutral\u2014no mean reversion extremes but room for downside"
     ],
     "narrative": "OMX30 opens Monday in conflicted territory. Global risk-off signals from Asia (Nikkei -4.03%) and US tech (NASDAQ -1.40%) create a -0.425% weighted correlation drag, while European bourses (DAX +0.22%, CAC +0.19%) offer modest support. Technicals reveal tension: the index trades +5.8% above 200-MA in bull regime, but MACD has crossed below signal (histogram -7.709), ADX is strong at 43.3 with bearish DI bias, and RSI 41.25 leaves room for pullback. Copper's +1.63% and gold's +0.45% are bright spots for mining/industrials. Falling VIX (-1.81%) and US yields (-61bp) suggest panic isn't imminent, but momentum is decelerating.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3134.0,
+    "magnitudeError": 0.211,
     "sectorImpacts": [
       {
         "sector": "Banks",
