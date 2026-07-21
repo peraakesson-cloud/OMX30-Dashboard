@@ -3,8 +3,8 @@
     "date": "2026-07-21",
     "dateLabel": "Tue 21 Jul",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.394,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "MIXED",
@@ -17,8 +17,8 @@
       "UK policy uncertainty (Burnham/Healey fiscal plans) creates cross-border noise"
     ],
     "narrative": "OMX30 faces a mixed macro picture on Tuesday morning: Asia's momentum (+3.26% Nikkei, +1.79% Shanghai) and commodity tailwinds (gold +1.65%, copper +2.97%) provide support, while the US close turned negative (S&P -0.19%, Dow -0.59%) and US 10Y yields spiked +125bps to 4.598%, creating DCF headwinds for growth and real estate. Technically, the index remains in a bull regime (+4.8% vs 200-MA) but sits -0.3% below the 50-MA with stochastic indicators deeply oversold (K=7.8, D=13.9), suggesting near-term mean reversion potential; however, ADX at 40.9 with bearish DI bias indicates strong selling pressure offsetting this. Positioning near the lower Bollinger band (%B=0.15) and -3.7% from the 52-week high reflects recent consolidation. The weighted correlation signal (+0.221%) and narrowing VIX (-5.68% to 17.59) suggest a patience-testing sideways session rather than a directional breakout.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3146.34,
+    "magnitudeError": 0.194,
     "sectorImpacts": [
       {
         "sector": "Banks",
