@@ -3,8 +3,8 @@
     "date": "2026-07-22",
     "dateLabel": "Wed 22 Jul",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.264,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "RSI 40.21 neutral but MACD below signal line warns momentum deterioration"
     ],
     "narrative": "OMX30 opens to conflicting signals: global risk appetite and strong US markets support a bullish setup, while technical deterioration and rising volatility (VIX +3.05%) introduce caution. The index sits +5.8% above its 200-MA but only +0.6% above 50-MA, with MACD rolling over and strong bearish ADX divergence signaling potential mean reversion. Brent crude at +4.07% is a headwind for industrials (28% of index), while rising yields (+65bps) help banks but compress tech valuations. The 52-week positioning at 88% of range leaves limited upside cushion.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3186.12,
+    "magnitudeError": 1.064,
     "sectorImpacts": [
       {
         "sector": "Banks",
