@@ -3,8 +3,8 @@
     "date": "2026-07-23",
     "dateLabel": "Thu 23 Jul",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.597,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -16,8 +16,8 @@
       "Oil crash -8.15% to 86.4 (despite headline geopolitical risk) suggests demand concerns"
     ],
     "narrative": "OMX30 faces headwinds from sharp European selloff overnight, with DAX and CAC both down >0.8% despite positive Asian close. US yields surging 63bp to 4.657% creates immediate DCF compression for Swedish Tech and Real Estate, while the strong ADX reading (42.5) with bearish directional bias signals conviction in the downturn rather than noise. RSI at 35.4 approaches oversold territory, raising mean reversion risk, but MACD remains below signal line and Bollinger positioning suggests support testing. Geopolitical risk (Houthis/Strait headlines) has failed to sustain oil strength (-8.15%), indicating market sees demand shock rather than supply panic.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3167.1,
+    "magnitudeError": 0.197,
     "sectorImpacts": [
       {
         "sector": "Tech & Telecom",
