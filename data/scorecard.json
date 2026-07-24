@@ -3,8 +3,8 @@
     "date": "2026-07-24",
     "dateLabel": "Fri 24 Jul",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.027,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "MIXED",
@@ -17,8 +17,8 @@
       "US tariff escalation (60 countries) creating macro uncertainty for Swedish industrials"
     ],
     "narrative": "OMX30 faces a classic transatlantic conflict: European bourses ended flat-to-positive yesterday, but US equities rolled over hard (-1-2%) on trade war fears and rising yields (10Y +99bp to 4.703%). The index sits +6.5% above its 200-MA in bull market structure, yet technical deterioration is evident\u2014MACD below signal, ADX 37.7 with bearish DI dominance, and RSI 41 suggesting neutral momentum with upside exhaustion. Brent's 7.96% collapse is a double-edged sword: positive for exporter margins but signaling demand destruction. With VIX up 102bp and tariff headlines bleeding into Friday's open, expect a cautious tone; the index is only 1.9% from 52-week highs and vulnerable to mean reversion.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3199.61,
+    "magnitudeError": 1.227,
     "sectorImpacts": [
       {
         "sector": "Banks",
