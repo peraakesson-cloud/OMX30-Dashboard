@@ -3,8 +3,8 @@
     "date": "2026-07-27",
     "dateLabel": "Mon 27 Jul",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.604,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Weak ADX (6.4) and elevated Stochastic K (97.2) suggest caution despite technical bullishness"
     ],
     "narrative": "OMX30 enters Monday with tailwinds from continental Europe's strong opens (DAX +153bp, CAC +65bp), supported by a +0.596% weighted correlation signal and falling yields (US 10Y -51bp to 4.679%) that ease refinancing pressure. The index sits deeply bullish structurally\u2014+8.1% above the 200-MA, MACD above signal with +3.225 histogram, and 90-day momentum at +7.0%\u2014but is flashing caution flags: Stochastic K at 97.2 indicates overbought conditions, ADX weakness (6.4) means trend strength is fragile, and the index sits 99% of its 52-week range with only -0.2% from all-time highs. Oil's -7.26% decline is positive for cost-sensitive industrials, while copper strength (+0.89%) and gold appreciation (+0.67%) directly support cyclical mining. Expect a cautious +0.3%\u2013+0.7% open, but mean-reversion risk is material given crowded technicals.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3217.89,
+    "magnitudeError": 1.104,
     "sectorImpacts": [
       {
         "sector": "Industrials",
