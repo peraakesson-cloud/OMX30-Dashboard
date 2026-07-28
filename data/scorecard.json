@@ -3,8 +3,8 @@
     "date": "2026-07-28",
     "dateLabel": "Tue 28 Jul",
     "predicted": 0.45,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.197,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "Risk-off sentiment (Nikkei -3.95%, Shanghai -1.17%, VIX +2.30%) triggers defensive rotation into AstraZeneca/Essity"
     ],
     "narrative": "OMX30 enters Tuesday with constructive European backdrop as DAX leads the continent. Swedish krona weakness (USD/SEK +53bps, EUR/SEK +31bps) is a tailwind for the 40% export-heavy index, particularly industrials and tech. Technicals remain supportive: the index sits at 96% of 52-week range with MACD bullish crossover, though RSI at 66.17 and stochastic K at 74.9 signal neutral-to-overbought conditions warranting caution on fresh long entries. The 90bp drop in US 10Y yield (-0.81%) is a mixed signal\u2014positive for real estate refinancing but compressing tech valuations heading into a NASDAQ-negative session. Asian weakness and VIX uptick suggest rotation toward defensive plays over momentum.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3224.22,
+    "magnitudeError": 0.253,
     "sectorImpacts": [
       {
         "sector": "Industrials",
