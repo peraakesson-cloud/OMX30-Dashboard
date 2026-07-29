@@ -3,8 +3,8 @@
     "date": "2026-07-29",
     "dateLabel": "Wed 29 Jul",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.158,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_BULLISH",
@@ -16,8 +16,8 @@
       "USD/SEK weakness (-0.31%) favours exporters but partially offset by geopolitical risk aversion"
     ],
     "narrative": "OMX30 opens with constructive European momentum and commodity strength offsetting NASDAQ weakness (-0.82%) and Nikkei selloff (-5.39%). The index trades +8.0% above its 200-day moving average in established bull regime, with MACD bullish and ROC-90 momentum robust at +6.8%. However, ADX at 4.1 signals weak trend structure\u2014reduce conviction by 30% per rules. Stochastic K at 89.7 indicates overbought conditions with mean reversion risk. Watch for support at 3085 (lower Bollinger) and resistance at 3180 (50-MA); pivot zone around 3123. Oil spike benefits cyclicals but threatens consumer spending; gold surge directly supports Boliden. Key risk: geopolitical escalation (Ukraine/Russia) could reverse risk-on posture.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3219.11,
+    "magnitudeError": 0.558,
     "sectorImpacts": [
       {
         "sector": "Banks",
