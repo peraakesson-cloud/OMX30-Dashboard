@@ -3,8 +3,8 @@
     "date": "2026-07-30",
     "dateLabel": "Thu 30 Jul",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.445,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "USD strength (DXY +0.25%, USD/SEK -0.20%) benefits exporters but mixed FX backdrop"
     ],
     "narrative": "OMX30 enters Friday trade in a bull regime (+7.4% vs 200-MA, MACD above signal) but faces significant headwinds from overnight US weakness and overbought technicals. The S&P 500 and Dow's sharp declines (-1.52%, -2.19%) signal risk-off rotation despite VIX compression (-4.26%), while US 10Y yields surge to 19-year highs (4.622%) creating a bifurcated impact: banks gain from NIM expansion, but tech and real estate face DCF compression. Commodity strength (gold +1.63%, copper +1.56%) supports mining and industrials, yet elevated oil (+1.49%) pressures consumer spending. With Stochastic K/D at 82.4/80.7 and the index at 97% of 52W range, mean reversion risk is elevated; traders should respect 3085 support (lower Bollinger) while watching for a technical pop-and-drop pattern on any opening rally.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3233.44,
+    "magnitudeError": 0.245,
     "sectorImpacts": [
       {
         "sector": "Banks",
