@@ -3,8 +3,8 @@
     "date": "2026-07-31",
     "dateLabel": "Fri 31 Jul",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.417,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "US 10Y yield +89bps boosts bank NIM but pressures real estate and tech valuations"
     ],
     "narrative": "OMX30 opens to strong overnight carry from risk-on global flows (weighted correlation +1.36%), underpinned by NASDAQ's 2.78% surge and broad European gains. However, technicals flash overbought extremes: RSI 73.4, Stochastic K/D at 87.5/84.7, and price already 100% of 52W range with +0% from highs suggests mean reversion vulnerability. The ADX 42.5 (strong trend) supports momentum continuation, but the bond-driven yield spike (+89bps US 10Y) creates headwinds for tech/real estate while widening bank NIM. Watch for profit-taking on open given the technical setup.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3246.92,
+    "magnitudeError": 0.383,
     "sectorImpacts": [
       {
         "sector": "Industrials",
