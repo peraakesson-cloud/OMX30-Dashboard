@@ -3,8 +3,8 @@
     "date": "2026-08-03",
     "dateLabel": "Mon 03 Aug",
     "predicted": 0.6,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.847,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "Rate stability: US 10Y +1.76bp supports bank NIM expectations despite VIX slight uptick"
     ],
     "narrative": "OMX30 enters Monday within a structural bull market (+8.5% above 200-MA) with strong directional conviction (ADX 56.1). European peers DAX and CAC led Friday with +1.32% and +1.06% respectively, setting positive momentum into Asian close and US sessions. However, technical overbought conditions (RSI 74.4, Stochastic K 84.8, Bollinger %B 1.00) present mean-reversion risk; the index sits 100% of 52-week range with zero buffer to cycle highs. Gold strength (+1.63%) and copper resilience (+1.62%) support mining/industrial sectors, while oil weakness (-6.57%) provides relief to consumer spending. Watch for profit-taking or rotation into value ahead of US Jobless Claims at 14:30 CET.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3274.43,
+    "magnitudeError": 0.247,
     "sectorImpacts": [
       {
         "sector": "Banks",
