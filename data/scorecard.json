@@ -3,8 +3,8 @@
     "date": "2026-08-04",
     "dateLabel": "Tue 04 Aug",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.583,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "Gold +1.79% lifts Boliden; rising yields (+1.76% on US 10Y) expands bank NIMs"
     ],
     "narrative": "OMX30 opens into a well-established bull regime with strong DAX/CAC tailwinds and 0.89 correlation bias supporting upside. Technical positioning remains constructive\u2014MACD above signal, ADX at 60.9, and price 9.8% above 200-MA all confirm bullish structure. However, RSI 78.41 and Stochastic K 91.4 both flash overbought warnings, signaling meaningful mean-reversion risk into any weakness. The 52-week high at current levels leaves little room for further breakout, and positioning crowding warrants caution on aggressive new longs. USD/SEK strength (+0.58%) and copper rally (+2.94%) offer sector-specific tailwinds for Volvo, Atlas Copco, and Boliden, while rising yields (+1.76%) support bank NIM expansion. Key watch: any break below 3,123 invalidates the overnight bullish setup.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3326.28,
+    "magnitudeError": 0.783,
     "sectorImpacts": [
       {
         "sector": "Industrials",
