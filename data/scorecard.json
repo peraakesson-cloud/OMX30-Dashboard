@@ -3,8 +3,8 @@
     "date": "2026-08-05",
     "dateLabel": "Wed 05 Aug",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.02,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "USD/SEK weakness (-0.41%) mixed signal for exporters; EUR/SEK stable"
     ],
     "narrative": "OMX30 enters Wednesday on strong overnight momentum with global equity risk sentiment decisively positive (weighted correlation +1.130%), led by NASDAQ's +2.59% surge. The index remains in robust bull structure\u201410.5% above its 200-day MA and 5.0% above the 50-MA\u2014with ADX at 79.9 confirming strong trending bias. However, RSI at 84.71 and Stochastic K/D both in extreme overbought territory (91.5/93.9) flag acute mean-reversion risk; the index now sits exactly at 52-week highs with zero room to the upside on the range. US 10Y yields fell 126bp overnight, which removes DCF compression pressure on tech but narrows NIM expansion for banks. Commodity strength (gold +3.30%, copper +0.57%) provides direct support to Boliden but oil's +1.06% rise may pressure industrial input costs. Key watch: whether overbought technicals trigger a consolidation or profit-taking ahead of US Jobless Claims at 14:30 CET.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3326.93,
+    "magnitudeError": 0.78,
     "sectorImpacts": [
       {
         "sector": "Banks",
