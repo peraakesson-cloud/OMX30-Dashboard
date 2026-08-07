@@ -3,8 +3,8 @@
     "date": "2026-08-07",
     "dateLabel": "Fri 07 Aug",
     "predicted": 0.6,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.324,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "CRITICAL: RSI 84.14 severely overbought, Stochastic K=88.6 signals mean reversion risk"
     ],
     "narrative": "OMX30 opens Friday in a strong bull market setup with price +10.2% above the 200-MA and trading at 52-week highs. ADX 79.6 confirms trend strength, while MACD remains bullish above signal. However, RSI 84.14 and Stochastic K=88.6 flash severe overbought conditions\u2014a classic mean reversion setup. Commodity tailwinds (gold +2.57%, copper +0.84%) support Boliden and industrial complexes, while USD/SEK at 9.506 favours Swedish exporters. The core risk is profit-taking into resistance; any pullback should find support at 3085 (lower Bollinger). Global correlation signal neutral; US equities mixed and European peers lukewarm suggest caution at extremes.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3312.34,
+    "magnitudeError": 0.924,
     "sectorImpacts": [
       {
         "sector": "Industrials",
