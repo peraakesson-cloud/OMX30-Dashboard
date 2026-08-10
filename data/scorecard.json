@@ -3,8 +3,8 @@
     "date": "2026-08-10",
     "dateLabel": "Mon 10 Aug",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.204,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "FX headwind for exporters: USD/SEK -0.32% and EUR/SEK flat suggest SEK strength \u2014 mildly negative for Volvo, Atlas Copco, Ericsson export valuations"
     ],
     "narrative": "OMX30 opens to a synchronized global rally: Europe and Asia both bid, NASDAQ up 1.30%, Nikkei surging 2.08%. The index sits 9.7% above its 200-day MA in a confirmed bull market, with MACD above signal and ADX at 69.9 signaling strong directional conviction. However, RSI at 84.86 and Stochastic K/D both >83 represent extreme overbought conditions \u2014 textbook mean-reversion setup. Commodities are mixed-to-positive (gold +1.75%, copper +1.00% for mining plays; oil flat), and falling yields (US 10Y -0.21%) reduce refinancing and DCF drag. The main headwind is SEK strength (USD/SEK -0.32%), which pressures large exporters. We expect a small positive open (+0.4% to +0.6%), but watch for profit-taking given technical extremes.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3305.57,
+    "magnitudeError": 0.704,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
