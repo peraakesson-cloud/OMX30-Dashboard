@@ -3,8 +3,8 @@
     "date": "2026-08-11",
     "dateLabel": "Tue 11 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.259,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "CAUTIOUSLY_BULLISH",
     "technicalBias": "OVERBOUGHT_WITH_MOMENTUM",
@@ -17,8 +17,8 @@
       "Rising yields (+0.84% in US 10Y) widen bank NIM"
     ],
     "narrative": "OMX30 enters Tuesday in strong bull regime (+9.3% above 200-MA) with robust momentum (ROC-90 +14.4%), but critical overbought signals flash red: RSI at 81.82 and stochastic K/D inverted at 79.2/83.9 flag imminent mean reversion risk. Global backdrop shows mixed signals\u2014Nikkei +2.08% supports risk appetite, but NASDAQ -0.32%, FTSE -0.35%, and rising VIX (+3.76%) suggest caution. Weighted correlation near flat (-0.006%) offers no directional anchor. The index sits 0.6% from 52-week high in upper Bollinger band; technically stretched but ADX 71.2 confirms strong trend structure. Execution risk is material: overbought retail positioning could trigger fast pullback on any negative catalyst, but momentum remains bullish.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3297.0,
+    "magnitudeError": 0.659,
     "sectorImpacts": [
       {
         "sector": "Banks",
