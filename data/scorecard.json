@@ -3,8 +3,8 @@
     "date": "2026-08-12",
     "dateLabel": "Wed 12 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.17,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "RSI 75.32 overbought \u2014 mean reversion risk requires disciplined entry"
     ],
     "narrative": "OMX30 enters Wednesday in a well-established bull market (+9.0% above 200-MA, RSI 75.32) with strong technical momentum (MACD bullish, ADX 61.1, ROC-90 +12.6%). Global headwinds persist\u2014US equity weakness, NASDAQ -0.60%, and negative correlation signal (-0.107%)\u2014but European markets hold firm and commodities rally (gold +1.76%, copper +0.79%), benefiting Swedish industrials and miners. The index sits at +0.9% from its 52-week high; however, elevated RSI and Bollinger Band %B=0.75 flag mean reversion risk. Yields are supportive for banks (VIX -1.16% to 15.28) but not yet a tailwind. Watch for US Jobless Claims at 14:30 CET and geopolitical headline risk (Ukraine/Russia tensions) for volatility triggers.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3291.39,
+    "magnitudeError": 0.57,
     "sectorImpacts": [
       {
         "sector": "Industrials",
