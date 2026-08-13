@@ -3,8 +3,8 @@
     "date": "2026-08-13",
     "dateLabel": "Thu 13 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.302,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "VIX compression (-4.78%) and NASDAQ +0.54% provide tech/risk-on tailwind"
     ],
     "narrative": "OMX30 enters Friday with powerful technical setup: +9.1% above 200-MA, MACD positive, ADX 60.1 showing strong trending structure. However, RSI 80.84 flashes mean reversion risk\u2014market is overbought and sitting just 0.9% from 52-week highs. Global backdrop is mixed (European indices down, US tech up), but USD/SEK strength and gold's modest gain provide selective support to exporters and mining. The bulls control the technicals, but positioning is extended; watch for consolidation or 2-3% pullback from current euphoria. Key pivot at 3123 (yesterday's close); watch support at 3085 (lower Bollinger).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3281.46,
+    "magnitudeError": 0.702,
     "sectorImpacts": [
       {
         "sector": "Industrials",
