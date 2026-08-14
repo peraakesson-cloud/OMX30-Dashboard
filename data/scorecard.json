@@ -3,8 +3,8 @@
     "date": "2026-08-14",
     "dateLabel": "Fri 14 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.211,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -16,8 +16,8 @@
       "RSI 76.53 overbought \u2014 mean reversion risk; near 52W highs (94% of range) signals limited upside room"
     ],
     "narrative": "OMX30 enters Friday in a strong bull trend (+8.5% above 200-MA, ADX 53.9) supported by US equity gains and robust technical momentum (MACD bullish, ROC-90 +13.5%). However, RSI 76.53 flashes overbought warning and the index sits 94% into its 52-week range, only 1.4% from highs \u2014 room for mean reversion pullback is limited. Oil's +1.02% rise provides tailwind for industrials, while gold and stable FX support miners and exporters. Expect modest upside bias (+0.3 to +0.5%) but watch for profit-taking on overbought conditions; US Jobless Claims (14:30 CET) could inject volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3274.52,
+    "magnitudeError": 0.611,
     "sectorImpacts": [
       {
         "sector": "Industrials",
