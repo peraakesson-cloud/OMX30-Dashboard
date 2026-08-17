@@ -3,8 +3,8 @@
     "date": "2026-08-17",
     "dateLabel": "Mon 17 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.251,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "MIXED",
@@ -16,8 +16,8 @@
       "USD/SEK weakness (-0.59%) headwind for exporters partially offset by DAX +0.53%"
     ],
     "narrative": "OMX30 enters Monday session with structural support: bull regime intact at +7.9% above 200-MA and ADX 28.7 confirming trend strength. However, technical deterioration flags caution\u2014MACD bearish crossover with negative histogram (-1.238) and RSI 66.49 approaching overbought territory suggest mean reversion risk into resistance. Commodity tailwinds (copper +1.92%, gold +1.60%) favor industrials and mining, while US 10Y yield spike (+119bps) supports Nordic banks but pressures real estate. Asia's strong open (Hang Seng +179bps) and weighted correlation +0.187% provide modest positive bias, though US equity weakness and falling USD/SEK (-59bps) create cross-currents. Watch for consolidation near 3123 pivot with key resistance at 3180 (50-MA) and support at 3085 (lower Bollinger band).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3266.3,
+    "magnitudeError": 0.651,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
