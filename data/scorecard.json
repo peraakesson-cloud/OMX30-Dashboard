@@ -3,8 +3,8 @@
     "date": "2026-08-18",
     "dateLabel": "Tue 18 Aug",
     "predicted": 0.1,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.662,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "MIXED",
@@ -15,8 +15,8 @@
       "Bearish MACD crossover and -1.6% from 52W high signal mean-reversion risk despite 8.2% bull trend vs 200-MA"
     ],
     "narrative": "OMX30 enters Tuesday in a structurally bullish regime (+8.2% vs 200-MA, ADX 41.1 strong) but faces near-term mean-reversion headwinds. The MACD bearish crossover and RSI at 69.72 flag overbought conditions despite positive momentum (ROC-90 +11.8%). Global correlation is slightly negative (-0.040%), with mixed European opens (DAX +0.53% but CAC/FTSE lower) and weakness across US/Asia overnight. The sharp US 10Y yield spike (+119bps to 4.696%) creates a bifurcated setup: banks should benefit from wider NIM, but tech, real estate, and high-multiple sectors face DCF compression. USD/SEK strength (+0.12%) supports Swedish exporters (Volvo, Atlas Copco, Ericsson), partially offsetting NASDAQ weakness (-0.28%). Asymmetric risk: upside capped by overbought technicals and yield headwinds; downside accelerates if VIX (currently 14.25, -2.60%) reverts or geopolitical (Trump/Korea) escalates.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3244.67,
+    "magnitudeError": 0.762,
     "sectorImpacts": [
       {
         "sector": "Banks",
