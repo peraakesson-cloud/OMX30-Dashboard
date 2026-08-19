@@ -3,8 +3,8 @@
     "date": "2026-08-19",
     "dateLabel": "Wed 19 Aug",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.026,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "OMX30 technicals show momentum (ROC-90 +8.7%, ADX 25.2 strong) but MACD has rolled below signal"
     ],
     "narrative": "OMX30 faces a mixed open following significant overnight deterioration in risk sentiment. The Nikkei's -5.66% collapse and Shanghai's -2.41% drop reflect broader Asia unwind, compounded by NASDAQ weakness (-1.33%) and a sharp 60bp rise in US 10Y yields to 4.724%. While the index remains 7.8% above its 200-MA in a technical bull market with strong ADX (25.2) and positive ROC-90 (+8.7%), the MACD rolling below signal and global correlation bias of -0.974% suggests momentum is stalling. Geopolitical tensions (Iran military escalation rhetoric, UAE trade suspension) are keeping VIX elevated at 15.19, which typically pressures equities. The jury is out on whether this is a healthy retracement or the start of a deeper pullback.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3243.81,
+    "magnitudeError": 0.174,
     "sectorImpacts": [
       {
         "sector": "Banks",
