@@ -3,8 +3,8 @@
     "date": "2026-08-20",
     "dateLabel": "Thu 20 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.448,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Stochastic oversold (K=7.2, D=22.8) presents mean-reversion opportunity into neutral RSI (52.94)"
     ],
     "narrative": "OMX30 enters Thursday with a cautiously constructive setup despite mixed European opens. Asia's overnight strength (Nikkei +122bp, Hang Seng +113bp) provides positive momentum, while the headline correlation signal (+0.202%) remains constructive. The index sits +6.7% above its 200-day MA in confirmed bull regime, though ADX's weakness (12.0) demands humility on magnitude\u2014technical confidence is capped. Stochastic oversold conditions (K=7.2) and neutral RSI (52.94) suggest tactical bounce potential, but MACD remains below signal with histogram at -8.577, indicating sellers have not yet capitulated. USD/SEK weakness and sharp yield compression (-113bp in US 10Y) create cross-currents: exporters benefit from softer SEK, but multiple compression pressures tech and real estate. Key watch: today's US Jobless Claims at 14:30 CET could reignite rate volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3258.33,
+    "magnitudeError": 0.048,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
