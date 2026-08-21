@@ -3,8 +3,8 @@
     "date": "2026-08-21",
     "dateLabel": "Fri 21 Aug",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.044,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Weak trend conviction: MACD below signal, RSI neutral at 53.21, Stochastic in neutral zone"
     ],
     "narrative": "OMX30 faces a Friday morning headwind despite remaining +7.1% above its 200-day moving average. Global correlation has turned sharply negative (-0.489%) driven by a US equity rout (S&P -0.87%, Dow -1.32%) and a VIX surge (+7.52% to 16.01), signaling genuine risk-off reorientation. Technical structure remains constructive\u2014bull market regime, positive ROC-90 (+5.0%), price in lower-half Bollinger band with room to mean-revert\u2014but ADX weakness at 6.5 severely undermines conviction. The +0.92% spike in US 10Y yields offers bank NIM support, yet the concurrent Treasury volatility and Bessent headlines create macro uncertainty. With MACD below signal and no clear directional momentum, expect a subdued, choppy session biased toward modest underperformance.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3292.34,
+    "magnitudeError": 1.244,
     "sectorImpacts": [
       {
         "sector": "Banks",
