@@ -3,8 +3,8 @@
     "date": "2026-08-24",
     "dateLabel": "Mon 24 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.045,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "US 10Y yield +89bps supports bank NIM expansion while reducing tech DCF headwind"
     ],
     "narrative": "OMX30 enters Monday with constructive European support: DAX, CAC, and FTSE all positive overnight, establishing a +0.4% to +0.6% tailwind. The index sits in a clear bull regime (+8.1% above 200-MA), though technicals show early fatigue\u2014MACD has rolled below signal, RSI 54.86 is neutral, and ADX at 14.6 reflects weak directional conviction. Gold's +1.90% surge benefits Boliden directly, while the sharp US 10Y yield rise (+89bps) is a double-edged sword: positive for bank NIMs (SEB, Handelsbanken, Swedbank) but compresses tech/telecom DCF valuations. VIX plunge to 15.13 suggests risk-on sentiment, yet escalating trade war rhetoric (Trump-Canada tensions, Iran D-Day economics) creates tactical volatility risk. Entry should target 3123 support; resistance at 3180 (50-MA) and 3200 are key profit-taking zones.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3290.84,
+    "magnitudeError": 0.445,
     "sectorImpacts": [
       {
         "sector": "Banks",
