@@ -3,8 +3,8 @@
     "date": "2026-08-25",
     "dateLabel": "Tue 25 Aug",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.833,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "USD/SEK strength (+0.34%) supports exporters but offset by oil decline and geopolitical premium"
     ],
     "narrative": "OMX30 faces a low-conviction setup despite sitting +8.0% above the 200-MA. While ROC-90 momentum is strong at +5.5%, ADX weakness at 7.8 (well below 18) severely constrains trend reliability\u2014applying the 30% confidence reduction per rules. NASDAQ's 0.77% decline weighs on tech sentiment, yet defensive positioning (gold +1.35%, VIX spiking) hints at tactical risk-off. Yields retreated 72bp and EUR/SEK weakened, creating mixed headwinds: stronger USD/SEK aids Volvo/Atlas Copco, but falling rates and oil (-0.90%) pressure industrials and real estate. RSI at 36.76 sits neutral but near oversold territory, flagging potential mean-reversion risk.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3318.26,
+    "magnitudeError": 1.033,
     "sectorImpacts": [
       {
         "sector": "Industrials",
