@@ -3,8 +3,8 @@
     "date": "2026-08-26",
     "dateLabel": "Wed 26 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.244,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Falling US yields (-1.38% to 4.639%) and VIX -2.52% reduce refinancing risk for real estate"
     ],
     "narrative": "OMX30 enters Wednesday on solid footing with broad global momentum (DAX +61bp, NASDAQ +66bp) and domestic technicals supporting a continuation of the bull regime (+8.8% above 200-MA, ROC-90 +6.3%). Yields declining sharply (US 10Y -138bp) and oil retreating 3% create a constructive backdrop: input cost relief for industrials, margin support for banks, and lower duration pressure on real estate. However, weak ADX (5.2) signals trend fragility\u2014the rally lacks directional conviction, and RSI at 47.3 remains neutral with no overbought protection. At 99% of 52-week range and only 0.3% from highs, OMX30 faces mean-reversion risk if today's risk-on tone falters.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3326.34,
+    "magnitudeError": 0.156,
     "sectorImpacts": [
       {
         "sector": "Industrials",
