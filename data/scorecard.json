@@ -3,8 +3,8 @@
     "date": "2026-08-31",
     "dateLabel": "Mon 31 Aug",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.663,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -16,8 +16,8 @@
       "Stochastic overbought (K=83.5) flags near-term mean reversion risk despite strong momentum"
     ],
     "narrative": "OMX30 enters Monday in a bull regime (+8.7% above 200-MA, +3.0% above 50-MA) with MACD above signal and moderate ADX bias. However, stochastic K/D at 83.5/84.0 signals overbought conditions\u2014classic mean reversion setup. USD/SEK at 9.574 (+0.63%) is a material tailwind for large-cap exporters. Copper's +1.93% and gold's +0.62% gains support Boliden directly. The concerning backdrop: US yields surged 103bp to 4.72%, VIX +5.68% to 15.25, and broader correlation weighted signal is -0.109%\u2014suggesting underlying weakness beneath the equity surface. Watch for profit-taking into resistance at the 50-MA.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3309.18,
+    "magnitudeError": 1.063,
     "sectorImpacts": [
       {
         "sector": "Banks",
