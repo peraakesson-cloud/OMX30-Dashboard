@@ -3,8 +3,8 @@
     "date": "2026-09-01",
     "dateLabel": "Tue 01 Sep",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.292,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "VIX surge (+6.23% to 15.85) signaling elevated uncertainty ahead of US Jobs data"
     ],
     "narrative": "OMX30 faces conflicting signals this morning. While the index remains +7.1% above its 200-day MA in established bull trend, technical momentum has clearly deteriorated with MACD rolling over into bearish crossover territory and ADX collapsing to 2.9\u2014indicating weak directional conviction. The global backdrop is unambiguously negative: European bourses led by DAX (-0.99%) are reacting to a sharp bond sell-off, with US 10Y yields spiking 184bps to 4.758% on renewed inflation concerns (Eurozone CPI now 3.3%). RSI at 45.29 is neutral but the Stochastic divergence (K 42.9 vs D 65.0) suggests momentum is fading. Oil's +1.77% rise pressures industrials while yielding cost headwinds hit real estate and tech valuations. Low ADX severity reduces conviction on all tactical calls.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3266.43,
+    "magnitudeError": 1.092,
     "sectorImpacts": [
       {
         "sector": "Industrials",
