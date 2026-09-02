@@ -3,8 +3,8 @@
     "date": "2026-09-02",
     "dateLabel": "Wed 02 Sep",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.635,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "ADX 21.9 with bearish DI bias moderates conviction; RSI below 40 flags mean-reversion risk"
     ],
     "narrative": "OMX30 faces headwinds from a coordinated global selloff, with Asia leading down (Nikkei -2.85%) and European bourses following (DAX -0.82%, CAC -0.63%). US yield surge to 4.796% (+80bp) pressures growth valuations while VIX jumps to 16.79, signaling renewed risk-off sentiment. Technically, the index sits in the lower half of Bollinger bands (B%=0.04) with oversold Stochastic (K=4.5) and MACD negative divergence, creating mean-reversion tension against the broader +5.6% bull-market trend versus 200-MA. Escalating Iran-US military tensions compound uncertainty. With ADX below 25 and RSI 37.5, conviction should be reduced 30% per ruleset.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3245.69,
+    "magnitudeError": 0.235,
     "sectorImpacts": [
       {
         "sector": "Banks",
