@@ -3,8 +3,8 @@
     "date": "2026-09-03",
     "dateLabel": "Thu 03 Sep",
     "predicted": 0.35,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.001,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Weak ADX (12.4) and neutral RSI (46.68) suggest range-bound consolidation rather than directional conviction"
     ],
     "narrative": "OMX30 enters Thursday on moderately positive footing supported by US overnight strength and broad-based commodity appreciation. The index sits +6.5% above its 200-day MA in established bull regime, with 90-day ROC confirming +5.3% underlying momentum. However, technical structure shows caution: MACD trades below signal line (hist=-7.158), ADX at 12.4 signals weak trend conviction, and Bollinger positioning (lower half, %B=0.32) suggests potential consolidation near current levels around 3123. The +0.79% VIX uptick warrants monitoring. Key support at 3085 (lower band), resistance at 3180 (50-MA). Commodity tailwinds (particularly copper/gold) benefit mining and industrial exporters, but weak ADX requires 30% magnitude reduction in sector conviction.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3278.19,
+    "magnitudeError": 0.651,
     "sectorImpacts": [
       {
         "sector": "Mining & Materials",
