@@ -3,8 +3,8 @@
     "date": "2026-09-04",
     "dateLabel": "Fri 04 Sep",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.18,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -15,8 +15,8 @@
       "Yield compression (US 10Y -71bp) reduces refinancing headwinds for real estate; VIX 14.24 signals low volatility backdrop"
     ],
     "narrative": "OMX30 enters Friday supported by broad Asia-US rally (correlation signal +0.571%), though technical setup warns of caution. The index sits +6.8% above its 200-MA in full bull regime, but ADX at 2.7 signals weak trend conviction with bearish directional bias\u2014a red flag requiring confidence reduction per risk rules. Copper strength (+1.12%) is a tailwind for Boliden and cyclicals, while USD/SEK depreciation (9.557, -0.76%) supports Volvo, Atlas Copco, and Ericsson exporters despite NASDAQ's +1.4% lift. MACD remains below signal and RSI sits at neutral 52.75, leaving room for mean-reversion upside if technicals align, but weak ADX means magnitude should be tempered. Key watch: US Jobless Claims at 14:30 CET and any inflation surprises that could reverse the 71bp yield decline.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3284.08,
+    "magnitudeError": 0.22,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
