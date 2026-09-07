@@ -3,8 +3,8 @@
     "date": "2026-09-07",
     "dateLabel": "Mon 07 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.236,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -15,8 +15,8 @@
       "Copper/gold strength offsets oil stagnation; weak ADX (9.8) signals thin conviction"
     ],
     "narrative": "OMX30 opens with conflicting signals. Global equity weakness (S&P -0.38%, DAX -0.29%) clashes with strong Nikkei (+2.12%) and commodity strength (copper +1.30%, gold +1.06%). The index trades 7.2% above its 200-MA in a bull regime, but MACD has rolled below signal and ADX is critically weak at 9.8\u2014well below the 18 threshold that triggers confidence reduction and 30% magnitude dampening. Yields climbing (+46bp on US 10Y) create a bifurcated setup: banks see wider NIM but tech/real estate face DCF compression. The correlation signal is essentially flat (-0.025%), suggesting no directional tailwind from global macro.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3291.84,
+    "magnitudeError": 0.036,
     "sectorImpacts": [
       {
         "sector": "Banks",
