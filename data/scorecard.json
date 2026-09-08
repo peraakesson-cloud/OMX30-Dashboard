@@ -3,8 +3,8 @@
     "date": "2026-09-08",
     "dateLabel": "Tue 08 Sep",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.616,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Strong USD/SEK (+0.35%) supports exporters but NASDAQ weakness (-0.29%) weighs on tech sentiment"
     ],
     "narrative": "OMX30 opens Tuesday into a mixed technical setup and contradictory macro signals. While the index maintains bull-market structure (+7.3% vs 200-MA, +1.8% vs 50-MA) with strong 90-day momentum (+7.9% ROC), the weak ADX (10.4) undermines conviction, and negative global correlation (-0.348%) warns of contagion risk from DAX (-0.32%) and broad US equity weakness (-0.38% S&P, -0.51% Dow). The spike in US 10Y yields (+46bp to 4.784%) cuts both ways: banks benefit from NIM widening, but tech and high-growth names face DCF compression. Oil's +2.21% surge pressures industrials' input costs. Copper's sharp +3.07% and gold's steady rise provide direct tailwinds for Boliden, but the combination of elevated VIX (+1.63%), weak MACD (below signal), and proximity to 52-week highs (-0.9% from peak) suggests limited upside without clearer risk sentiment reset.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3312.12,
+    "magnitudeError": 0.816,
     "sectorImpacts": [
       {
         "sector": "Banks",
