@@ -3,8 +3,8 @@
     "date": "2026-09-09",
     "dateLabel": "Wed 09 Sep",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.623,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "VIX uptick (+2.42%) signals increased risk aversion despite 6.3% bull market premium"
     ],
     "narrative": "OMX30 faces headwinds this morning despite remaining +6.3% above its 200-day MA. European bourses sold off sharply overnight (DAX -1.10%, CAC -1.34%) with correlation signal deeply negative at -0.734%, suggesting broad risk-off sentiment flowing northbound. The technical picture is mixed: while the index holds bull regime status, MACD has turned below signal with histogram at -4.556, and weak ADX (11.2) strips confidence from any directional move. Rising US 10Y yields (+46bp to 4.806%) create a pincer: positive for financials (NIM expansion) but negative for tech and growth names (DCF compression). Brent's 3.1% surge adds input-cost pressure to industrials and consumer discretionary, offsetting some export tailwinds from the stronger USD/SEK (+0.09%). Risk/reward tilts slightly negative.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3258.36,
+    "magnitudeError": 1.223,
     "sectorImpacts": [
       {
         "sector": "Banks",
