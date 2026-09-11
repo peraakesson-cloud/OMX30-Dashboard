@@ -3,8 +3,8 @@
     "date": "2026-09-11",
     "dateLabel": "Fri 11 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.316,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_BEARISH",
@@ -16,8 +16,8 @@
       "Oil weakness (-3.33%) reduces industrial input cost pressure; copper +1.12% and gold +0.47% support mining but narrow construction case"
     ],
     "narrative": "OMX30 faces conflicting signals ahead of Friday open. While continental Europe rallies (+0.55-0.59%), North America weakness and Asia selloff (-0.6% to -1.93%) create a fragmented global backdrop. US 10Y yields spiked 221bp\u2014historically supportive for Swedish banks via NIM expansion\u2014but negative for real estate capex and tech DCF valuations. Technical picture is cautious: the index sits +5.1% above 200-MA (structurally bullish) but trades -0.1% below 50-MA with MACD below signal and ADX only 20.0 (weak directional conviction). The Stochastic K=15.1 is deeply oversold, signaling potential mean-reversion bounce intraday, but RSI 41.2 remains neutral. FX headwind: EUR/SEK +0.70% pressures export margin upside.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3255.23,
+    "magnitudeError": 0.116,
     "sectorImpacts": [
       {
         "sector": "Banks",
