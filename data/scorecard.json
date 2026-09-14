@@ -3,8 +3,8 @@
     "date": "2026-09-14",
     "dateLabel": "Mon 14 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.088,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -18,8 +18,8 @@
       "OMX30 -0.3% vs 50-MA despite 4.8% above 200-MA"
     ],
     "narrative": "OMX30 faces a classic bull-trap setup: positive correlation from US strength (+0.8-0.9%) and firmer USD/SEK (+0.93%) support exporters, but technical deterioration is significant. The index sits +4.8% above its 200-MA yet trades -0.3% below the 50-MA, signalling momentum breakdown. Stochastic K=9.6 is deeply oversold and ADX's bearish DI bias dominates despite the 35.6 strength reading. Critically, US 10Y yields spiking 63bp to 4.975% compresses DCF valuations for the 40% tech/pharma/materials weight. VIX +11.74% to 17.7 shows creeping risk-off despite rally headlines. Watch for mean reversion in oversold stochastics, but don't chase without support confirmation.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3219.82,
+    "magnitudeError": 1.288,
     "sectorImpacts": [
       {
         "sector": "Banks",
