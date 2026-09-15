@@ -3,8 +3,8 @@
     "date": "2026-09-15",
     "dateLabel": "Tue 15 Sep",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.027,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "Index trading -1.0% below 50-MA despite +4.0% bull market premium vs 200-MA signals conflicting momentum"
     ],
     "narrative": "OMX30 faces headwinds this morning with global equity markets printing red across Europe, Americas and Asia-Pacific, driven by mixed macro signals and profit-taking. The index sits in an awkward technical position: still +4.0% above the 200-day moving average suggesting underlying bull structure, but -1.0% below the 50-day MA and MACD rolling over below signal line indicate near-term momentum has stalled. ADX strength at 52.6 with bearish directional bias confirms sellers have control, though RSI at 30.24 approaches oversold territory, creating mean-reversion risk if selling exhausts. The weighted correlation signal of -0.384% reinforces a risk-off day, though stronger USD/SEK (+0.69%) provides tactical support for large-cap exporters. Watch for any stabilisation at the lower Bollinger Band around 3085 or risk extension toward 3050 if sentiment deteriorates further.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3218.94,
+    "magnitudeError": 0.173,
     "sectorImpacts": [
       {
         "sector": "Industrials",
