@@ -3,8 +3,8 @@
     "date": "2026-09-16",
     "dateLabel": "Wed 16 Sep",
     "predicted": 0.15,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.984,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH_DIVERGENCE",
@@ -17,8 +17,8 @@
       "USD/SEK strength (+0.29%) supports exporters; EUR/SEK strength (+0.21%) pressures H&M sourcing costs"
     ],
     "narrative": "OMX30 opens with conflicting signals: European bourses gain modest ground while US equities crater, particularly tech (NASDAQ -0.78%). The index sits 4.8% above its 200-day MA in an official bull regime, but ADX 42.5 with bearish directional bias and RSI 36.89 suggest downtrend momentum dominates despite the longer-term bullish positioning. MACD below signal with histogram -9.538 and the index trading 0.2% below the 50-MA warn of near-term weakness. Commodity divergence\u2014gold and copper surge while oil retreats\u2014creates sector-level dispersion. USD/SEK +0.29% aids exporters (Volvo, Atlas Copco, Ericsson), but NASDAQ weakness dampens sentiment for tech names. Watch for mean reversion given neutral RSI territory and Bollinger positioning in lower half.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3250.63,
+    "magnitudeError": 0.834,
     "sectorImpacts": [
       {
         "sector": "Industrials",
