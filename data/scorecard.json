@@ -3,8 +3,8 @@
     "date": "2026-09-17",
     "dateLabel": "Thu 17 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.251,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL_TO_BEARISH",
@@ -17,8 +17,8 @@
       "ADX 32.8 strong but MACD below signal + RSI 41.75 suggests momentum exhaustion risk"
     ],
     "narrative": "OMX30 faces a mixed overnight backdrop: European bourses (+0.33% avg) outperformed a weaker US close (S&P -0.45%, Dow -1.21%), and while USD/SEK strength (+0.41%) benefits Volvo, Atlas Copco and Ericsson, the index sits at 92% of 52-week range with MACD crossing below signal\u2014a warning flag. The +5.9% bull-market premium over 200-MA remains intact, but RSI 41.75 sits neutral-to-low and ADX 32.8 shows strong directional bias with bearish DI dominance, suggesting weakness momentum may be building. Oil's -5.96% crash is a double-edged sword: relief for consumer/industrial input costs but headwind for commodity narratives. US Jobless Claims at 14:30 CET is the key catalyst; any surprise could rekindle Fed-policy discussion and rattle tech/DCF-sensitive stocks. Recommendation: cautious positioning, watch for MACD recovery or RSI dip below 40 before committing long.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3291.3,
+    "magnitudeError": 1.051,
     "sectorImpacts": [
       {
         "sector": "Industrials",
