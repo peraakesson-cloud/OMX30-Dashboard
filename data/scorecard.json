@@ -3,8 +3,8 @@
     "date": "2026-09-18",
     "dateLabel": "Fri 18 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.819,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "OMX30 technically neutral: RSI 46.8 (neutral zone), MACD below signal, but still +6.1% above 200-MA in bull regime"
     ],
     "narrative": "OMX30 faces a mixed setup on Friday morning. While global risk appetite showed strength overnight (NASDAQ +1.69%, Nikkei +1.38%), European bourses retreated 0.64\u20130.68%, creating crosscurrents. The sharp 118bp decline in US 10Y yields is a double-edged sword: it supports valuations and should benefit defensive/dividend stocks (banks on wider NIM, pharma on risk rotation), but pressures growth narratives and tech sentiment. Oil's 5.7% plunge cuts input-cost risk for industrials but hints at growth anxiety. With RSI at 46.8 (neutral) and MACD below signal, the index lacks directional conviction despite sitting +6.1% above the 200-MA. The +7.9% ROC-90 shows underlying momentum, but ADX at 21.5 with bearish DI bias suggests volatility may persist. Key watch: can OMX30 hold the 50-MA (3180) support given the yield-driven headwinds?",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3264.33,
+    "magnitudeError": 1.019,
     "sectorImpacts": [
       {
         "sector": "Banks",
