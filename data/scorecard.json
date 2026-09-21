@@ -3,8 +3,8 @@
     "date": "2026-09-21",
     "dateLabel": "Mon 21 Sep",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.308,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Elevated US 10Y yield (+1.03%) widens bank NIM expectations"
     ],
     "narrative": "OMX30 opens with tailwinds from a strong European close led by DAX and renewed risk appetite across Asia-Pacific (Nikkei +1.38%, Hang Seng +1.18%). The index sits comfortably above its 200-day moving average (+6.8%) with MACD in bullish crossover territory, though ADX at 6.2 signals weak trend conviction and elevated Stochastic K at 96.7 flags near-term overbought conditions warranting caution on mean reversion. Oil's sharp 6.87% decline alleviates stagflation fears and supports consumer balance sheets, while copper's +2.50% surge benefits Boliden directly. US 10Y yield at 4.998% provides a modest tailwind to Swedish banks via NIM expansion, though yields close to the 5% barrier may tempt selling if breakout fails. Key risk: geopolitical escalation (Ukraine refineries) could reverse commodity moves and spike VIX from 14.89.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3307.02,
+    "magnitudeError": 0.808,
     "sectorImpacts": [
       {
         "sector": "Banks",
