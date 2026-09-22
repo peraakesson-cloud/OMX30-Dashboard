@@ -3,8 +3,8 @@
     "date": "2026-09-22",
     "dateLabel": "Tue 22 Sep",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.874,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Yields falling (-70bp on US 10Y) offset by resilient equity technicals\u2014selective bank support expected"
     ],
     "narrative": "OMX30 enters Tuesday with constructive overnight tailwinds from US equity strength (NASDAQ +2.26%, S&P +1.49%) and falling rates (US 10Y -70bp to 4.963%), lifting weighted correlation signal to +0.837%. Technicals remain bullish\u2014index sits at 100% of 52W range, +7.6% above 200-MA with MACD above signal and positive momentum (ROC-90 +9.3%)\u2014but Stochastic K=97.8 signals overbought conditions and RSI 63.24 approaches neutral-to-extended territory, raising mean-reversion risk. ADX 18.5 (just above the 18 threshold) provides moderate conviction; watch for consolidation rather than breakout. Copper's +2.32% rally and falling EUR/SEK (-0.40%) benefit exporters, while yield compression pressures real estate and lengthens defensive rotations (Pharma, Essity). Key risk: any reversal in US equity momentum or spike in geopolitical uncertainty (Kremlin forgery scheme narrative) could unwind the risk-on setup quickly.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3335.94,
+    "magnitudeError": 0.374,
     "sectorImpacts": [
       {
         "sector": "Industrials",
