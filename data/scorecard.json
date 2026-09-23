@@ -3,8 +3,8 @@
     "date": "2026-09-23",
     "dateLabel": "Wed 23 Sep",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.299,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "VIX collapse (-4.71% to 14.17%) signals risk-on appetite; yields easing (-0.70% US 10Y) supports valuations"
     ],
     "narrative": "OMX30 enters Wednesday with tailwinds from a robust US equity close, particularly NASDAQ's +2.26% surge, offsetting modest continental weakness (DAX -0.47%, FTSE -0.23%). The index maintains a strong structural bull setup: +6.8% above the 200-MA, MACD above signal line, and ROC-90 at +8.4% confirming 90-day momentum. USD/SEK's +0.33% lift is a key catalyst for heavy industrials (28% of index), while Copper's +0.93% gain directly benefits Boliden. However, RSI at 60.32 leaves room before overbought conditions, and the index sits at 98% of 52-week range\u2014elevation into potential mean reversion territory. Watch for US Jobless Claims at 14:30 CET as a volatility trigger.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3316.9,
+    "magnitudeError": 0.201,
     "sectorImpacts": [
       {
         "sector": "Industrials",
