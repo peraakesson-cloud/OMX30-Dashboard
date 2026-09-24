@@ -3,8 +3,8 @@
     "date": "2026-09-24",
     "dateLabel": "Thu 24 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.376,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "Global equity weakness (DAX -0.36%, S&P -0.76%) conflicts with OMX30's +5.9% vs 200-MA"
     ],
     "narrative": "OMX30 faces a classic bull-bear tug-of-war. Technicals remain constructive\u2014BULL MARKET regime, +5.9% above 200-MA, MACD bullish, ROC-90 at +7.5%\u2014but macro headwinds are intensifying. Global equity weakness (weighted correlation -0.365%) and surging US yields (+3bp) create DCF drag on tech and real estate. The USD/SEK strength (+0.74%) is a tailwind for industrials and pharma exporters, but oil's jump to $105 (+1.82%) pressures input costs and consumer demand. VIX's +7.18% jump to 16.27 signals rising risk-aversion despite OMX30's technical resilience. Watch for mean reversion risk if yields continue climbing; ADX weakness (0.0) means conviction is thin. Trade tariff escalation remains the tail risk that could snap the 5.9% rally.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3271.25,
+    "magnitudeError": 1.576,
     "sectorImpacts": [
       {
         "sector": "Banks",
