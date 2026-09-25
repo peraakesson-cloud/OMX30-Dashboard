@@ -3,8 +3,8 @@
     "date": "2026-09-25",
     "dateLabel": "Fri 25 Sep",
     "predicted": 0.35,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.727,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "VIX compression (-2.30%) reduces hedging flows, risk-on bias intact"
     ],
     "narrative": "OMX30 opens with tailwinds from continental Europe's overnight rally, particularly DAX strength at +0.77%. Technical setup remains constructively bullish: the index trades 6.3% above its 200-MA in a confirmed bull regime, MACD is above signal line with positive histogram at +2.882, and momentum (ROC-90) is strong at +6.6%, positioning us 0.8% from all-time highs. Commodity support\u2014gold and copper both up over 1%\u2014underpins mining and industrial cyclical exposure. However, weak ADX at 6.5 demands respect: trend strength is subdued despite direction, and elevated Stochastic K/D (73.4/69.5) flags early mean-reversion risk. US yields (5.162%, +0.94%) and VIX compression (-2.30%) provide conflicting signals; rates pressure growth/tech DCF but support banking NIM. Key watch: trade narrative escalation (tariffs, Brexit) could reignite volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3295.03,
+    "magnitudeError": 0.377,
     "sectorImpacts": [
       {
         "sector": "Banks",
