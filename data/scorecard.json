@@ -3,8 +3,8 @@
     "date": "2026-09-28",
     "dateLabel": "Mon 28 Sep",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.727,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "ADX weakness (3.4) severely limits trend conviction; VIX spike (+9.35%) signals caution"
     ],
     "narrative": "OMX30 opens with modest tailwinds from overnight global resilience, but technical conviction remains fragile. The index sits 5.8% above its 200-day moving average in confirmed bull mode, yet RSI at 47.68 and weak ADX (3.4) signal directionless price action. US 10Y yields surging 43bp to 5.184% create a mixed backdrop: banks benefit from widening NIM expectations, but tech and real estate face DCF headwinds. Oil's sharp 3.63% drop relieves input-cost anxiety for industrials, while the VIX spike to 16.26 hints at underlying risk-off sentiment. With ADX below 18, all sector calls are reduced in confidence; traders should expect range-bound consolidation rather than directional commitment.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3295.03,
+    "magnitudeError": 0.527,
     "sectorImpacts": [
       {
         "sector": "Banks",
