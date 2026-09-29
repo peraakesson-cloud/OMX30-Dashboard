@@ -3,8 +3,8 @@
     "date": "2026-09-29",
     "dateLabel": "Tue 29 Sep",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.184,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Oil -8.00% reduces input cost headwinds for industrials and consumer"
     ],
     "narrative": "OMX30 faces a mixed global backdrop: continental Europe rallies while US equities slide (-0.77% S&P, -0.92% NASDAQ), creating a near-zero correlation signal (-0.088%). Domestically, technicals remain constructively bullish\u2014index 6.5% above 200-MA, MACD above signal, RSI 57.99 neutral\u2014but Stochastic K=81.4 flags overbought conditions and mean reversion risk. The strong USD/SEK (9.979, +0.46%) is a tailwind for Volvo, Atlas Copco, and Ericsson, though NASDAQ weakness pressures tech sentiment. US 10Y yield +108bp supports Swedish bank NIM, while the sharp oil selloff (-8.00%) eases cost pressure. ADX 8.4 signals weak trend strength; confidence reduced 30% per rules. Key watch: US Jobless Claims at 14:30 CET could inject fresh volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3286.19,
+    "magnitudeError": 0.216,
     "sectorImpacts": [
       {
         "sector": "Industrials",
