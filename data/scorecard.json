@@ -3,8 +3,8 @@
     "date": "2026-09-30",
     "dateLabel": "Wed 30 Sep",
     "predicted": 0.1,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.524,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "OMX30 at 94% of 52W range with only +0.5% above 50-MA"
     ],
     "narrative": "OMX30 enters Wednesday in a technical straitjacket: bull market structure intact (+5.6% vs 200-MA) but conviction severely compromised by ADX at 16.8 (weak trend). Global cross-currents leave us directionless\u2014European weakness (-0.32% to -0.60%), US flat, Asia strength (+1.94% Nikkei), and zero net correlation bias (-0.006%). Oil's dramatic 4.9% sell-off is a material headwind for industrials (28% of index) offsetting copper's modest +1.2% pop. RSI at 57 is true neutral, MACD above signal offers only marginal bullish lean, and we're already 1.3% from the 52W high with limited runway. The index sits 94% through its 52-week range\u2014a crowded positioning signal.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3268.98,
+    "magnitudeError": 0.624,
     "sectorImpacts": [
       {
         "sector": "Industrials",
