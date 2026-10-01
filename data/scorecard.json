@@ -3,8 +3,8 @@
     "date": "2026-10-01",
     "dateLabel": "Thu 01 Oct",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.297,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -15,8 +15,8 @@
       "Weak technical momentum: ADX 4.3 (very weak, bearish bias), MACD below signal, RSI 49.55 (neutral), Bollinger %B=0.31 (lower half)"
     ],
     "narrative": "OMX30 faces headwinds from a sharp Treasury yield rally (US 10Y +72bp to 5.293%, worst level since 2002) that pressures both growth valuations and real estate refinancing costs. European equity markets showed broad weakness yesterday (DAX -0.19%, CAC -0.77%, FTSE -1.06%), while Asia's strength (Nikkei +3.30%) failed to provide meaningful support\u2014net correlation signal is -0.136%, a subtle bearish tilt. Technically, the index sits 4.2% above its 200-MA (still in bull structure) but is hamstrung by weak momentum: ADX at 4.3 with bearish directional bias, MACD below signal line (histogram -2.825), and RSI neutral at 49.55. The index resides in the lower half of its Bollinger envelope and is 2.5% off its 52-week high. Oil's sharp 2.91% decline and modest strength in gold (+0.53%) create mixed sector signals. Key risk: further Treasury weakness could trigger a capitulation selloff, while strength in USD/SEK (+0.31%) provides an export tailwind to offset yields.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3226.59,
+    "magnitudeError": 1.097,
     "sectorImpacts": [
       {
         "sector": "Banks",
