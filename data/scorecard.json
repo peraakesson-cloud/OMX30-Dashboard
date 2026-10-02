@@ -3,8 +3,8 @@
     "date": "2026-10-02",
     "dateLabel": "Fri 02 Oct",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.051,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "VIX compression (-2.56%) indicates risk appetite, though geopolitical headline risk remains"
     ],
     "narrative": "OMX30 enters Friday with tailwind from continental Europe's strong Thursday close, particularly DAX's +1.10% momentum. Weak technical breadth\u2014MACD below signal, RSI neutral at 55\u2014argues for caution despite bull market regime and +4.3% cushion above 200-MA. The real driver is commodity strength: copper +1.30% and gold +0.32% directly support Boliden and industrial names, while USD/SEK's +0.43% rise benefits heavy exporters (Volvo, Atlas Copco, Ericsson). However, ADX at 7.0 signals weak trend conviction, and OMX30 sits only -0.6% above its 50-MA\u2014mean reversion risk is present. Geopolitical headlines (Putin/Ukraine escalation) and US yield volatility (10Y -106bps) inject uncertainty; watch for any VIX spike above 18 as a de-risking trigger.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3260.51,
+    "magnitudeError": 0.651,
     "sectorImpacts": [
       {
         "sector": "Industrials",
