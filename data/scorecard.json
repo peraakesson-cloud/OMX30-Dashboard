@@ -3,8 +3,8 @@
     "date": "2026-10-05",
     "dateLabel": "Mon 05 Oct",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.051,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL_BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "VIX spike +5.29% to 16.12 suggests some caution creeping in despite equity gains"
     ],
     "narrative": "Global markets opened with broad risk appetite, particularly Asia (Nikkei +2.4%) and tech (NASDAQ +1.2%), filtering through to OMX30 as positive correlation signal of +0.46%. However, OMX30 technicals show decelerating momentum: MACD below signal line with histogram at -4.29, and the index is -0.6% below its 50-MA despite remaining +4.3% above the 200-MA. RSI at 55.21 and Stochastic K=27 both signal neutral conditions, while Bollinger %B=0.40 places price in the lower half\u2014suggesting room to trade higher but lacking immediate conviction. Copper's +2.1% surge and gold's +0.68% gain provide tailwinds for Boliden, while industrial exporters face mixed headwinds from flat USD/SEK and weak EUR/SEK. VIX's sharp +5.29% move warrants caution; underlying volatility is rising despite equity strength.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3260.51,
+    "magnitudeError": 0.851,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
