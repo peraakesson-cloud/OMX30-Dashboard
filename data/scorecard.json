@@ -3,8 +3,8 @@
     "date": "2026-10-06",
     "dateLabel": "Tue 06 Oct",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.778,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Rising yields benefit Banks: US 10Y +64bp spike widens NIM; offsets tech DCF compression"
     ],
     "narrative": "Global equity markets rally with DAX, NASDAQ and Asian indices all posting solid overnight gains, supporting a risk-on continuation into Nordic trading. OMX30 sits in confirmed bull regime (+5.2% above 200-MA) with moderate ADX (24.4) and neutral RSI (55.14)\u2014room to run but no extreme momentum. Weakness in EUR/SEK and USD/SEK both favor Swedish large-cap exporters (Volvo, Atlas Copco, Ericsson). Gold and copper strength directly support Boliden. However, the 64bp jump in US 10Y yields is a double-edged sword: Banks widen NIM but Tech faces DCF compression; oil weakness (-2.58%) relieves input cost pressure on industrials. Watch for mean reversion risk if RSI approaches 70 or ADX softens below 18.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3282.94,
+    "magnitudeError": 0.378,
     "sectorImpacts": [
       {
         "sector": "Industrials",
