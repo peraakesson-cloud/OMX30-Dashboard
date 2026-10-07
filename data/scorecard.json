@@ -3,8 +3,8 @@
     "date": "2026-10-07",
     "dateLabel": "Wed 07 Oct",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.709,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Oil +0.85% and weak EUR/SEK headwind cost competitiveness for exporters"
     ],
     "narrative": "OMX30 faces a mixed open on Wednesday as continental Europe's sharp declines (DAX -1.51%, CAC -1.26%) collide with overnight US resilience. Technical setup is deteriorating: MACD crossed below signal, ADX remains critically weak at 1.7 (reducing confidence to Low per protocol), and the index sits -0.8% below its 50-MA despite holding +3.9% above the 200-MA\u2014a classic distribution pattern. The weighted correlation signal of -0.544% and 6.46% VIX spike suggest institutional repositioning into defensive assets. While US yields fell 79bp (easing tech DCF pressure) and oil's modest +0.85% limits input cost damage to industrials, the broader theme is consolidation after a strong run. Key watch: hold above 3085 (lower Bollinger) or risk accelerated selling into technical support.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3226.82,
+    "magnitudeError": 1.509,
     "sectorImpacts": [
       {
         "sector": "Banks",
