@@ -3,8 +3,8 @@
     "date": "2026-10-08",
     "dateLabel": "Thu 08 Oct",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.756,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "Risk-off sentiment (VIX +4.51%, Hang Seng -1.43%) favoring defensive rotation"
     ],
     "narrative": "OMX30 faces mixed signals this morning. While the index sits +2.5% above its 200-day MA (bullish macro backdrop), technical deterioration is evident: MACD below signal, RSI at neutral 42.8, and critically an ADX of 13.3 indicating weak trend conviction with bearish directional bias. Global correlation is negative at -61.1bps\u2014DAX and Asia weakness, coupled with a 4.5% oil surge on Hormuz disruption concerns, will pressure industrials and consumer discretionary. However, rising yields (+15bp US 10Y to 5.277%) provide support for banks via wider NIM, while defensive names like AstraZeneca and Essity benefit from risk-off rotation. The stochastic K/D at 11.9/20.2 (oversold) presents mean reversion opportunity if we stabilise. Watch whether USD/SEK's modest strength (+0.10%) can buoy exporters (Atlas Copco, Volvo, Ericsson).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3202.44,
+    "magnitudeError": 0.356,
     "sectorImpacts": [
       {
         "sector": "Industrials",
