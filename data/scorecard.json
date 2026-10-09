@@ -3,8 +3,8 @@
     "date": "2026-10-09",
     "dateLabel": "Fri 09 Oct",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.739,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -15,8 +15,8 @@
       "Commodity divergence: copper +2.82% and gold +1.17% supportive, but oil -1.62% and US yields -0.87% create headwinds"
     ],
     "narrative": "OMX30 faces a mixed open despite positive European correlation signals (+0.530%). European bourses rallied overnight on broad sentiment, but the NASDAQ's -1.25% decline and falling US 10Y yields (-87bp to 5.231%) create conflicting cues. Technicals show OMX30 in bull regime (+4.1% vs 200-MA) but critically weakened by ADX of just 7.0 (bearish directional bias) and MACD below signal. Copper strength (+2.82%) and gold rally (+1.17%) support commodity-linked exporters, yet the -0.5% gap below the 50-MA (3,180 level) signals near-term consolidation risk. With VIX lower at 15.16 and EUR/SEK down -0.27%, Swedish exporters face modest FX headwinds despite the broad risk-on tone.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3258.14,
+    "magnitudeError": 1.539,
     "sectorImpacts": [
       {
         "sector": "Banks",
