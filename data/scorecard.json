@@ -3,8 +3,8 @@
     "date": "2026-10-12",
     "dateLabel": "Mon 12 Oct",
     "predicted": 0.15,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.739,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "OMX30 technicals show conflicting signals: Bull regime +4.4% vs 200-MA but -0.2% vs 50-MA, RSI neutral, weak ADX momentum"
     ],
     "narrative": "OMX30 faces a mixed morning despite European equity strength. The index sits in a technical no-man's-land: still in bull mode 4.4% above its 200-day MA, but the weak ADX (10.7) and MACD below signal strip conviction from the move. VIX's 3.84% jump signals underlying risk-off despite positive open\u2014geopolitical headlines around Ukraine energy infrastructure and NATO tensions are creating friction. USD/SEK strength (+0.56%) should help exporters (Volvo, Atlas Copco, Ericsson), but this is offset by oil's sharp rally (+1.84%), which pressures industrial input costs and consumer spending. Copper's 1.78% gain and oil strength favor Boliden, but broad technicals remain cautious with RSI at 41.7 (neutral) and the index just 1.9% from its 52-week high.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3258.14,
+    "magnitudeError": 1.589,
     "sectorImpacts": [
       {
         "sector": "Industrials",
