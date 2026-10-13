@@ -3,8 +3,8 @@
     "date": "2026-10-13",
     "dateLabel": "Tue 13 Oct",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.215,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Oil down -1.62% eases input cost pressure on industrials but dampens energy/materials upside"
     ],
     "narrative": "OMX30 opens with conflicting signals: European bourses (DAX +0.13%, FTSE +0.58%) and modest commodity recovery (copper +0.60%, gold +0.41%) provide tailwinds, but NASDAQ weakness (-0.44%), Asia selloff (Nikkei -1.82%), and MACD bearish crossover create friction. The index remains firmly above its 200-MA (+4.6%) in bull-mode structurally, but weak ADX (5.4) with bearish DI bias signals low conviction and mean-reversion risk\u2014RSI at 45 is neutral but offers room to both sides. US 10Y yield compression (-1.01%) is a mixed signal: bullish for growth but slightly negative for bank NIM expansion. Oil's 1.62% drop eases input costs but reduces upstream upside. Expect a choppy, low-volume Tuesday consolidation near 3123 (yesterday close).",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3276.81,
+    "magnitudeError": 0.015,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
