@@ -3,8 +3,8 @@
     "date": "2026-10-14",
     "dateLabel": "Wed 14 Oct",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.017,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "Weak ADX (3.7) and neutral RSI (51.81) suggest consolidation\u2014magnitude reduced 30% per protocol"
     ],
     "narrative": "OMX30 inherits positive European momentum this morning with DAX and CAC outperforming on stable macro backdrop. The index sits 4.6% above its 200-day moving average in bull regime, underpinned by a fresh MACD bullish crossover and robust 90-day ROC of +6.9%, positioning it near 52-week highs (-1.6% from peak). However, weak ADX reading (3.7) signals trend fragility and justifies cautious stance; RSI at neutral 51.81 offers no mean-reversion warning. Yield compression on the US 10Y (-0.44%) eases tech valuation pressure despite NASDAQ flat, while commodity strength (copper +0.82%, Brent +0.70%) creates offsetting drags on input-cost sensitive sectors. Key watch: US Jobless Claims at 14:30 CET could trigger volatility into close.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3276.27,
+    "magnitudeError": 0.417,
     "sectorImpacts": [
       {
         "sector": "Industrials",
