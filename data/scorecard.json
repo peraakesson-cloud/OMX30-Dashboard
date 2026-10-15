@@ -3,8 +3,8 @@
     "date": "2026-10-15",
     "dateLabel": "Thu 15 Oct",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.616,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -15,8 +15,8 @@
       "US yield compression (-52bps on 10Y) despite VIX spike (17.6, +433bps) creates conflicting signals; geopolitical headlines (Ukraine strikes, Russian assets) elevate tail risk"
     ],
     "narrative": "OMX30 faces a challenging open with negative global correlation (-0.818%) and bearish technical confirmation via MACD crossover below signal line. While the index trades +3.1% above its 200-MA (supporting underlying bull regime), the weak ADX (13.8) and -1.1% gap versus the 50-MA suggest momentum is stalling. Yields falling 52bps on 10Y treasury yields would normally support equities, but VIX spiking 433bps and NASDAQ down -1.88% overnight signal risk-off sentiment. Geopolitical escalation (Ukraine strikes, Russian asset unfreezing talks) adds uncertainty. Expect sector rotation toward defensive plays rather than broad bullish positioning.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3256.08,
+    "magnitudeError": 0.416,
     "sectorImpacts": [
       {
         "sector": "Banks",
