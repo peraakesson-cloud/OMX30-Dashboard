@@ -3,8 +3,8 @@
     "date": "2026-10-16",
     "dateLabel": "Fri 16 Oct",
     "predicted": 0.45,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.252,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "ADX weakness (3.0) and RSI neutral (51.02) flag low directional conviction but no mean reversion pressure"
     ],
     "narrative": "OMX30 enters Friday supported by broad European strength and positive overnight signals from US equities (Dow +1.08%, S&P +0.33%) despite NASDAQ flatness. Copper's explosive +1.77% move and gold's +0.69% gain provide tailwinds for Boliden and broader materials exposure. Technicals remain constructive\u2014the index trades +4.6% above its 200-MA with MACD above signal and robust 90-day momentum (+7.3%)\u2014though ADX's weakness (3.0) signals a lack of trending conviction. USD/SEK's decline to 9.885 marginally benefits exporters in a crowded positioning, while a 1.95% drop in US 10Y yields (now 5.089%) is mixed: banks get NIM support, but tech faces DCF headwinds. Key risk: late-week USD strength reversal or trade war escalation headlines could derail the fragile rally.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3296.84,
+    "magnitudeError": 0.802,
     "sectorImpacts": [
       {
         "sector": "Banks",
