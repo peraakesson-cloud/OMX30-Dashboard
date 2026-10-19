@@ -3,8 +3,8 @@
     "date": "2026-10-19",
     "dateLabel": "Mon 19 Oct",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.887,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Political risk (French riots, Iranian nuclear rhetoric) underpins risk-off mood"
     ],
     "narrative": "OMX30 faces a negative open Monday as European bourses capitulate on broad risk-off sentiment (DAX -1.26%, CAC -1.49%) despite a bull market regime backdrop (+3.2% vs 200-MA). The weighted correlation signal of -1.008% and NASDAQ's -2.15% plunge signal renewed growth concerns that override commodity support (copper +0.99%, gold +0.30%). Weak ADX (11.8) with bearish DI bias and RSI at neutral 45 strip conviction; the index sits 2.6% from highs in lower-half Bollinger territory. USD/SEK weakness (-0.58%) neutralizes export gains, while geopolitical headlines (French riots, Iran nuclear posturing) keep risk sentiment fragile. Watch for mean reversion if VIX holds above 18.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3267.6,
+    "magnitudeError": 0.487,
     "sectorImpacts": [
       {
         "sector": "Industrials",
