@@ -3,8 +3,8 @@
     "date": "2026-10-20",
     "dateLabel": "Tue 20 Oct",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.886,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "ADX=15.9 weak trend with bearish DI bias reduces signal conviction"
     ],
     "narrative": "OMX30 faces headwinds this morning despite remaining +2.1% above its 200-MA. European peers are uniformly negative (-0.68% to -0.72%), signaling coordinated risk-off sentiment. Technically, the index has triggered a bearish MACD crossover (hist=-1.699) and is trading in the lower half of Bollinger bands (%B=0.05), while the Stochastic K at 18.8 signals oversold conditions\u2014classic mean reversion setup. The 50-MA at 3180 is now resistance; support lies at 3085 (lower Bollinger). The sharp US 10Y yield jump to 5.136% pressures tech/growth and real estate. With ADX at 15.9, trend conviction is weak, and the -0.385% weighted correlation bias is decidedly bearish.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3238.64,
+    "magnitudeError": 0.686,
     "sectorImpacts": [
       {
         "sector": "Industrials",
