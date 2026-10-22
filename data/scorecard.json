@@ -3,8 +3,8 @@
     "date": "2026-10-22",
     "dateLabel": "Thu 22 Oct",
     "predicted": -0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -2.506,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "ADX 22.5 with bearish DI bias and moderate directional weakness; price -2.7% below 50-MA"
     ],
     "narrative": "OMX30 faces a compressed risk/reward this morning despite US market strength. Continental European weakness (DAX, CAC) correlates highly with Swedish equities and will likely dominate the open over transatlantic divergence. Technically, the index is deeply oversold (Stochastic K=10.6, RSI 39.34) and trading below its lower Bollinger Band, signaling potential mean reversion bounce, but ADX=22.5 with bearish DI tone and price -2.7% below the 50-MA (3180) suggest the primary trend remains pressured. US 10Y yield spike to 5.146% is a double-edged sword: positive for banks but negative DCF drag on tech/growth names. The negative correlation signal (-0.700%) and elevated VIX (+9.77%) amplify downside tail risk, particularly if Jobless Claims data disappoints at 14:30 CET.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3162.78,
+    "magnitudeError": 2.106,
     "sectorImpacts": [
       {
         "sector": "Banks",
