@@ -3,8 +3,8 @@
     "date": "2026-10-23",
     "dateLabel": "Fri 23 Oct",
     "predicted": -0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.408,
+    "result": "miss",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "ADX 24.3 moderate with bearish DI bias; price 3.3% below 50-MA signals momentum weakness"
     ],
     "narrative": "OMX30 opens into a risk-off Friday with negative global signals dominating. The -0.648% correlation bias reflects contagion from NASDAQ's -2.60% collapse (AI concerns) and broad European weakness (DAX -0.77%, CAC -0.63%). Technicals are deeply oversold (Stoch K=2.4, RSI 37), offering mean-reversion bounce potential, but momentum remains broken: price is 3.3% below the 50-MA, MACD is below signal, and ADX shows moderate bearish DI bias. Oil's elevated level (~$110) will weigh on industrials and consumer discretion. The index sits 5.3% from 52W highs\u2014classic late-cycle fatigue. With VIX +2.73% to 19.55 and US yields falling (-3.75% to 4.953%), the macro backdrop favors defensive rotation into pharma/healthcare, but broad-market gravity remains downward.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3175.7,
+    "magnitudeError": 0.908,
     "sectorImpacts": [
       {
         "sector": "Pharma & Healthcare",
