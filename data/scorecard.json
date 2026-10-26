@@ -3,8 +3,8 @@
     "date": "2026-10-26",
     "dateLabel": "Mon 26 Oct",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 1.566,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "CAUTIOUS",
@@ -17,8 +17,8 @@
       "Modest correlation signal (+0.096%) insufficient to overcome mixed global backdrop and technical fragility"
     ],
     "narrative": "OMX30 enters Monday with conflicting signals: European peers rally on solid risk appetite while US equities stumble, creating a mixed-signal environment. The index sits in bull regime (+1.6% above 200-MA) but shows technical stress\u2014MACD has crossed below signal line (hist= -8.438), RSI at 40 sits neutral without conviction, and ADX at 27.7 carries bearish directional bias. Rising US yields (4.988%, +71bp) support Swedish bank NIMs but compress tech multiples; the sharp oil decline (-5.86%) is defensive-positive for consumer purchasing power but signals demand concerns. USD/SEK strength (+0.43%) props exporters like Volvo and Atlas Copco. The index sits 4% from 52-week highs and -2.0% below the 50-MA\u2014a range-bound setup vulnerable to mean reversion. Morning call: low-conviction rally attempt likely capped; watch for buyers at 3120 support.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3225.43,
+    "magnitudeError": 1.366,
     "sectorImpacts": [
       {
         "sector": "Banks",
