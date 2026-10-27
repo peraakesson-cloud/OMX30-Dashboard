@@ -3,8 +3,8 @@
     "date": "2026-10-27",
     "dateLabel": "Tue 27 Oct",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.965,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "OMX30 2.9% above 200-MA but -0.7% below 50-MA\u2014stuck in neutral zone; ADX below 18 mandates 30% confidence reduction per rules"
     ],
     "narrative": "OMX30 enters Tuesday underpinned by modest global risk appetite (Nikkei +1.74%, NASDAQ +0.82%) and a weaker oil complex (-4.78% Brent), but technical momentum remains anaemic with ADX at 6.5 signalling low directional conviction. The index sits above its 200-MA (+2.9%) but below the 50-MA (-0.7%), trapped in a consolidation zone typical of mean-reverting choppy trading. RSI at 52.26 and Stochastic neutral offer no extremes to trigger reversal trades, while MACD remains below signal line with negative histogram at -3.971. The dollar firmness (USD/SEK +0.27%, DXY +0.23%) and copper bounce (+1.47%) are modest tailwinds for export-heavy industrials and Boliden, but the macro backdrop\u2014particularly UK budget risks and geopolitical noise\u2014argues for defensive positioning ahead of US Jobless Claims at 14:30 CET.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3256.55,
+    "magnitudeError": 0.765,
     "sectorImpacts": [
       {
         "sector": "Industrials",
