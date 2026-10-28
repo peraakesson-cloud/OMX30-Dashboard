@@ -3,8 +3,8 @@
     "date": "2026-10-28",
     "dateLabel": "Wed 28 Oct",
     "predicted": 0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.331,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "Yield tick up (4.993%) supports banks but weak technicals argue caution"
     ],
     "narrative": "OMX30 faces a low-conviction session with ADX at 8.4 (well below 18), requiring 30% confidence reduction per rules. The index sits +3.2% above 200-MA in bull regime but MACD is below signal and RSI 57 shows neutral equilibrium. Global correlation is slightly positive (+0.228%) with US equities holding gains overnight, but European bourses remain tepid. Oil weakness (-2.19%) is a net positive for Swedish exporters but removes upside catalyst. The key tension: technicals lack oomph (weak ADX, negative MACD), tempering the bullish structural setup.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3267.33,
+    "magnitudeError": 0.131,
     "sectorImpacts": [
       {
         "sector": "Banks",
