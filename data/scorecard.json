@@ -3,8 +3,8 @@
     "date": "2026-10-29",
     "dateLabel": "Thu 29 Oct",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.414,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "US 10Y yield +104bp supports banking NIM expansion despite risk-off tones"
     ],
     "narrative": "OMX30 opens with moderate tailwinds from continental European strength and positive global correlation (+0.482%), though momentum is cooling at the 50-MA (-0.0% differential). The index remains anchored in a bull regime (+3.6% above 200-MA) with MACD constructive, but technical breadth is cautious: RSI at 51.57 is neutral, ADX at 0.3 is weak with bearish DI bias reducing conviction, and Stochastic K/D in the 76\u201379 zone flags potential mean reversion. Yield backdrop is mixed\u2014US 10Y +104bp helps banks but weighs on tech valuations, while oil's sharp -4.42% decline eases input cost pressure on industrials and consumer sectors. Risk positioning: we're 2% off the 52-week high in a low-volatility tape (VIX 17.1), making today's session vulnerable to any downside surprise on US Jobless Claims at 14:30 CET.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3280.86,
+    "magnitudeError": 0.014,
     "sectorImpacts": [
       {
         "sector": "Banks",
