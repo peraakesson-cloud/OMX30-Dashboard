@@ -3,8 +3,8 @@
     "date": "2026-10-30",
     "dateLabel": "Fri 30 Oct",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.288,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Cryptocurrency/fintech contagion risk: Binance $6.3bn heist headline noise"
     ],
     "narrative": "OMX30 opens in a precarious setup: technically in a bull regime (+3.5% above 200-MA) but operationally exhausted (-0.1% below 50-MA) with critically weak ADX (2.1). The global backdrop is decidedly risk-off\u2014DAX, NASDAQ, and Nikkei all negative overnight\u2014while VIX spiked +6.98%, signaling investor de-risking. US 10Y yields fell 111bp, typically a flight-to-safety signal that helps tech/growth but pressures bank NIM expansion. With RSI at 49.47 (neutral but near equilibrium), MACD above signal, and the index sitting 90% of 52-week range, there's no clear directional push. The Binance hack narrative adds tail-risk noise for fintech-exposed names. Expect choppy, range-bound trading with a mild downside bias.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3271.4,
+    "magnitudeError": 0.088,
     "sectorImpacts": [
       {
         "sector": "Banks",
