@@ -1,5 +1,215 @@
 [
   {
+    "date": "2026-11-02",
+    "dateLabel": "Mon 02 Nov",
+    "predicted": -0.2,
+    "actual": null,
+    "result": "pending",
+    "confidence": "Low",
+    "recommendation": "NEUTRAL",
+    "technicalBias": "NEUTRAL",
+    "correlationBias": "BEARISH",
+    "drivers": [
+      "US equity selloff (-1.82% S&P, -2.86% NASDAQ) creates global headwind despite European resilience",
+      "Weak ADX (10.2) reduces directional conviction; reduce all magnitude calls by 30%",
+      "Oil down -9.78% relieves input cost pressures on industrials but signals demand weakness",
+      "USD/SEK weak (-0.85%) undermines exporter competitiveness advantage",
+      "Divergence: Continental Europe +0.3% vs UK flat vs US -2% suggests mixed sentiment"
+    ],
+    "narrative": "OMX30 faces a classic crosswind Monday: European markets eked out modest gains while US equities sold off sharply, with NASDAQ down -2.86% and correlation signal at -0.428%. Technically, the index remains in bull regime (+3.4% vs 200-MA) but shows cracks\u2014RSI neutral at 48.18, weak ADX (10.2) strips conviction from any directional call, and Stochastic K/D both above 77/81 flag potential mean reversion risk. Oil's -9.78% plunge is positive for consumers but negative for sentiment given it signals growth concerns. USD/SEK weakness (-0.85%) removes the tailwind for Swedish exporters. With low trend conviction (ADX<18), expect a cautious open and range-bound trading; watch for US Jobless Claims at 14:30 CET as next catalyst.",
+    "omxClose": null,
+    "magnitudeError": null,
+    "sectorImpacts": [
+      {
+        "sector": "Industrials (28% weight)",
+        "stocks": [
+          "Atlas Copco A",
+          "Volvo B",
+          "Sandvik"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "Oil -9.78% signals demand weakness. USD/SEK weak (-0.85%) removes exporter boost. Weak ADX reduces conviction by 30%.",
+        "keyDriver": "oil_down_usd_weak"
+      },
+      {
+        "sector": "Banks (18% weight)",
+        "stocks": [
+          "SEB A",
+          "Handelsbanken A",
+          "Swedbank A"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Moderate",
+        "reason": "US 10Y yield down -59bp (4.9%) signals growth slowdown. NIM compression risk outweighs safe-haven bid.",
+        "keyDriver": "yields_down"
+      },
+      {
+        "sector": "Pharma/Defensive (12% weight)",
+        "stocks": [
+          "AstraZeneca",
+          "Essity B"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Mild",
+        "reason": "Risk-off environment favors defensive rotation. NASDAQ down -2.86% typical trigger for healthcare pivot.",
+        "keyDriver": "risk_off_rotation"
+      },
+      {
+        "sector": "Mining & Materials (8% weight)",
+        "stocks": [
+          "Boliden",
+          "SSAB A"
+        ],
+        "direction": "POSITIVE",
+        "magnitude": "Moderate",
+        "reason": "Gold +1.37% and copper +1.08% provide direct revenue lift. Boliden particularly exposed to copper strength.",
+        "keyDriver": "gold_copper_up"
+      },
+      {
+        "sector": "Tech & Telecom (12% weight)",
+        "stocks": [
+          "Ericsson B",
+          "Hexagon B",
+          "Sinch"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Mild",
+        "reason": "NASDAQ down -2.86% creates sector headwind. Weak correlation (-0.428%) and ADX<18 cap downside but sentiment remains soft.",
+        "keyDriver": "nasdaq_down"
+      },
+      {
+        "sector": "Real Estate (6% weight)",
+        "stocks": [
+          "Fastighets AB Balder",
+          "Castellum"
+        ],
+        "direction": "NEGATIVE",
+        "magnitude": "Mild",
+        "reason": "Yield compression (-59bp in US 10Y) typically POSITIVE for refinancing, but broader growth slowdown signal undermines. Neutral to slight negative.",
+        "keyDriver": "growth_slowdown_signal"
+      },
+      {
+        "sector": "Consumer & Retail (8% weight)",
+        "stocks": [
+          "H&M B",
+          "EVO Gaming"
+        ],
+        "direction": "NEUTRAL",
+        "magnitude": "Mild",
+        "reason": "Oil down -9.78% reduces input/transport costs (positive), but risk-off spending concerns offset. EUR/SEK weak (-0.52%) adds sourcing headwind for H&M.",
+        "keyDriver": "mixed_signals"
+      }
+    ],
+    "marketSnapshot": {
+      "DAX 40": {
+        "change": 0.31,
+        "corr": 0.89,
+        "region": "Europe"
+      },
+      "CAC 40": {
+        "change": 0.411,
+        "corr": 0.85,
+        "region": "Europe"
+      },
+      "FTSE 100": {
+        "change": -0.113,
+        "corr": 0.78,
+        "region": "Europe"
+      },
+      "S&P 500": {
+        "change": -1.818,
+        "corr": 0.52,
+        "region": "Americas"
+      },
+      "Dow Jones": {
+        "change": -1.093,
+        "corr": 0.51,
+        "region": "Americas"
+      },
+      "NASDAQ": {
+        "change": -2.856,
+        "corr": 0.49,
+        "region": "Americas"
+      },
+      "Nikkei 225": {
+        "change": -0.329,
+        "corr": 0.38,
+        "region": "Asia"
+      },
+      "Hang Seng": {
+        "change": 0.425,
+        "corr": 0.31,
+        "region": "Asia"
+      },
+      "Shanghai": {
+        "change": 1.084,
+        "corr": 0.22,
+        "region": "Asia"
+      }
+    },
+    "technicals": {
+      "rsi": {
+        "value": 48.18,
+        "signal": "neutral"
+      },
+      "macd": {
+        "macd": -1.7784,
+        "signal": -6.3237,
+        "histogram": 4.5452,
+        "crossover": "none",
+        "above_signal": true
+      },
+      "bollinger": {
+        "upper": 3321.35,
+        "middle": 3250.05,
+        "lower": 3178.74,
+        "pct_b": 0.601,
+        "band_width": 4.39,
+        "position": "upper_half"
+      },
+      "moving_averages": {
+        "ma50": 3267.91,
+        "ma50_pct": -0.11,
+        "above_ma50": false,
+        "ma200": 3158.72,
+        "ma200_pct": 3.35,
+        "above_ma200": true,
+        "cross": "none"
+      },
+      "adx": {
+        "adx": 10.24,
+        "plus_di": 26.08,
+        "minus_di": 32.03,
+        "trend_strength": "weak",
+        "bullish_trend": false
+      },
+      "stochastic": {
+        "k": 77.21,
+        "d": 81.77,
+        "zone": "neutral",
+        "k_above_d": false
+      },
+      "roc90": {
+        "value": 3.08,
+        "signal": "neutral"
+      },
+      "week52": {
+        "high52": 3335.94,
+        "low52": 2673.73,
+        "pct_from_high": -2.14,
+        "pct_from_low": 22.09,
+        "pct_of_range": 89.2
+      }
+    },
+    "technicalSummary": [
+      "MACD above signal",
+      "Above 200-MA (+3.4%)",
+      "Below 50-MA (-0.1%)",
+      "ADX 10 (weak trend, bearish bias)"
+    ]
+  },
+  {
     "date": "2026-10-30",
     "dateLabel": "Fri 30 Oct",
     "predicted": -0.2,
@@ -5877,207 +6087,6 @@
       "ADX 19 (moderate trend, bullish bias)",
       "Stochastic overbought (K=98)",
       "3M momentum: +9.3% (strong_momentum)"
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "dateLabel": "Mon 21 Sep",
-    "predicted": 0.5,
-    "actual": 1.308,
-    "result": "correct",
-    "confidence": "Medium",
-    "recommendation": "BULLISH",
-    "technicalBias": "NEUTRAL",
-    "correlationBias": "BULLISH",
-    "drivers": [
-      "European equity strength (DAX +1.08%, CAC +0.93%) with weighted correlation +0.757%",
-      "OMX30 in solid bull regime +6.8% above 200-MA, MACD bullish crossover",
-      "USD/SEK +0.06% supports export-heavy industrials (Volvo, Atlas Copco, Ericsson)",
-      "Copper +2.50% drives mining thesis; oil slide -6.87% eases input cost pressure on consumers",
-      "Elevated US 10Y yield (+1.03%) widens bank NIM expectations"
-    ],
-    "narrative": "OMX30 opens with tailwinds from a strong European close led by DAX and renewed risk appetite across Asia-Pacific (Nikkei +1.38%, Hang Seng +1.18%). The index sits comfortably above its 200-day moving average (+6.8%) with MACD in bullish crossover territory, though ADX at 6.2 signals weak trend conviction and elevated Stochastic K at 96.7 flags near-term overbought conditions warranting caution on mean reversion. Oil's sharp 6.87% decline alleviates stagflation fears and supports consumer balance sheets, while copper's +2.50% surge benefits Boliden directly. US 10Y yield at 4.998% provides a modest tailwind to Swedish banks via NIM expansion, though yields close to the 5% barrier may tempt selling if breakout fails. Key risk: geopolitical escalation (Ukraine refineries) could reverse commodity moves and spike VIX from 14.89.",
-    "omxClose": 3307.02,
-    "magnitudeError": 0.808,
-    "sectorImpacts": [
-      {
-        "sector": "Banks",
-        "stocks": [
-          "SEB A",
-          "Handelsbanken A",
-          "Swedbank A"
-        ],
-        "direction": "POSITIVE",
-        "magnitude": "Moderate",
-        "reason": "US 10Y yield +1.03% to 4.998% widens net interest margins; Swedish mortgage/deposit spreads benefit.",
-        "keyDriver": "yields_up"
-      },
-      {
-        "sector": "Industrials",
-        "stocks": [
-          "Volvo B",
-          "Atlas Copco A",
-          "Sandvik"
-        ],
-        "direction": "POSITIVE",
-        "magnitude": "Moderate",
-        "reason": "USD/SEK +0.06% and oil -6.87% reduce input costs; exporters gain currency cushion.",
-        "keyDriver": "strong_usd_sek_and_oil_down"
-      },
-      {
-        "sector": "Mining & Materials",
-        "stocks": [
-          "Boliden",
-          "SSAB A"
-        ],
-        "direction": "POSITIVE",
-        "magnitude": "Strong",
-        "reason": "Copper +2.50% is a primary revenue driver for Boliden; gold -0.95% mild headwind but copper dominates.",
-        "keyDriver": "copper_surge"
-      },
-      {
-        "sector": "Real Estate",
-        "stocks": [
-          "Fastighets AB Balder",
-          "Castellum"
-        ],
-        "direction": "NEGATIVE",
-        "magnitude": "Mild",
-        "reason": "Rising yields increase refinancing costs and cap valuations; sector remains headwind despite corporate momentum.",
-        "keyDriver": "yields_up"
-      },
-      {
-        "sector": "Tech & Telecom",
-        "stocks": [
-          "Ericsson B",
-          "Hexagon B",
-          "Sinch"
-        ],
-        "direction": "NEUTRAL",
-        "magnitude": "Mild",
-        "reason": "NASDAQ +0.40% provides slight support; yield compression risk offset by European momentum. Maintain watch.",
-        "keyDriver": "mixed_sentiment"
-      },
-      {
-        "sector": "Consumer & Retail",
-        "stocks": [
-          "H&M B",
-          "EVO Gaming"
-        ],
-        "direction": "POSITIVE",
-        "magnitude": "Mild",
-        "reason": "Oil -6.87% eases spending pressure on households; H&M benefits from lower input costs despite weak EUR/SEK.",
-        "keyDriver": "oil_down_spending_relief"
-      }
-    ],
-    "marketSnapshot": {
-      "DAX 40": {
-        "change": 1.082,
-        "corr": 0.89,
-        "region": "Europe"
-      },
-      "CAC 40": {
-        "change": 0.929,
-        "corr": 0.85,
-        "region": "Europe"
-      },
-      "FTSE 100": {
-        "change": 0.902,
-        "corr": 0.78,
-        "region": "Europe"
-      },
-      "S&P 500": {
-        "change": 0.167,
-        "corr": 0.52,
-        "region": "Americas"
-      },
-      "Dow Jones": {
-        "change": -0.184,
-        "corr": 0.51,
-        "region": "Americas"
-      },
-      "NASDAQ": {
-        "change": 0.395,
-        "corr": 0.49,
-        "region": "Americas"
-      },
-      "Nikkei 225": {
-        "change": 1.376,
-        "corr": 0.38,
-        "region": "Asia"
-      },
-      "Hang Seng": {
-        "change": 1.179,
-        "corr": 0.31,
-        "region": "Asia"
-      },
-      "Shanghai": {
-        "change": 0.972,
-        "corr": 0.22,
-        "region": "Asia"
-      }
-    },
-    "technicals": {
-      "rsi": {
-        "value": 56.44,
-        "signal": "neutral"
-      },
-      "macd": {
-        "macd": 1.5069,
-        "signal": 1.1997,
-        "histogram": 0.3072,
-        "crossover": "bullish",
-        "above_signal": true
-      },
-      "bollinger": {
-        "upper": 3349.9,
-        "middle": 3279.98,
-        "lower": 3210.05,
-        "pct_b": 0.723,
-        "band_width": 4.26,
-        "position": "upper_half"
-      },
-      "moving_averages": {
-        "ma50": 3255.87,
-        "ma50_pct": 1.7,
-        "above_ma50": true,
-        "ma200": 3101.26,
-        "ma200_pct": 6.77,
-        "above_ma200": true,
-        "cross": "none"
-      },
-      "adx": {
-        "adx": 6.21,
-        "plus_di": 24.44,
-        "minus_di": 27.67,
-        "trend_strength": "weak",
-        "bullish_trend": false
-      },
-      "stochastic": {
-        "k": 96.68,
-        "d": 76.31,
-        "zone": "overbought",
-        "k_above_d": true
-      },
-      "roc90": {
-        "value": 9.05,
-        "signal": "strong_momentum"
-      },
-      "week52": {
-        "high52": 3331.27,
-        "low52": 2623.51,
-        "pct_from_high": -0.6,
-        "pct_from_low": 26.21,
-        "pct_of_range": 97.2
-      }
-    },
-    "technicalSummary": [
-      "MACD bullish crossover",
-      "Above 200-MA (+6.8%)",
-      "Above 50-MA (+1.7%)",
-      "ADX 6 (weak trend, bearish bias)",
-      "Stochastic overbought (K=97)",
-      "3M momentum: +9.1% (strong_momentum)"
     ]
   }
 ]
