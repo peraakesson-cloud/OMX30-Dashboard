@@ -3,8 +3,8 @@
     "date": "2026-11-02",
     "dateLabel": "Mon 02 Nov",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.288,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Divergence: Continental Europe +0.3% vs UK flat vs US -2% suggests mixed sentiment"
     ],
     "narrative": "OMX30 faces a classic crosswind Monday: European markets eked out modest gains while US equities sold off sharply, with NASDAQ down -2.86% and correlation signal at -0.428%. Technically, the index remains in bull regime (+3.4% vs 200-MA) but shows cracks\u2014RSI neutral at 48.18, weak ADX (10.2) strips conviction from any directional call, and Stochastic K/D both above 77/81 flag potential mean reversion risk. Oil's -9.78% plunge is positive for consumers but negative for sentiment given it signals growth concerns. USD/SEK weakness (-0.85%) removes the tailwind for Swedish exporters. With low trend conviction (ADX<18), expect a cautious open and range-bound trading; watch for US Jobless Claims at 14:30 CET as next catalyst.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3271.4,
+    "magnitudeError": 0.088,
     "sectorImpacts": [
       {
         "sector": "Industrials (28% weight)",
