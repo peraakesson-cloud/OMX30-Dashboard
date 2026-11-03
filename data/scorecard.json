@@ -3,8 +3,8 @@
     "date": "2026-11-03",
     "dateLabel": "Tue 03 Nov",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.078,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "MIXED",
@@ -17,8 +17,8 @@
       "USD/SEK weakness (-0.23%) headwind for exporters despite firm positioning"
     ],
     "narrative": "OMX30 faces a challenging open amid negative global correlation (-0.342%) and broad European weakness (DAX -0.45%, FTSE -0.64%). While the index maintains bull regime structure (+3.7% vs 200-MA), technical overbought conditions (Stochastic K/D 85.6/86.3) and weak ADX (3.8, bearish DI bias) signal mean reversion risk and low conviction. US election volatility and NASDAQ weakness (-1.07%) pressure momentum names. The only tailwind is slightly lower USD/SEK at 9.797, but this is insufficient to offset macro headwinds. Support at 3085 (lower Bollinger), resistance 3180 (50-MA), with yesterday's 3123 close as pivot.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3284.44,
+    "magnitudeError": 0.122,
     "sectorImpacts": [
       {
         "sector": "Banks",
