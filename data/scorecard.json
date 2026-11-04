@@ -3,8 +3,8 @@
     "date": "2026-11-04",
     "dateLabel": "Wed 04 Nov",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.829,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Political risk clarity (US midterm results) removes uncertainty; however, Stochastic K=97.4 signals overbought conditions requiring caution"
     ],
     "narrative": "OMX30 opens with tailwinds from European strength and correlation support, trading 4.7% above the 200-MA in confirmed bull regime. However, technicals flash caution: Stochastic is deeply overbought at K=97.4, while RSI remains neutral at 57.6\u2014classic mean-reversion setup. The +1.19% spike in US 10Y yields benefits financials (wider NIMs) but pressures real estate refinancing costs and tech DCF assumptions. Gold's +2.82% rally directly supports Boliden, while copper's +0.57% gain adds to mining upside. USD/SEK weakness and EUR/SEK strength favor large-cap exporters (Volvo, Atlas Copco, Ericsson) despite NASDAQ's modest +0.82%. Key risk: ADX at 14.0 is weak, warranting 30% confidence reduction per mandate; combined with overbought oscillators, any earnings disappointment or geopolitical shock could trigger sharp profit-taking.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3311.67,
+    "magnitudeError": 0.029,
     "sectorImpacts": [
       {
         "sector": "Banks",
