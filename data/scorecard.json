@@ -3,8 +3,8 @@
     "date": "2026-11-05",
     "dateLabel": "Thu 05 Nov",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.319,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_TO_OVERBOUGHT",
@@ -16,8 +16,8 @@
       "USD/SEK +0.14% supports exporter valuations; weak ADX (12.8) reduces conviction"
     ],
     "narrative": "OMX30 opens with tailwind from broad European and US equity rallies (+1-3%), supported by +1.1% correlation signal. Commodities surge (oil +2.95%, gold +1.29%) traditionally pressures industrials via input costs but may reflect global risk appetite. The index sits +5.4% above 200-MA in established bull, but Stochastic K=94.1/D=90.9 signals overbought conditions with RSI neutral at 55.6\u2014classic setup for intraday pullback before continuation. Weak ADX (12.8) dampens conviction; yields down 117bp (10Y to 4.89%) removes near-term tailwind for banks. Watch 3180 resistance (50-MA) and 3085 support (lower Bollinger) for mean-reversion trades.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3301.09,
+    "magnitudeError": 1.119,
     "sectorImpacts": [
       {
         "sector": "Industrials (28%)",
