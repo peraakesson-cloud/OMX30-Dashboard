@@ -3,8 +3,8 @@
     "date": "2026-11-06",
     "dateLabel": "Fri 06 Nov",
     "predicted": -0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.006,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "NEUTRAL",
@@ -17,8 +17,8 @@
       "Correlation signal -2.995% indicates broad risk-off sentiment"
     ],
     "narrative": "OMX30 faces a challenging open following the worst global equity session in months, with NASDAQ collapsing 5.52% and Asia-Pacific selling hard on AI/growth concerns. While the Swedish index maintains technical structure above its 200-MA (+2.6%), the weak ADX reading (8.6) and negative correlation bias (-2.995%) severely constrain upside momentum. A modest USD/SEK appreciation (+1.47%) supports large-cap exporters, but this is overwhelmed by risk-off contagion. The RSI at 47 offers no mean-reversion catalyst, and the lower Bollinger positioning suggests range-bound weakness. Expect OMX30 to test support near 3085\u20133100 unless US jobs data stabilizes sentiment.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3267.88,
+    "magnitudeError": 0.206,
     "sectorImpacts": [
       {
         "sector": "Pharma & Healthcare",
