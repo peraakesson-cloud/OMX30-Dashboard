@@ -3,8 +3,8 @@
     "date": "2026-11-10",
     "dateLabel": "Tue 10 Nov",
     "predicted": 0.8,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.541,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "Yield spike (+1.69% US 10Y) supports banks but tech/materials facing DCF compression"
     ],
     "narrative": "OMX30 opens into a globally bullish session with US equity strength (+2.35% S&P, +2.74% NASDAQ) and Asian outperformance (Nikkei +2.87%) driving +1.41% correlation bias. Domestically, the index sits +5.3% above its 200-MA in confirmed bull trend (ADX 35.5), MACD above signal, but Stochastic K=94.3 and %B=0.92 flash overbought extremes\u2014classic setup for intra-day pullback. The 52-week level sits dead flat, and we're pinned at the upper Bollinger band. Key headwind: US 10Y +169bp spike (+4.946%) pressures tech DCF multiples (NASDAQ correlation +0.49), while oil -3.38% removes input-cost inflation pressure. Banks benefit from wider NIM; exporters supported by weak USD/SEK.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3327.75,
+    "magnitudeError": 0.259,
     "sectorImpacts": [
       {
         "sector": "Banks",
