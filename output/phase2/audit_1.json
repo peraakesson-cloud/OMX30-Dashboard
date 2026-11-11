@@ -1,0 +1,220 @@
+{
+ "verdicts": [
+  {
+   "primary": "I132",
+   "action": "keep",
+   "reason": "Paper product, no hard kill; custom thin-paper print run at MOQ 300-500 fits <EUR 6k; refills give repeat. Main risk is Tomoe-River-type paper sourcing and Papier/Hobonichi/Moleskine competition.",
+   "regulatory_notes": "Minimal: GPSR label/responsible person, FSC claims substantiation, PPWR/EPR packaging registration in SE/DK.",
+   "score_adjustments": "Defensibility 3 is generous; Nordic-language layouts are the only real moat.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I197",
+   "action": "keep",
+   "reason": "No hard kill; generic seals/tapes plus grease sourced finished fit capital. Must not use VELUX name/part numbers (trademark) and avoid brand-specific seal profiles.",
+   "regulatory_notes": "Hinge grease is a CLP mixture (use finished, non-hazardous grease, SDS); GPSR; EPR packaging; no medical claims.",
+   "score_adjustments": "Defensibility 3 hinges on founder know-how content; Amazon.de has generic draught-proofing tape so keep an angle (how-to, correct profiles).",
+   "trend_stage_check": "Trend unverified"
+  },
+  {
+   "primary": "I322",
+   "action": "kill",
+   "reason": "Compatible blade packs for Husqvarna/Gardena are a commodity on Amazon.de at EUR 8-15 per 30-pack (retail floor <15, no angle) and the same logic that killed I324.",
+   "regulatory_notes": "Sharp parts: GPSR/machinery-adjacent safety info; trademark nominative-use risk with OEM names.",
+   "score_adjustments": "Defensibility 2 is optimistic; treat as 1-2.",
+   "trend_stage_check": "Growth market but copy-flooded"
+  },
+  {
+   "primary": "I335",
+   "action": "keep",
+   "reason": "Cheap brush/cloth/bulb kit well within capital; no regulatory burden; marginal (defensibility 2) but not flooded like cleaning-brush categories. Avoid LEGO trademark in listing copy.",
+   "regulatory_notes": "GPSR; microfibre/brush no REACH issue beyond standard; EPR packaging.",
+   "score_adjustments": "Cap defensibility at 2; copyable in months.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I151",
+   "action": "keep",
+   "reason": "No hard kill; fabric toy plus insert is low capex. Watch retail price: single toys are <EUR 15, so sell as set or refill bundle >=EUR 15.",
+   "regulatory_notes": "Pet product under GPSR; silvervine/catnip insert is plant material (not feed-claimed, no health claims); REACH/azo dyes for fabric; small-part/stuffing safety testing.",
+   "score_adjustments": "Price floor risk noted; ensure bundles >=15.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I023",
+   "action": "keep",
+   "reason": "Crochet kits are low-regulation and fit capital at MOQ 300; Hobbii/Etsy crowd the space so rely on proprietary patterns. Yarn kit landed cost EUR 6-10 workable.",
+   "regulatory_notes": "Textile fibre labelling (Reg 1007/2011), REACH azo dyes, hook is bamboo; GPSR; no toy status if marketed 14+.",
+   "score_adjustments": "Defensibility 3 relies on pattern IP and design; trend source unverified.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I167",
+   "action": "keep",
+   "reason": "No hard kill; felt panels are cheap and fit capital. Risk is IKEA Skadis and generic felt organisers; keep only with a distinctive design.",
+   "regulatory_notes": "Felt: REACH/azo; wall mounting load/GPSR; wool labelling.",
+   "score_adjustments": "Defensibility 3 is generous; consider 2.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I133",
+   "action": "keep",
+   "reason": "Paper stickers/washi are low-capex and regulation-light; sell as >=EUR 15 kit. Amazon.de is crowded with cheap sticker packs so design and bundle are the only moat.",
+   "regulatory_notes": "Minimal: GPSR; washi/ink REACH basic; EPR packaging.",
+   "score_adjustments": "Defensibility 2 confirmed.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I019",
+   "action": "keep",
+   "reason": "No hard kill; glass crystals plus applicator within capital; Amazon has EUR 8-12 kits so premium positioning must hold >=EUR 15. Test crystals for lead/cadmium.",
+   "regulatory_notes": "REACH Annex XVII (lead/cadmium in articles), adhesive/wax pickup CLP if sold as mixture; GPSR; avoid kids marketing to stay out of Toy Directive.",
+   "score_adjustments": "Trend rising but copycat risk high.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I171",
+   "action": "keep",
+   "reason": "Stainless bent shelf is low-tool (press brake/hook) and fits capital; Amazon has generic radiator dryers but design/finish angle exists. Ensure retail >=EUR 15.",
+   "regulatory_notes": "GPSR: heat resistance, stability, hot-surface warning; stainless food-contact not relevant; EPR packaging.",
+   "score_adjustments": "Defensibility 3 arguable; trend unverified.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I020",
+   "action": "keep",
+   "reason": "No hard kill but marginal: custom brass heads need die engraving per motif (keep to 2-3 designs, est. under EUR 1k) and Amazon is full of EUR 10-15 seal kits.",
+   "regulatory_notes": "Burn/fire hazard warnings for wax; REACH lead in brass (test, Annex XVII entry 63); GPSR; FSC claim substantiation.",
+   "score_adjustments": "Cap defensibility at 3; watch tooling total.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I194",
+   "action": "keep",
+   "reason": "Not a hard kill but regulation-heavy: children craft = Toy Safety Directive/EN71 testing (~EUR 1-2k) which eats the capital; keep only if kit marketed with testing budgeted and seasonal timing met.",
+   "regulatory_notes": "Toy Safety Directive 2009/48/EC (CE, EN71-1/-3 migration, labelling), REACH microplastics restriction (Reg 2023/2055) compliance proof, GPSR.",
+   "score_adjustments": "EU score 2 correct; seasonal (Christmas 2026 already missed) and Eco-glitter brands exist.",
+   "trend_stage_check": "Trend stage questionable"
+  },
+  {
+   "primary": "I177",
+   "action": "keep",
+   "reason": "Food-grade oil/wax balm is simple, high margin and consumable; competition (Lodge, de Buyer, Smith's) is real but angle is refill/Nordic design. Use contract filler.",
+   "regulatory_notes": "Food-contact adjacent: use food-grade ingredients, Reg 1935/2004 DoC if marketed as food-contact; avoid cosmetic/health claims; CLP not hazardous; shelf-life/rancidity testing.",
+   "score_adjustments": "Defensibility 2.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I004",
+   "action": "kill",
+   "reason": "Magnetic fridge shelves are already an Amazon deal-cycle commodity (~EUR 18) and a rail plus multiple modules needs several tools/dies, pushing past the tooling/capital gate with no real moat.",
+   "regulatory_notes": "Strong magnets: GPSR/swallow warnings; stamped steel food-adjacent coating REACH.",
+   "score_adjustments": "Defensibility 2, fit overstated.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I063",
+   "action": "kill",
+   "reason": "Peeler retail is typically <EUR 15 with Victorinox, Kuhn Rikon and OXO dominating, plus stamped-blade die cost; single-anecdote trend.",
+   "regulatory_notes": "Food-contact Reg 1935/2004 DoC for blade/handle; GPSR.",
+   "score_adjustments": "Trend 2 already weak.",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I324",
+   "action": "stay_killed",
+   "reason": "Kill stands: compatible filter baskets for Maytronics/Aiper are dropship-able Amazon commodities with OEM brand fight, same logic as I322.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I087",
+   "action": "stay_killed",
+   "reason": "Kill stands: a pump-lid system needs silicone plus pump mechanism tooling well above EUR 2k and food-contact compliance on top.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I221",
+   "action": "stay_killed",
+   "reason": "Kill stands: detent/magnet bit holder needs injection tooling and category is saturated.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I077",
+   "action": "stay_killed",
+   "reason": "Kill stands: cable sleeves and clips are saturated Amazon commodities with no moat.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I260",
+   "action": "stay_killed",
+   "reason": "Kill stands: descaler is a CLP chemical product vs Durgol/Melitta incumbents; filters are commodity.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I207",
+   "action": "stay_killed",
+   "reason": "Kill stands: car-model-specific sizing means many SKUs, private-label dominated, unverified demand.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I257",
+   "action": "stay_killed",
+   "reason": "Kill stands: detergent tablets fall under Detergents Regulation and CLP with incumbents dominating.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I068",
+   "action": "stay_killed",
+   "reason": "Kill stands: generic scrapers/cloths, price pressure near EUR 15, private-label dominated.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I259",
+   "action": "stay_killed",
+   "reason": "Kill stands: fabric bowl covers are easily copied and flooded with reusable-wrap alternatives.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I241",
+   "action": "stay_killed",
+   "reason": "Kill stands: flooded wallet category with weak IP.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I130",
+   "action": "stay_killed",
+   "reason": "Kill stands: cuticle oil triggers cosmetics regulation (CPNP, safety report, Responsible Person) and press-ons are Amazon private-label flooded.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  },
+  {
+   "primary": "I330",
+   "action": "stay_killed",
+   "reason": "Kill stands: brush cleaner mats are crowded on Amazon and any cleansing bar adds cosmetics burden.",
+   "regulatory_notes": "",
+   "score_adjustments": "",
+   "trend_stage_check": ""
+  }
+ ]
+}

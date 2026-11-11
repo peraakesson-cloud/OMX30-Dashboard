@@ -1,0 +1,112 @@
+{
+ "checks": [
+  {
+   "primary": "I003",
+   "links_checked": 1,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Evidence is a device keyword (label printer +332%), explicitly not sticker label sets; SV/DA demand inferred only. Generic label sets likely crowded on Amazon; Nordic-language angle unverified."
+  },
+  {
+   "primary": "I197",
+   "links_checked": 1,
+   "links_valid": 0,
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -2,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Only link is an EU repair-policy article on appliances, not windows; stated energy-saving demand 'not verified'. Weak/indirect."
+  },
+  {
+   "primary": "I163",
+   "links_checked": 4,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": 0,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Four independent press pieces on Gen Z needlepoint/bag charms (plausible, mostly US); Nordic demand and Michaels figures unverified. Etsy/Amazon kit supply not checked; risk of early flooding."
+  },
+  {
+   "primary": "I078",
+   "links_checked": 2,
+   "links_valid": 0,
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -2,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Evidence is an old Reddit mirror (2024 thread id) and a blog; shows a perennial dilemma, not a rising trend. Reddit mirror domain is dubious."
+  },
+  {
+   "primary": "I051",
+   "links_checked": 2,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "peaking",
+   "trend_adjust": -2,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Analog trend real but own evidence says peaking, desk-specific data absent, stationery crowded; links are secondhand roundups."
+  },
+  {
+   "primary": "I151",
+   "links_checked": 2,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": 0,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Euromonitor/PetfoodIndustry support cat-segment growth generally, not refillable silvervine toys; silvervine toys already common on Amazon.de/.co.uk (unchecked). Category growth real, niche unverified."
+  },
+  {
+   "primary": "I165",
+   "links_checked": 3,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "peaking",
+   "trend_adjust": -2,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Board-game boom is real but vendor-sourced figures; category crowded by established publishers; design/IP-dependent and unreachable for 2 part-time founders to out-differentiate. Treat as peaking."
+  },
+  {
+   "primary": "I065",
+   "links_checked": 2,
+   "links_valid": 0,
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Links are explainers/retailer blog, no demand data; trend unverified. Niche low-volume consumable."
+  },
+  {
+   "primary": "I167",
+   "links_checked": 3,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "peaking",
+   "trend_adjust": -1,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Links are guidance/listicles, not demand data; Leitz/IKEA/Nobo already sell wall organisers; stage likely flooded in pegboard organisers."
+  },
+  {
+   "primary": "I059",
+   "links_checked": 3,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": -1,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Forum/blog links show DIY secondary glazing interest, but film described as poor; magnetic secondary-glazing brands (e.g. Indow, magnetic panes in UK) already exist. Demand signal indirect; seasonal winter timing is favorable."
+  },
+  {
+   "primary": "I048",
+   "links_checked": 2,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": -1,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Policy news (Swedish phone guidance) real-sounding but demand for toy rolls inferred; kids activity rolls/wipe-clean mats are widely sold on Amazon (unchecked), so 'early' is overstated."
+  },
+  {
+   "primary": "I019",
+   "links_checked": 3,
+   "links_valid": 0,
+   "claims_supported": "partly",
+   "trend_stage": "flooded",
+   "trend_adjust": -2,
+   "note": "Links unreachable from sandbox (proxy 403; Firecrawl out of credits); not verified live. Search growth cited (Exploding Topics, Pinterest, TikTok) is plausible but link to generic /topic page is not specific; trend is commodity DIY-gem craze with many cheap kits on Amazon/Temu; likely peaking/flooded, glass-crystal premium angle unproven."
+  }
+ ]
+}

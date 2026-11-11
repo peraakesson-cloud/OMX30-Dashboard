@@ -1,0 +1,112 @@
+{
+ "checks": [
+  {
+   "primary": "I132",
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": 0,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Specific Bloomberg/Yahoo (Papier) claims are plausible and consistent with analog trend, but unconfirmed; Nordic-language gap not verified; Papier/Hobonichi are the crowded benchmark.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I060",
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Links are advice/forum threads showing a recurring problem, not a rising trend; 'early' stage is unsupported.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I061",
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Forum threads show steady debate, no growth data; wood/board wax bars are numerous on Amazon and Etsy, likely crowded.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I188",
+   "claims_supported": "partly",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Links are EU policy items (ESPR); no demand evidence for repair kits, idea itself admits inference only.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I335",
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -2,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. No evidence links; self-declared unverified.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I311",
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -2,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. No evidence links; self-declared unverified.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I064",
+   "claims_supported": "no",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Links are educational bird-strike factsheets, no EU demand or trend data; existing decal brands (WindowAlert etc.) likely present.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I023",
+   "claims_supported": "partly",
+   "trend_stage": "flooded",
+   "trend_adjust": -2,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Trend claim rests on one unverified secondary source (+1200%); idea itself says peaking with Hobbii and Etsy crowding.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I075",
+   "claims_supported": "partly",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Mumsnet threads confirm a persistent problem, not growth; Nordic angle is inference.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I076",
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Forum complaints show pain, not growth; incumbents (Army Painter, Redgrass) exist; confidence Low.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I133",
+   "claims_supported": "partly",
+   "trend_stage": "growth",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Korea Times/Asiae are Korean-market, one is 2022; Michaels +63% stat unconfirmed; EU demand unverified; stickers copyable and crowded on Etsy.",
+   "links_checked": 0,
+   "links_valid": 0
+  },
+  {
+   "primary": "I106",
+   "claims_supported": "partly",
+   "trend_stage": "unknown",
+   "trend_adjust": -1,
+   "note": "Links could not be opened (sandbox proxy 403, Firecrawl out of credits); Amazon.de/.se/.co.uk not reachable. Single press-release on one Kickstarter game; does not evidence demand for Scandi-localised family card games.",
+   "links_checked": 0,
+   "links_valid": 0
+  }
+ ]
+}

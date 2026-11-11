@@ -1,0 +1,166 @@
+{
+ "verdicts": [
+  {
+   "primary": "I060",
+   "action": "keep",
+   "reason": "Passive vent filters/brushes, no tooling beyond die-cut; no hard kill.",
+   "regulatory_notes": "GPSR only; REACH on filter media; no biocide/mould-removal claims."
+  },
+  {
+   "primary": "I163",
+   "action": "keep",
+   "reason": "Adult craft kit, Nordic motifs and refill yarn are the angle; first order small.",
+   "regulatory_notes": "GPSR; REACH azo dyes on yarn; needle safety labelling; EN71 only if marketed to kids."
+  },
+  {
+   "primary": "I078",
+   "action": "keep",
+   "reason": "Printed cardboard, no tooling, clean regulatory profile.",
+   "regulatory_notes": "PPWR/EPR packaging only; FSC paper optional."
+  },
+  {
+   "primary": "I311",
+   "action": "keep",
+   "reason": "Gasket/latch kit, die-cut/extruded, no mould; strong founder fit (VELUX).",
+   "regulatory_notes": "GPSR; REACH on EPDM/foam; not a CPR construction product unless fire/airtightness claims are made; avoid fire-hatch claims."
+  },
+  {
+   "primary": "I165",
+   "action": "keep",
+   "reason": "Printed cards in tin, MOQ ~500 fits gate; original IP.",
+   "regulatory_notes": "If marketed to under-14s, EN71/Toy Safety Directive applies; adult positioning keeps it GPSR only; ink REACH."
+  },
+  {
+   "primary": "I075",
+   "action": "keep",
+   "reason": "Fabric/foam strips, no tooling; roof-window angle is VELUX-adjacent. Use adhesive/hook-loop, not strong magnets.",
+   "regulatory_notes": "GPSR; strong magnets in kids rooms are a swallow hazard (avoid); flame-retardancy/cord-safety awareness for nursery use."
+  },
+  {
+   "primary": "I059",
+   "action": "keep",
+   "reason": "Nordic-size pre-cut panes are the only angle; marginal, Amazon.de has generic window-film kits, so watch SKU count vs EUR 6k.",
+   "regulatory_notes": "GPSR; PET/acrylic REACH; magnetic tape small magnets; no energy-saving claims without evidence."
+  },
+  {
+   "primary": "I106",
+   "action": "keep",
+   "reason": "Original game, MOQ ~500 decks fits gate; localisation plus Gamefound angle.",
+   "regulatory_notes": "Toy Safety Directive/EN71 and CE for 6-12 audience; inks REACH; small parts none."
+  },
+  {
+   "primary": "I116",
+   "action": "kill",
+   "reason": "Amazon.de flooded with generic magnetic spice tin sets, and refill spice pouches add food-business registration and labelling burden.",
+   "regulatory_notes": "Food-contact (1935/2004, LFGB) on tins/jars; spice pouches fall under food hygiene/labelling rules."
+  },
+  {
+   "primary": "I281",
+   "action": "keep",
+   "reason": "Refill core is the repeat engine; stock metal/bamboo handle avoids moulds. Flag: 3M dominance and adhesive-roll MOQ must be checked.",
+   "regulatory_notes": "GPSR; REACH on adhesive; compostable claims need substantiation (Green Claims/UCPD)."
+  },
+  {
+   "primary": "I289",
+   "action": "keep",
+   "reason": "Extruded/die-cut absorbent strip with refill cores, low tooling; flag generic condensation absorbers on Amazon.",
+   "regulatory_notes": "No anti-mould/biocidal claims (BPR treated-article risk); GPSR; REACH."
+  },
+  {
+   "primary": "I047",
+   "action": "keep",
+   "reason": "Curated kit with paper/paint refills, repeat purchase; sourcing is a founder edge.",
+   "regulatory_notes": "Art materials: CLP/REACH on pigments, EN71-5 if marketed to kids; PPWR packaging."
+  },
+  {
+   "primary": "I071",
+   "action": "kill",
+   "reason": "Solid perfume is a cosmetic: Reg 1223/2009 CPSR, CPNP, GMP filler, allergen labelling, plus custom pod tooling and entrenched incumbents; fit 2 and capital gate at risk.",
+   "regulatory_notes": "Cosmetics Regulation 1223/2009 (Responsible Person, CPSR, CPNP, ISO 22716), IFRA/allergens, PPWR."
+  },
+  {
+   "primary": "I005",
+   "action": "keep",
+   "reason": "Textile, no tooling, colour-match guide gives a thin brand angle; margin fine at EUR 18-25.",
+   "regulatory_notes": "Textile labelling Reg 1007/2011; REACH dyes (OEKO-TEX advisable); PPWR."
+  },
+  {
+   "primary": "I137",
+   "action": "kill",
+   "reason": "Binder/toploader category is flooded with generic Alibaba-sourced Amazon.de listings and established brands (Ultra Pro etc.); 'premium' is a lookalike with no real angle.",
+   "regulatory_notes": "Low regulatory burden (GPSR, PVC phthalate REACH) but commoditised."
+  },
+  {
+   "primary": "I017",
+   "action": "stay_killed",
+   "reason": "Fad charms, pure lookalike, no angle; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I198",
+   "action": "stay_killed",
+   "reason": "Generic bottle sets flooded; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I038",
+   "action": "stay_killed",
+   "reason": "Commodity latch at EUR 15-19 price floor; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I206",
+   "action": "stay_killed",
+   "reason": "Flooded poop-bag category at price floor; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I334",
+   "action": "stay_killed",
+   "reason": "Zeiss/generic lens spray flooded, near floor; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I263",
+   "action": "stay_killed",
+   "reason": "Private-label dominated, near floor; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I331",
+   "action": "stay_killed",
+   "reason": "Flooded pen category, no angle; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I229",
+   "action": "stay_killed",
+   "reason": "Cork mats are commoditised, supplier exclusivity not credible; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I217",
+   "action": "stay_killed",
+   "reason": "Lookalike accessory near floor; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I074",
+   "action": "stay_killed",
+   "reason": "Saturated jewellery roll category; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I303",
+   "action": "stay_killed",
+   "reason": "Generic magnetic mesh flooded on Amazon EU; kill stands.",
+   "regulatory_notes": ""
+  },
+  {
+   "primary": "I062",
+   "action": "stay_killed",
+   "reason": "Finish/Calgon dominance plus CLP-labelled chemical; kill stands.",
+   "regulatory_notes": ""
+  }
+ ]
+}
