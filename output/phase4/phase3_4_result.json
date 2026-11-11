@@ -1,0 +1,357 @@
+{
+ "deep": [
+  {
+   "primary": "I132",
+   "name": "Nordic Techo Planner + Refills",
+   "total": 3.14,
+   "scores": {
+    "trend": 3,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 4,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Conditional / park unless a cheap demand test passes. Low capital and repeat refills are attractive, but a Nordic-language layout is easy to copy, Hobonichi is already sold in Sweden, paper is single-source, and the 2027 season is gone (launch a 2028 or Aug-2027 school-year edition). Run a waitlist test (EUR 300-500 spend, kill under about 150-200 sign-ups, ASSUMPTION) and get paper/printer quotes before ordering."
+  },
+  {
+   "primary": "I003",
+   "name": "Nordic pantry label kit (SV/DA)",
+   "total": 2.57,
+   "scores": {
+    "trend": 2,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 2,
+    "eu": 3,
+    "fit": 3
+   },
+   "verdict": "Weak; do not run as the hero product. Margin and capital fit, but demand is unproven, labels are bundled free with container sets or DIY, and it is copyable in days. At most a sub-EUR 500 Etsy/TikTok fake-door test or an add-on to a stronger product."
+  },
+  {
+   "primary": "I163",
+   "name": "Nordic punch-needle bag-charm kits",
+   "total": 2.86,
+   "scores": {
+    "trend": 3,
+    "defensibility": 2,
+    "margin": 3,
+    "repeat": 3,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Conditional / lean pass as a main bet. Run only a EUR 1-1.5k validation (pre-sale of 2-3 motifs, 20-30 short videos, DK/SE waitlist) with gates: CVR over 2%, CAC under EUR 12, refill attach over 15%; otherwise drop."
+  },
+  {
+   "primary": "I060",
+   "name": "Trickle-vent refresh kit",
+   "total": 2.86,
+   "scores": {
+    "trend": 1,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 3,
+    "eu": 4,
+    "fit": 4
+   },
+   "verdict": "PARK / likely no-go as a standalone brand. The problem is real and the first order is cheap, but demand is tiny and unverified, the price sits near the cost of replacing the whole vent, OEMs and generic strips substitute, and the compatibility moat is slow to build. Only revisit if a cheap test (SEO page or installer pilot) shows real search or purchase demand."
+  },
+  {
+   "primary": "I061",
+   "name": "Nordic wood care bar",
+   "total": 2.86,
+   "scores": {
+    "trend": 2,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 3,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Weak/conditional. Do not choose as the lead product. Attractive paper margin and trivial compliance, but a commodity with a near-identical formulation already sold (Holzland) and a Nordic plant-based rival, DIY anchors at EUR 6-12, no verifiable growth, and negative first-order payback at plausible CAC. Viable only as a low-effort bundle or add-on with boards/utensils or via board-maker partnerships. Full write-up: /home/user/OMX30-Dashboard/output/phase3/I061.md"
+  },
+  {
+   "primary": "I197",
+   "name": "Home Maintenance Spare Kit for Windows",
+   "total": 2.86,
+   "scores": {
+    "trend": 2,
+    "defensibility": 2,
+    "margin": 3,
+    "repeat": 3,
+    "eu": 4,
+    "fit": 4
+   },
+   "verdict": "NO-GO as standalone product. Park or run only a cheap content/SEO demand test. Margin marginal ex-VAT, defensibility weak, demand unverified, incumbent already sells a similar kit at ~EUR 26-32."
+  },
+  {
+   "primary": "I188",
+   "name": "Repair-first mending kit",
+   "total": 2.57,
+   "scores": {
+    "trend": 2,
+    "defensibility": 2,
+    "margin": 3,
+    "repeat": 2,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Weak; do not pursue as a standalone hero SKU. It passes the capital and regulatory gates, but defensibility is low, the price is 2-5x the cheap Amazon sets, and paid acquisition is uneconomic. Consider only as a gift-season test (about EUR 500, 50 units) plus B2B co-brand outreach to Nordic outdoor/bag brands. Analysis: /home/user/OMX30-Dashboard/output/phase3/I188.md"
+  },
+  {
+   "primary": "I151",
+   "name": "Refillable silvervine cat toy",
+   "total": 3,
+   "scores": {
+    "trend": 3,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 3,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Weak; do not pick as a primary idea. It is cheap, low-tooling and compliant, but refillable catnip/silvervine plush already exists from KONG, Gigwi, Spot, SmartyKat and Jackson Galaxy, a copycat could match it within months, and the refill habit competes with EUR 3-4 loose catnip. At most run a ~EUR 500 smoke test (landing page plus a 100-unit sample) if nothing better emerges. Full write-up: /home/user/OMX30-Dashboard/output/phase3/I151.md"
+  },
+  {
+   "primary": "I049",
+   "name": "Scandinavian architecture cardboard build kit",
+   "total": 2.86,
+   "scores": {
+    "trend": 3,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 2,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Park/conditional. Do not place a ~EUR 5k production order. If pursued, run a EUR 500-1,000 validation (2 designs, laser-cut prototypes, pre-sale page, TikTok timelapses) with a gate of ~100 pre-orders at EUR 35+ before any production. The Daylight Lab kids variant plays better to the founders' daylight expertise but adds EN71/toy regulation."
+  },
+  {
+   "primary": "I171",
+   "name": "Radiator glove and boot dryer shelf",
+   "total": 2.71,
+   "scores": {
+    "trend": 3,
+    "defensibility": 2,
+    "margin": 3,
+    "repeat": 2,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "NO-GO / deprioritise. Cheap to make and fits capital, but a copyable bent-steel accessory facing EUR 10-20 incumbents and electric shelves, with thin contribution margin, low repeat, seasonal demand and unproven search demand. Only revisit if an Amazon search-volume check and EUR 300 pre-order test show strong pull."
+  },
+  {
+   "primary": "I281",
+   "name": "Refillable lint/pet-hair roller",
+   "total": 2.71,
+   "scores": {
+    "trend": 3,
+    "defensibility": 1,
+    "margin": 3,
+    "repeat": 4,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Pass/no-go as specified. No moat, IKEA and Muji anchor refills at EUR 2-3 vs the proposed EUR 9 3-pack, and CAC exceeds first-order contribution. Revisit only if a proven, cheap compostable refill source and a distinct premium design positioning emerge."
+  },
+  {
+   "primary": "I020",
+   "name": "Nordic Letter Seal Set",
+   "total": 2.71,
+   "scores": {
+    "trend": 3,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 2,
+    "eu": 4,
+    "fit": 2
+   },
+   "verdict": "Weak / no-go as the core bet. Margin looks fine, but this is a crowded EUR 4-27 craft commodity with trivial copying, weak repeat, and CAC likely above first-order contribution; founder edges do not apply. At most run a EUR 500-1,000 pre-sell test (2 motifs) or fold it into a broader Nordic letter-writing range (I050)."
+  },
+  {
+   "primary": "I064",
+   "name": "Nordic Bird-Safe Window Kit / Decal Sets",
+   "total": 3,
+   "scores": {
+    "trend": 2,
+    "defensibility": 2,
+    "margin": 4,
+    "repeat": 2,
+    "eu": 5,
+    "fit": 4
+   },
+   "verdict": "Weak conditional go. Run a EUR 300-500 demand and efficacy test before the first order. It clears the hard kills and the capital cap, with high product margin. But demand in SE/DK is unverified, a copycat is easy, repeat is low, and paid CAC exceeds contribution. Worth doing only with an SEO/NGO/co-op channel and a credible tested pattern."
+  },
+  {
+   "primary": "I289",
+   "name": "Window condensation strip / absorber refill system",
+   "total": 2.57,
+   "scores": {
+    "trend": 2,
+    "defensibility": 1,
+    "margin": 4,
+    "repeat": 3,
+    "eu": 4,
+    "fit": 3
+   },
+   "verdict": "Weak / no-go as a stand-alone brand. Margin looks fine on paper, but it is a EUR 5-15 commodity with no moat, it treats the symptom, and paid acquisition likely loses money on the first order. Pursue only as a time-boxed test costing under EUR 1k (landing page, samples, SE/DK pre-orders) or if a landlord or housing-association B2B order materialises. Full write-up at /home/user/OMX30-Dashboard/output/phase3/I289.md. Firecrawl credits ran out, amazon.de and several other hosts were unreachable, and amazon.de has to be allowed in the session's network settings to retry; the Firecrawl daily MCP credits refresh in 7h 24m, and credits can be added or the plan upgraded at https://www.firecrawl.dev/billing/erzqhrs50gpr9nmxajmc3xme1nqzkze6"
+  },
+  {
+   "primary": "I065",
+   "name": "Balcony Bokashi Finisher Refills",
+   "total": 2.29,
+   "scores": {
+    "trend": 2,
+    "defensibility": 2,
+    "margin": 3,
+    "repeat": 3,
+    "eu": 2,
+    "fit": 2
+   },
+   "verdict": "PASS. Tiny niche, commodity bran priced EUR 9-13/kg, trivially copyable, unresolved regulatory classification, and the core pain is mostly solved by mandatory municipal food-waste collection in Sweden and Denmark. Not worth the founder hours as a primary product."
+  }
+ ],
+ "rank": {
+  "top6": [
+   {
+    "primary": "I132",
+    "rank": 1,
+    "reason": "Highest total and the only idea with real repeat revenue (refills/annual cycle) and a credible 3x/65% on a EUR 5-6k first order; defensibility is weak, so red-team the single-source paper, copyability and the missed 2027 season, with the waitlist test as gate. Evidence Low."
+   },
+   {
+    "primary": "I064",
+    "rank": 2,
+    "reason": "Best EU-regulatory fit (5) and capital fit (4), ~79% product margin and ~4.8x landed, no tooling, and the ex-VELUX glazing angle gives a real founder edge. Red-team the efficacy claim/consumer-law risk and CAC vs ~EUR 8-10 contribution."
+   },
+   {
+    "primary": "I151",
+    "rank": 3,
+    "reason": "Strong paper margin (74-84%), refill attach adds repeat, low tooling, compliant; first order EUR 5.5-6k fits the cap. Defensibility is nil against KONG/Gigwi, so red-team whether a Nordic brand and refill habit can justify CAC."
+   },
+   {
+    "primary": "I163",
+    "rank": 4,
+    "reason": "Refill/drop model, design-led (founder design edge), no tooling and EUR 3.3k first order. Margin only clears 3x at low cost end and it is fad-driven; red-team durability and CAC under EUR 12 as the kill gate."
+   },
+   {
+    "primary": "I060",
+    "rank": 5,
+    "reason": "The one idea that leans on the ex-VELUX building edge with a compatibility-data moat that could build over time, cheap EUR 1.8k first order, repeat refills. Demand unverified and tiny; red-team whether demand exists at all."
+   },
+   {
+    "primary": "I171",
+    "rank": 6,
+    "reason": "Gross margin ~68% and ~3.9x landed with a tangible Nordic-winter use case and the highest SAM (~EUR 30M, assumption); sourcing/robotics-cleaning-tech edge applies. Fills the physical-product/non-consumable slot for diversity; red-team the tooling at ~EUR 0.8k, safety testing and EUR 10-20 incumbents."
+   }
+  ],
+  "cuts": [
+   {
+    "primary": "I197",
+    "reason": "VELUX already sells a comparable kit at EUR 26-32 through DIY chains; margin only marginal ex-VAT and it is a direct competitor of the founders' former employer."
+   },
+   {
+    "primary": "I289",
+    "reason": "EUR 5-15 commodity felt tape with no moat, first order at the budget cap (EUR 5-6.5k) and CAC far above ~EUR 8-9 contribution."
+   },
+   {
+    "primary": "I061",
+    "reason": "Near-identical formulation already sold (Holzland, Nourishing); EUR 6-12 DIY anchor, negative first-order payback and slow repeat."
+   },
+   {
+    "primary": "I281",
+    "reason": "Defensibility 1; IKEA/Muji refills at EUR 2-3 anchor against a EUR 9 pack, so the repeat thesis fails."
+   },
+   {
+    "primary": "I003",
+    "reason": "Labels come free with container sets or as printables, copyable in days, and the EUR 17 price is near the hard-kill floor with weak repeat."
+   },
+   {
+    "primary": "I188",
+    "reason": "EUR 6-15 Amazon awl kits anchor price, margin borderline (63%/2.7x at EUR 34), trivially copyable commodity components, no repeat."
+   },
+   {
+    "primary": "I049",
+    "reason": "Occupied shelf (Zupagrafika, Litogami, LEGO Architecture), one-off purchase, CAC exceeds contribution and total cost with tooling reaches EUR 6.4k."
+   },
+   {
+    "primary": "I020",
+    "reason": "Crowded EUR 4-27 craft commodity, founder edges do not apply, brass dies cheaply copied, first-order contribution negative after CAC."
+   },
+   {
+    "primary": "I065",
+    "reason": "Tiny niche (~EUR 0.4M Nordic SAM), mandatory municipal food-waste collection removes the need, commodity bran, unresolved regulatory classification."
+   }
+  ]
+ },
+ "chair": {
+  "final3": [
+   {
+    "primary": "I132",
+    "name": "Nordic Techo Planner + Refills",
+    "rank": 1,
+    "revised_scores": {
+     "trend": 2,
+     "defensibility": 2,
+     "margin": 3,
+     "repeat": 3,
+     "eu": 4,
+     "fit": 3
+    },
+    "case_for": "Only idea with a genuine repeat mechanic (annual refill) and an Aug 2027 school-year launch window that leaves 9 months to validate before cash is committed. Pure design/pricing/brand work suits the founders. Category demand is real (Hobonichi >1M copies, Papier >GBP 40M) though not proven for an unknown Nordic brand. Cheapest to test (EUR 300-500 preorder). Red team is right that defensibility is 1-2 and 3.1x is razor-thin on an unverified landed cost; it ranks first only because the downside is fully testable before spend.",
+    "key_risks": "Layout is a file: Burde, Etsy/POD sellers and Hobonichi's Nordic reseller can copy within a season. Single-source Tomoe-type paper (Wonderland 222 dropped Sanzen for 2026 per red-team sources); MOQ and price unknown. 3.1x holds only at EUR 9 landed; at EUR 11 it is 2.5x. Paid CAC EUR 15-25 exceeds contribution EUR 11-13; wholesale ~36% margin fails target. Dated stock near worthless after January. All Nordic demand numbers are ASSUMPTION; confidence Low.",
+    "must_fix_before_sourcing": "(1) Written paper+print quote with MOQ, lead time, landed <= EUR 7-8; drop if Tomoe-type paper is unobtainable. (2) 150-300 PAID preorders (not waitlist) at ~EUR 35 for an Aug-2027 edition. (3) Show an organic channel delivering sign-ups at near-zero CAC. (4) A defensible hook: exclusive artist/designer licence or proprietary cover/refill format. (5) DTC only; no Amazon/wholesale."
+   },
+   {
+    "primary": "I064",
+    "name": "Nordic Bird-Safe Window Kit / Decal Sets",
+    "rank": 2,
+    "revised_scores": {
+     "trend": 2,
+     "defensibility": 1,
+     "margin": 4,
+     "repeat": 1,
+     "eu": 4,
+     "fit": 4
+    },
+    "case_for": "Best regulatory/capital profile (no CE, no tooling, flat letterbox kit, ~EUR 4-5k first order, ~79% product margin) and the one idea where the ex-VELUX glazing credibility is a usable asset: installers, BRF/co-op boards and architects form a B2B/SEO channel that escapes the EUR 6-13 consumer anchor. There is a real technical argument (dense grid at <=10 cm with install template) that cheap silhouette stickers fail.",
+    "key_risks": "Defensibility ~1: dots are trivial to copy; Solarscreen already makes 9 mm/90 mm dot film, Etsy/eBay/Kaufland sell dot sets. The efficacy claim is both differentiator and UCPD liability; an independent test may exceed EUR 2k (ASSUMPTION) and certifies a pattern others can copy. One-off purchase, near-zero repeat. Paid CAC EUR 35-45 vs contribution EUR 8-10. Outdoor adhesion in Nordic winter; low-E glass incompatibility. Realistic year-1 orders may be 100-300, not 600-1,000.",
+    "must_fix_before_sourcing": "(1) Measured demand: Trends/keyword volume in sv/da/de plus EUR 300 preorder test, gate ~150 paid preorders. (2) Signed bird-NGO partnership (BirdLife Sverige/DOF) or independent efficacy test; no 'bird-safe' wording without it. (3) Three supplier quotes confirming landed <= EUR 4 and a Nordic-rated outdoor adhesive. (4) Validate one B2B route (BRF boards or glazing installers via ex-VELUX network) as primary channel. (5) Verify SE/DK EPR thresholds and GPSR costs."
+   },
+   {
+    "primary": "I060",
+    "name": "Trickle-vent refresh kit",
+    "rank": 3,
+    "revised_scores": {
+     "trend": 1,
+     "defensibility": 2,
+     "margin": 3,
+     "repeat": 2,
+     "eu": 4,
+     "fit": 4
+    },
+    "case_for": "Smallest capital at risk (~EUR 1.8k, ~500 kits), no tooling beyond a die cutter, a real physical problem, and the strongest direct use of the building-industry edge: a fit-to-profile compatibility library and installer/window-maker relationships are the only moat in this field that is not just a file. A B2B repositioning (installers, housing associations, multipacks) is credible via ex-VELUX contacts. Third because loss is capped, not because upside is large.",
+    "key_risks": "Demand entirely ASSUMPTION; red-team searches found no visible replacement-filter category. Kit at EUR 19-25 is about the price of a whole new vent (Schellenberg EUR 23.99 at OBI; Hornbach Universal EUR 13.95 per snippet only). Contribution about zero after fees, postage, wrong-fit returns and CAC. OEMs (Volution/FRESH, VILPE) can sell own refills. Profile library multiplies SKUs against 10 h/week. Short winter season. Avoid mould/health/biocide claims.",
+    "must_fix_before_sourcing": "(1) Demand test: SEO how-to page plus ~EUR 200 ads in SE/DK/DE; gate email cost < EUR 5 and > 3% preorder intent. (2) Interview 5-10 installers/housing-association maintenance leads and obtain a pilot order or LOI at EUR 3-6/unit multipack. (3) Map the 3-5 most common vent profiles and prove a one-or-two-SKU universal fit. (4) Price check vs replacement vents; kill if consumer price cannot sit well under EUR 15 or B2B does not materialise."
+   }
+  ],
+  "reserve": {
+   "primary": "I163",
+   "name": "Nordic punch-needle bag-charm kits",
+   "reason": "Only candidate with a visible (fad-driven, US-centric) trend and a design edge, but Clas Ohlson, Panduro, Kit Company, DMC, Crafter's Companion and Etsy already own the shelf at EUR 9-17 vs the EUR 26 target, and defensibility is ~1. Activate only if a EUR 1k presale (finished-charm at EUR 29-35, exclusive Nordic artist licence, CVR >2%, organic CAC <EUR 8) clearly passes."
+  },
+  "cuts": [
+   {
+    "primary": "I151",
+    "name": "Refillable silvervine cat toy",
+    "reason": "Refillable silvervine plush already sold by Jackson Galaxy, Spot, Gigwi, SmartyKat and KONG (at Apotea.se) at about half the price; no moat, EUR 2.5-7 loose silvervine undercuts the refill, and EUR 20-35 CAC vs ~EUR 8 contribution is structurally loss-making."
+   },
+   {
+    "primary": "I171",
+    "name": "Radiator glove and boot dryer shelf",
+    "reason": "Commodity bent-steel accessory vs EUR 8-20 radiator airers and ADAX electric shelves, one purchase per customer, Oct-Feb only, hot-surface liability, wholesale/Amazon break the margin target, and glove-specific demand is unevidenced."
+   }
+  ],
+  "honest_overall_assessment": "This is the best of a weak field, not a set of genuinely good ideas. Both red-team passes and the analysts' own concessions converge on the same fatal flaw: near-zero defensibility, which the brief weights highest. In all six a copy needs only a file, a die cutter or an Asian sewing/printing factory, and most face verified incumbents already on the Nordic shelf (Burde, Hobonichi via Paper Whisper, Clas Ohlson, KONG at Apotea, Solarscreen). In five of six, paid acquisition (CAC EUR 15-45) exceeds first-order contribution (EUR 8-13), so growth depends on organic TikTok/IG luck that 10 founder-hours/week cannot reliably deliver. Every market size, landed cost, conversion and CAC figure is ASSUMPTION or a vendor-blog benchmark; confidence is Low throughout and no supplier quote exists for any idea. The 65%/3x margin claims are product-level and hold only on unverified landed costs, then fail at wholesale or Amazon. I did not run fresh searches: the red teams' evidence was consistent across reviewers and would not change the structural conclusion. Realistic expectation for the top 3: year-1 revenue of EUR 5-25k and roughly break-even at best. The sensible use of EUR 5-10k is not a production order but EUR 300-500 preorder/waitlist tests per idea (~EUR 1-1.5k total); order stock only if one passes its paid-preorder gate, and otherwise treat a null result as the finding and widen the search toward products with a proprietary mechanism, a consumable, or a B2B channel where the ex-VELUX/Nilfisk networks are a real structural advantage."
+ },
+ "red_n": 12
+}
