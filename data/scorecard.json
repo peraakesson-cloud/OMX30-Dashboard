@@ -3,8 +3,8 @@
     "date": "2026-11-11",
     "dateLabel": "Wed 11 Nov",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": 0.969,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "BULLISH_WITH_CAUTION",
@@ -17,8 +17,8 @@
       "US yields +245bp raises NIM outlook for Swedish banks despite NASDAQ weakness"
     ],
     "narrative": "OMX30 enters session with tailwinds from continental Europe's outperformance and a resilient technical setup\u2014bull market regime intact, +5.8% above 200-MA, MACD above signal with strong ADX of 65.2. However, RSI 81.53 and Stochastic K 95.9 signal overbought conditions with mean reversion risk; the index sits at 52-week highs with zero buffer. US tech weakness (NASDAQ -0.74%) and deteriorating correlation from Asia (Hang Seng -0.98%) inject caution, though USD strength and commodity firmness support Sweden's exporter complex. Critical watch: mean reversion off these extremes and US Jobless Claims at 14:30 CET could trigger volatility.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3360.01,
+    "magnitudeError": 0.569,
     "sectorImpacts": [
       {
         "sector": "Banks",
