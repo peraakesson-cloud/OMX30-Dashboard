@@ -1,0 +1,118 @@
+{
+ "lens": "S7",
+ "ideas": [
+  {
+   "name": "Stone-Sill Care Kit for housing associations (soap + paraffin oil + etch-repair pad)",
+   "concept": "Boxed kit for natural-stone (limestone/marble) window sills and stone steps: pH-neutral potassium-soap concentrate, food-grade paraffin oil, two cloths, a fine polishing pad for light etch marks, and a one-page care card in Swedish/Danish/English. Sold in bulk to housing associations (Brf), property managers and new-build handover packs, and at retail to owners.",
+   "target_customer": "Swedish/Danish Brf boards and property managers with stone sills (resident care duty); individual flat owners; stone-sill new-build handover packs.",
+   "problem_solved": "Brf care sheets already tell residents to use soap plus paraffin oil and warn that acid cleaners and chlorine etch limestone/marble, but residents must source 3-4 separate items and often use the wrong cleaner; polished surfaces are described as very hard to restore once damaged.",
+   "moat_mechanism": "HONEST: no IP stops copying of the contents. The defensibility is (a) B2B lock-in: once a Brf/property manager writes the kit into its care sheet and orders per-apartment handover packs, switching means re-issuing documents (founder housing-association network, ASSUMPTION that access exists); (b) an independent lab etch/pH test on limestone and marble (pH-neutral, no mass loss) that rivals must also pay for, ASSUMPTION EUR 500-1500, Low confidence; (c) EUR 350 EU registered design on the box/applicator is optional. Realistic defensibility 2-3.",
+   "trend_evidence": "Many Swedish Brf and municipal housing companies publish stone-sill care sheets prescribing Grummesapa soap and paraffin oil, i.e. there is documented, repeated maintenance demand and a named product spec to standardise. No search-volume data obtained (ASSUMPTION: niche). I could not verify any competing branded 'sill kit' on Swedish marketplaces.",
+   "evidence_links": [
+    "https://poseidon.goteborg.se/wp-content/uploads/2026/02/Fonsterbankar-av-natursten.pdf",
+    "https://familjebostader.com/globalassets/hyr-av-oss/nyproduktion/jordkabeln-1-alvsjostaden/29.-fonsterbankar.pdf",
+    "https://fristaden2.bostadsratterna.se/system/files/fristaden2_bostadsratterna_se/089cb47ff9fcc405d068411bb7943e61/Skotselanvisningar_fonsterbankar.pdf",
+    "https://www.sten.se/wp-content/uploads/2019/06/Natursten_Skötselanvisningar.pdf",
+    "https://gammelbyn.bostadsratterna.se/system/files/gammelbyn_bostadsratterna_se/778277686758a27fdf3f7a84a3eba2e7/Vem_ansvarar_for_underhallet.pdf"
+   ],
+   "price_point_eur": "Retail 29-39; Brf/property-manager bulk 19-24 per apartment (ASSUMPTION, Low confidence)",
+   "est_landed_cost_eur": "7-10 per kit at 500-600 units (ASSUMPTION: contract-blended soap and oil, microfibre, printed carton; Low)",
+   "est_first_order_eur": "Approx 4,500-5,500 for 600 kits (ASSUMPTION) plus 500-1,500 lab test",
+   "one_off_tooling_eur": "300-700 (printed carton die/insert); 350 optional EU registered design (EUIPO fee, High confidence on fee)",
+   "channel_edge": "Founder ex-housing/building network to Brf boards and property managers; handover packs bypass paid CAC; retail via Shopify only as secondary."
+  },
+  {
+   "name": "Corten Calm: run-off stabiliser for weathering-steel planters and cladding on terraces",
+   "concept": "Water-based wax/acrylic stabiliser sold in 1 L bottles with sponge applicator and a drip-tray template, designed so rust patina forms but run-off onto stone, tile and concrete is minimised; positioned for the 3-12 month stabilisation phase.",
+   "target_customer": "Owners of corten planters and edging on patios, balconies, Brf courtyards; garden designers and landscapers.",
+   "problem_solved": "Corten run-off stains light stone, ceramic tile, glass and concrete; the Swedish steel institute fact sheet warns tile and glass discolour and are hard to clean, and retailers state the surface can rub off, calling it natural. Advice on sealing is contradictory (some say seal, others say it defeats the patina).",
+   "moat_mechanism": "HONEST and weak: formulation spec held with an exclusive-use contract with a contract blender (ASSUMPTION, copyable by any chemist in months) plus an independent run-off staining test on limestone/concrete paver that rivals must also pay for (ASSUMPTION EUR 1,000-2,500, Low). Main risk is that the claim does not hold; a pilot test patch is required before ordering. Defensibility 2.",
+   "trend_evidence": "Bauhaus and Hornbach list a broad corten planter range (many SKUs), implying a large installed base; SBI and Hornbach both note colouring of adjacent surfaces. Finishing.com and supplier blogs show sealing is disputed, i.e. an unresolved need. Search volumes not obtained.",
+   "evidence_links": [
+    "https://media.sbi.se/2019/11/Fakta_om_corten.pdf",
+    "https://www.hornbach.se/projekt/cortenplat-i-tradgarden/",
+    "https://www.bauhaus.se/blomlada-recal-cortenstal-120x30x60cm",
+    "https://wovenwood.co.uk/blogs/news/corten-steel-planters-care-guide",
+    "https://www.promisteel.com/info/to-seal-or-not-to-seal-how-to-prevent-corten-103334153.html"
+   ],
+   "price_point_eur": "32-39 per 1 L (ASSUMPTION, Low)",
+   "est_landed_cost_eur": "6-9 per 1 L bottle incl. sponge, label (ASSUMPTION, Low)",
+   "est_first_order_eur": "3,500-4,500 for 500 bottles plus 1,000-2,500 test",
+   "one_off_tooling_eur": "0-300 (labels); no mould",
+   "channel_edge": "Landscaper/garden-designer B2B and Brf courtyard managers; organic search on 'corten rost avfarg'. Weakest unit economics of the set; needs repeat via re-coat every 1-2 years."
+  },
+  {
+   "name": "Cut-End Seal Kit for decking and timber-cladding installers",
+   "concept": "500 ml water-based end-grain and cut-edge sealer with two dauber brushes and a screw-hole tip, packed with a one-page installation sheet naming the sealing step; sold to deck/cladding installers and Brf maintenance teams, plus retail.",
+   "target_customer": "Deck and facade installers, Brf caretaker teams, DIY deck builders in Sweden and Norway-style markets.",
+   "problem_solved": "Moisture leaves/enters fastest through end grain; paint-system guides and a decking supplier's rules require sealing all cut ends, but the step is routinely skipped or done with random oil.",
+   "moat_mechanism": "HONEST: very weak, defensibility 1-2. Only moat is installer-spec adoption and a supplier warranty tie-in (ASSUMPTION; no relationships verified), plus an optional EUR 350 EU registered design on a dauber-cap bottle. Included mainly because the B2B channel gives low CAC. Retail price falls under the EUR 35 preference.",
+   "trend_evidence": "Supplier install rules say all cut ends must be sealed for the installation to be approved; Norwegian forum and Flugger/Hornbach guidance repeat it. No volume data.",
+   "evidence_links": [
+    "https://talgo.no/?p=5770",
+    "https://www.byggebolig.no/hage-uterom/forsegle-kuttender-i-impregnert-konstruksjon",
+    "https://www.hornbach.se/projekt/behandla-tra-utomhus/",
+    "https://www.maxbo.no/tips-og-inspirasjon/terrasse/behandling-av-trykkimpregnert-terrassegulv"
+   ],
+   "price_point_eur": "Retail 24-29; installer 15-18 (ASSUMPTION, Low)",
+   "est_landed_cost_eur": "5-7 per kit (ASSUMPTION)",
+   "est_first_order_eur": "3,500-4,500 for 800 kits",
+   "one_off_tooling_eur": "0-400 (label, optional EUR 350 registered design)",
+   "channel_edge": "Ex-building-industry installer and merchant contacts; low-CAC trade channel."
+  },
+  {
+   "name": "WaxCartridge: twist-up refill applicator for waxed cotton, canvas and leather gear",
+   "concept": "Clean, no-mess re-wax stick: proprietary refillable twist-up applicator with a snap-in 90 g beeswax/plant-wax cartridge, sold as starter plus subscription-able refills, with a rub-on shaping tip for seams and a fluorine-free test report.",
+   "target_customer": "Owners of waxed-cotton jackets, canvas bags, boat and camper covers, leather boots; Swedish/Danish outdoor and heritage-wear buyers.",
+   "problem_solved": "Block wax (e.g. Fjällräven Greenland Wax, paraffin plus beeswax, about EUR 9 per 90 g) needs heat and is messy; users get uneven coverage.",
+   "moat_mechanism": "EU registered design on the applicator and cartridge profile (EUR 350 EUIPO fee, one design; 75% SME Fund reimbursement possible) plus a cartridge-only consumable; rivals must make a different, non-confusable format. Cartridge compatible refills are the lock-in. A fluorine-free total-F lab test (EUR 200-500 ASSUMPTION) is a secondary cost for rivals. Honest defensibility 2-3: wax itself is generic and a rival can launch an incompatible stick within months.",
+   "trend_evidence": "Greenland Wax is a staple at Nordic outdoor retailers (about EUR 8.90-10.90 for 90 g, roughly EUR 121/kg), and one retailer says a 100 g block waxes about ten garments, so usage is repeat but infrequent. No Kickstarter data found.",
+   "evidence_links": [
+    "https://www.outnorth.com/fjallraven/greenland-wax",
+    "https://varuste.net/en/p361/fjällräven-greenland-wax-90-g",
+    "https://harperjames.co.uk/article/registered-community-design/"
+   ],
+   "price_point_eur": "Starter 29-35; refill 14-17 (ASSUMPTION; about 1.6-1.9x Fjällräven per gram, Low confidence on willingness to pay)",
+   "est_landed_cost_eur": "Starter 8-11; refill 3.5-5 (ASSUMPTION, Low)",
+   "est_first_order_eur": "About 7,500-9,000 for 500 starters plus 800 refills (ASSUMPTION)",
+   "one_off_tooling_eur": "3,000-4,500 (twist mechanism and cartridge mould, ASSUMPTION; use an off-the-shelf mechanism to stay under EUR 5k) plus 350 design registration"
+  },
+  {
+   "name": "Roof-Window Frame Refinish Kit for pine/white-lacquered interior frames",
+   "concept": "Kit with water-based white lacquer touch-up, fast-filler for corner moisture damage, sanding pads and tack cloth and a service-interval card, sized for the lower sash/lining of roof windows and wooden windows.",
+   "target_customer": "Installers, Brf caretakers and owners of roof windows in bedrooms, kitchens and baths where condensation damages the finish.",
+   "problem_solved": "Manufacturers' maintenance guidance calls for re-lacquering as often as every two years in high-humidity rooms; Boverket lists paint flaking and rot as routine checks; forum users improvise wood repairs. OEM sells its own repair lacquer for clear-lacquered windows only (verified in the German maintenance doc).",
+   "moat_mechanism": "HONEST: weak, defensibility 2. Competitors include the window OEM's own repair lacquer. Edge is the installer/Brf channel and a pre-matched colour and humidity-rated lacquer test; no IP. Must avoid OEM trademarks and compatibility claims without permission.",
+   "trend_evidence": "OEM maintenance doc gives 2-7 year re-lacquer intervals; byggahus threads show owners hunting for repair steps; Boverket tells owners to check paint flaking and rot.",
+   "evidence_links": [
+    "https://contenthub.velux.com/api/public/content/7bc4374b9abb43378f76098c87ff38d6",
+    "https://www.byggahus.se/forum/threads/takfonster-tillfalligt-laga-fuktskada-ramen.576604/",
+    "https://www.boverket.se/sv/byggande/forebygg-fel-brister-skador/risker-byggande/risker-fuktskador/fuktrisker-yttervaggar/fasadmaterial-ytskikt/risker-fonster-dorrar/"
+   ],
+   "price_point_eur": "Retail 29-39; installer 19-24 (ASSUMPTION, Low)",
+   "est_landed_cost_eur": "8-11 per kit (ASSUMPTION)",
+   "est_first_order_eur": "4,000-5,500 for 500 kits",
+   "one_off_tooling_eur": "300-500 (printed packaging); no mould",
+   "channel_edge": "Ex-roof-window industry contacts with installers and Brf caretakers, a channel the founders know; check any non-compete or brand restrictions before using it."
+  },
+  {
+   "name": "Awning & Cab-Canvas Refill Pouch System for motorhome and caravan owners",
+   "concept": "Concentrated cleaner + PFAS-free re-proofer in refill pouches with a pump bottle and brush, with a lab hydrostatic-head test result on the label; aimed at the growing motorhome base.",
+   "target_customer": "Motorhome/caravan owners in Sweden and Denmark.",
+   "problem_solved": "Owners piece together cleaners and proofers (Biltema, Bauhaus, Dickson TEX' guidance); results unmeasured.",
+   "moat_mechanism": "HONEST: weakest of the set, defensibility 1-2. Only edges: lab water-repellency test (EUR 300-800 ASSUMPTION) and a pump-bottle/pouch format with optional EUR 350 registered design. No exclusive channel; incumbents Biltema/Bauhaus/Dickson are strong.",
+   "trend_evidence": "Swedish motorhome registrations rose about 46% in 2025 to roughly 4,200 and +42.6% Jan-Oct 2026; new caravans fell 15.5% to 1,438 in 2025. Retail shelves already carry tent/awning proofers. No Danish data found.",
+   "evidence_links": [
+    "https://www.borskollen.se/nyheter/28/fortsatt-laga-registreringar-av-husvagnar-medan-husbilar-fortsatter-oka-hrf-branschstatistik",
+    "https://www.placera.se/telegram/kabe-group-husbilsregistreringarna-steg-marginellt-i-oktober-fortsatt-svagt-for-husvagnar-hrf-branschstatistik-20261102",
+    "https://www.biltema.se/fritid/husvagn-och-husbil/rengoring/taltduksimpregnering-1-liter-2000030719",
+    "https://www.biltema.se/guider/fritid/rengoringsguide-for-husbil-och-husvagn--infor-sasongen/"
+   ],
+   "price_point_eur": "Starter 34-39 (cleaner+proofer+bottle); refill pouches 15-19 (ASSUMPTION)",
+   "est_landed_cost_eur": "9-12 starter; 4-6 refills (ASSUMPTION)",
+   "est_first_order_eur": "5,000-6,500",
+   "one_off_tooling_eur": "0-400 (labels, optional 350 design)",
+   "channel_edge": "Amazon/Shopify plus camping retailers; no founder B2B edge; CAC risk high. Kept for completeness."
+  }
+ ]
+}

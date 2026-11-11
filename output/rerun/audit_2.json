@@ -1,0 +1,122 @@
+[
+ {
+  "primary": "N014",
+  "action": "keep",
+  "reason": "Installer/BRF filter replacement is a recurring, low-CAC channel the founders can reach; capital fits.",
+  "moat_check": "ISO 16890 report is not exclusive: Camfil/Eurovent-certified incumbents already publish full reports (camfil.com Eurovent brochures seen); RISE P-mark optional and unverified; only the registered design on the frame and installer price-list/subscription inertia hold. Copyist can match in under 6 months. Real but soft.",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": 0,
+  "regulatory_notes": "Cost/time of ISO 16890 test and P-mark NOT verified (ASSUMPTION). Many FTX-model SKUs risk inventory sprawl vs EUR 8-10k cap.",
+  "evidence_note": "Eurovent/Camfil ISO 16890 brochures seen via search; no EPREL/Swedish distributor listings found. Medium-low."
+ },
+ {
+  "primary": "N020",
+  "action": "keep",
+  "reason": "Keyed-pouch consumable lock-in plus registered design/utility model is a genuine, cheap mechanism; capital within soft limits.",
+  "moat_check": "Keyed fitment is a real consumable lock-in; EUIPO registered design and Danish utility model are cheap and quick (months; fees not verified, ASSUMPTION) but protect only the specific geometry; copyist can design a different key in about 6 months. Moderate.",
+  "defensibility_adjust": 0,
+  "channel_econ_adjust": 0,
+  "regulatory_notes": "If pouches contain hand soap/shampoo sold to consumers: Cosmetics Regulation 1223/2009 (CPNP, safety assessor), CLP, PPWR/EPR for pouch packaging. Do a dispenser plus third-party-filled refill to limit exposure.",
+  "evidence_note": "Danish utility-model/EUIPO fees and timelines not found in search (only WIPO legal texts). Meadow/locking dispenser competition from the brief not independently verified."
+ },
+ {
+  "primary": "I197",
+  "action": "keep",
+  "reason": "B2B channel via ex-VELUX installers/BRFs is real and low-CAC; no tooling.",
+  "moat_check": "Moat is the channel and fit guide, not IP; seal profiles are commodity and an exclusive supplier is unsecured (ASSUMPTION). Copyist can replicate parts in weeks; relationship channel is the only hurdle. Do not use VELUX marks (nominative fit statements only; check non-compete/confidentiality).",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": 0,
+  "regulatory_notes": "Trademark/nominative-use risk for compatible-with claims; GPSR for grease/tools; chemical grease may need CLP.",
+  "evidence_note": "Only evidence link is a euronews repair-policy article (not re-fetched); demand unverified."
+ },
+ {
+  "primary": "N027",
+  "action": "keep",
+  "reason": "Child-safety stopper with B2B 10-pack channel is viable, but price and moat need correcting.",
+  "moat_check": "EN 16281 (consumer-fitted child-resistant window locks) is the right test; EN 13126-5 explicitly excludes consumer-installed restrictors, so that citation is wrong (genorma/shop.standards.ie listings seen). Test is payable by anyone; incumbents Reer WinLock (about EUR 20 for 3-pack at babyartikel.de), ABUS, Yale, KidCo already exist. Moat limited to roof-window-specific design plus registered design.",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "GPSR plus EN 16281 conformity; product-liability exposure if child falls (insurance); test cost 1.5-3k unverified. Price 35-45 per 2-pack is about 2-4x incumbents, so B2B is the realistic channel.",
+  "evidence_note": "Standard scope verified via search; Amazon.de listing check failed (not found); prices from retailer snippets only."
+ },
+ {
+  "primary": "N034",
+  "action": "keep",
+  "reason": "Exclusive estate licence is a true moat and 79 EUR price absorbs CAC; costs within limits.",
+  "moat_check": "Exclusive copyright/design licence is enforceable and strong IF secured; gating risk is finding an unrepresented estate and licence terms (advance, minimums) within 10 h/week. Not yet secured, so score only if a named estate responds. Heirs/producers (existing licensees) may already hold rights.",
+  "defensibility_adjust": 0,
+  "channel_econ_adjust": 0,
+  "regulatory_notes": "Check rights chain/EUIPO; GPSR; material REACH (wood/metal finish). Advance counts toward 8-10k cap.",
+  "evidence_note": "No estate named or verified; all figures ASSUMPTION."
+ },
+ {
+  "primary": "I049",
+  "action": "keep",
+  "reason": "Founder-credible B2B gifting plus high price; cheap tooling.",
+  "moat_check": "Copyright in kit designs is thin: Lego Architecture/Rokr/Robotime-type kits and cheap marketplace cardboard models are plentiful, and licences from architects/buildings are unsecured (ASSUMPTION; Danish/Swedish panorama rules and living-architect copyright need legal check). Differentiation is content and channel, copyable in 6 months.",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "Toy safety (EN 71 if marketed to under-14), GPSR, PPWR for packaging, building-copyright licences (Utzon, Jacobsen era works still protected).",
+  "evidence_note": "eMarketer and Virlo links not re-fetched; no cardboard-kit-specific data."
+ },
+ {
+  "primary": "I311",
+  "action": "kill",
+  "reason": "Commodity gasket kit, no IP, price 24-29 below 35 EUR threshold; generic seals are private-label territory; fold into I197 as an SKU instead.",
+  "moat_check": "No moat mechanism (self-declared weak).",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "",
+  "evidence_note": "Evidence links empty; trend unverified."
+ },
+ {
+  "primary": "I014",
+  "action": "kill",
+  "reason": "Charm motifs are copyright-only and the open 3-4mm link standard lets competitors' charms fit, so no lock-in; paid CAC on a trend category with US incumbents.",
+  "moat_check": "None; Nordic motifs are not a moat per brief.",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "Nickel release (REACH Annex XVII entry 27), jewellery lead/cadmium limits.",
+  "evidence_note": "Exploding Topics/KIKICHIC links not re-fetched."
+ },
+ {
+  "primary": "I128",
+  "action": "kill",
+  "reason": "Scent refill is a commodity oil, registered design only protects appearance, exclusive fragrance supplier unverified and trend evidence is a single US article, Low confidence.",
+  "moat_check": "Design-around trivial; no exclusive supply.",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "CLP allergen labelling, GPSR, risk of falling under Cosmetics Reg if worn.",
+  "evidence_note": "Single glossy.co link, not re-fetched."
+ },
+ {
+  "primary": "N037",
+  "action": "keep",
+  "reason": "Housing-association channel with per-building spec lock-in and reorders is a plausible low-CAC B2B model; capital 5-5.7k plus tooling 1.35-2.35k fits.",
+  "moat_check": "Moat is channel plus per-building spec/insert reorders; local sign shops can copy but inertia and relationships matter. Registered design adds little. Moderate. Sales cycles via BRF board/annual meeting are slow.",
+  "defensibility_adjust": 0,
+  "channel_econ_adjust": 0,
+  "regulatory_notes": "Door signage must allow emergency-service identification; GPSR minimal; PPWR minor.",
+  "evidence_note": "Founder BRF relationships asserted, not verifiable."
+ },
+ {
+  "primary": "I076",
+  "action": "kill",
+  "reason": "Compatible refills already sold by third parties (Michtoy) and Army Painter/Redgrass own the format; 24 EUR palette has no moat.",
+  "moat_check": "Consumable lock-in is absent.",
+  "defensibility_adjust": -1,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "",
+  "evidence_note": "Forum links not re-fetched."
+ },
+ {
+  "primary": "I301",
+  "action": "kill",
+  "reason": "Price 24-29 per 2-pack vs about EUR 9 for a 4-pack LouMaxx stopper on Amazon.de (testberichte.de snippet) and doubtful utility-model novelty; burglar-resistance claim would be a misleading claim without RC certification.",
+  "moat_check": "Novelty unproven; prior art abundant.",
+  "defensibility_adjust": -2,
+  "channel_econ_adjust": -1,
+  "regulatory_notes": "Unproven security claim (UCPD), GPSR.",
+  "evidence_note": "Evidence links empty; Amazon price from search snippet only."
+ }
+]

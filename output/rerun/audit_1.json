@@ -1,0 +1,124 @@
+{
+ "verdicts": [
+  {
+   "primary": "I132",
+   "action": "keep",
+   "reason": "Annual refill gives repeat revenue at EUR 19 refill, price clears EUR 35 cover bundle; best unit economics of the set.",
+   "moat_check": "Locale layouts/term grids are real but copyable by any printer in weeks; Tomoe-type paper not exclusive and Hobonichi/Papier/local kalender brands can add Nordic layouts. Moat is installed-base habit, not legal.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": 0,
+   "regulatory_notes": "Stationery: GPSR labelling, PPWR paper packaging; low exposure. Needs paper-supplier MOQ check.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "N015",
+   "action": "keep",
+   "reason": "B2B channel with low CAC and annual consumable; founders' BRF access is a genuine moat if validated.",
+   "moat_check": "Relationships plus per-building schedule is real but unproven; BRF boards decide slowly (annual meeting cycles) and a copyist needs the same access, not the product. Shared test report is cheap to replicate.",
+   "defensibility_adjust": 0,
+   "channel_econ_adjust": 0,
+   "regulatory_notes": "Ventilation filters/vents: CE/GPSR, filter class per EN ISO 16890 claims, avoid health/air-quality medical claims; BRF procurement may need fire/hygiene docs.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "I075",
+   "action": "keep",
+   "reason": "High margin (landed 6-9 vs 29-39 price), tiny tooling, installer/merchant channel the founders already have.",
+   "moat_check": "Channel moat is real; fit database is copyable but takes effort; no IP. VELUX trademark must be used only nominatively ('compatible with'). Third-party roof-window blinds exist, so a copyist can route around in months.",
+   "defensibility_adjust": 0,
+   "channel_econ_adjust": 1,
+   "regulatory_notes": "Textile/foam: GPSR, REACH, flammability expectations in kids' rooms (avoid cord hazards, EN 13120 blind safety if touching blind cords); no VELUX endorsement claims.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "I029",
+   "action": "kill",
+   "reason": "Moisture absorbers are Amazon/private-label dominated (Pro Breeze, UniBond, Bison per record), refill format is generic with no moat, and B2B giveaway price points leave no margin.",
+   "moat_check": "No mechanism: rechargeable zeolite/silica is generic and copyable in weeks.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": -1,
+   "regulatory_notes": "If colour indicator uses cobalt chloride it is CLP/REACH-restricted; would need cobalt-free. Otherwise low.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "I313",
+   "action": "keep",
+   "reason": "B2B/installer demand plausible and price in the EUR 15-35 range clears, but gate tooling spend on installer interviews first.",
+   "moat_check": "Compatibility coverage of out-of-support parts is a real niche but is knowledge/SKU-count moat only; record says no search run, so demand is unverified. Per-model SKU sprawl strains 10 h/week; OEM may widen parts support. Tooling 2-5k is ASSUMPTION.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": 0,
+   "regulatory_notes": "GPSR (blinds/cords child-safety, EN 13120), possible OEM design/trademark claims; EU repair-clause for spare parts is helpful but timing and scope not verified.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge. Evidence links list is empty."
+  },
+  {
+   "primary": "I013",
+   "action": "keep",
+   "reason": "Passes soft capital limits; keep only as low-priority fashion bet with strict stop at first MOQ.",
+   "moat_check": "Registered design protects appearance only, not the snap function; utility model unavailable in Sweden, route-around is a different interface shape in weeks, and charm trend is already peaking (record: mainstream). Collectible modules give some repeat.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": -1,
+   "regulatory_notes": "Metal accessories: REACH nickel release and lead/cadmium limits for jewellery-type items, GPSR, small-parts if marketed to teens; lip-balm sleeve is accessory only.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge. Die-cast tooling cost is unverified."
+  },
+  {
+   "primary": "I114",
+   "action": "kill",
+   "reason": "Moat explicitly lacks an exclusive artist licence; laser-cut birch chests and Gridfinity-style inserts are commodity on Etsy and copyable in days.",
+   "moat_check": "No exclusivity, Gridfinity is an open standard.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": 0,
+   "regulatory_notes": "Wood: GPSR, EUTR timber due diligence, formaldehyde in birch ply (E1/CARB).",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "N035",
+   "action": "keep",
+   "reason": "EUR 79 price absorbs CAC, exclusive 3-year category licence is a real contractual moat, tooling under EUR 1.2k; watch the 7-8k first order near the soft cap.",
+   "moat_check": "Real but narrow: blocks other puzzle brands from that artist, not from others; cost is the advance plus royalty; time to obtain is weeks of negotiation (founder strength). Numbered editions help scarcity.",
+   "defensibility_adjust": 0,
+   "channel_econ_adjust": 0,
+   "regulatory_notes": "Toys/puzzles: GPSR, EN 71 if marketed to children, wood/paint REACH, PPWR box; copyright chain-of-title and moral rights in licence must be checked.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "I099",
+   "action": "kill",
+   "reason": "Claw-clip category is Amazon/private-label saturated and Hair Cliques prior art plus design-only protection means interface is trivially routed around.",
+   "moat_check": "Registered design (EUR 350) protects look only; any copyist changes the cap shape in weeks.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": -1,
+   "regulatory_notes": "Magnets in consumer products: GPSR, small-part/magnet ingestion risk if reachable by children; REACH nickel in metal parts.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "I200",
+   "action": "kill",
+   "reason": "Record itself calls the moat weak; compatible vacuum parts are Amazon/private-label dominated and model-fit SKU sprawl breaks 10 h/week.",
+   "moat_check": "No lock-in on third-party hardware; descaler formulation copyable.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": -1,
+   "regulatory_notes": "Descaler is a chemical mixture: CLP/REACH classification, SDS; WEEE-adjacent parts, batteries excluded.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  },
+  {
+   "primary": "I071",
+   "action": "keep",
+   "reason": "Real consumable lock-in (own tin plus pods) and contract filler formulation, but cosmetics compliance and high fragrance CAC make this the riskiest keep.",
+   "moat_check": "Pod format is copyable and generic tins can accept any refill; formulation is a trade secret not a patent; exclusivity depends on filler contract. Takes 2-4 months incl. CPSR.",
+   "defensibility_adjust": 0,
+   "channel_econ_adjust": -1,
+   "regulatory_notes": "EC 1223/2009: Responsible Person, CPSR, CPNP notification, IFRA/allergen labelling; budget 0.5-1.5k may be low per SKU; PPWR refill packaging rules. No medical claims.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge. First order 7-9k is ASSUMPTION near cap."
+  },
+  {
+   "primary": "I167",
+   "action": "kill",
+   "reason": "Felt pegboard organisers are sold by Leitz/IKEA-type incumbents and design registration on a modular felt system is trivially routed around.",
+   "moat_check": "Weak per record; no mechanism beyond look.",
+   "defensibility_adjust": -1,
+   "channel_econ_adjust": 0,
+   "regulatory_notes": "Felt: GPSR, REACH, flammability low risk.",
+   "evidence_note": "No fresh web verification done in this audit pass (records read only; links not re-fetched); assessment from record text plus domain knowledge."
+  }
+ ]
+}
