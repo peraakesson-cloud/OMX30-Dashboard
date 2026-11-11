@@ -1,0 +1,130 @@
+{
+ "lens": "A - Rising search demand",
+ "slice": "D2 - outdoor, garden, pets and cars",
+ "ideas": [
+  {
+   "name": "Refillable Solitary-Bee Nest Block",
+   "concept": "Birch-plywood and clay nest block with replaceable paper nesting tubes sold as annual refills, built to the scientific critiques of cheap bee hotels.",
+   "target_customer": "Nordic and DK garden owners who want wildlife-friendly gardens and gift buyers.",
+   "problem_solved": "Typical bee hotels are poorly designed and become parasite traps because tubes cannot be cleaned or replaced.",
+   "trend_evidence": "Wildlife gardening is called mainstream in 2026 trend roundups; bee-safe.eu says bee hotels are very popular but often bad, which is the gap. No Google Trends breakout data verified.",
+   "evidence_links": [
+    "https://shopping.yahoo.com/home-garden/gardening/articles/2026-garden-trends-know-planting-141055584.html",
+    "https://bee-safe.eu/articles/miscellaneous/bee-hotels-the-good-the-bad-and-the-ugly/",
+    "https://wlgf.org/gardening-for-wildlife/attracting-different-wildlife-groups/attracting-insects/bee-hotels-what-does-recent-science-tell-us/"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Science-based tube geometry and cleanable design with entomologist endorsement; annual refill tubes lock in repeat purchase.",
+   "price_point_eur": "29-39 (refill tubes 12-15)",
+   "est_landed_cost_eur": "6-9 (laser-cut wood, no steel mould)",
+   "tooling_needed": "None beyond laser-cut/CNC jigs, under EUR 500"
+  },
+  {
+   "name": "Windowsill Microgreens Kit with Hemp Refill Mats",
+   "concept": "Compact ceramic or recycled tray with reusable lid plus compostable hemp grow mats and seed packs shipped as refills, tuned for low Nordic winter light.",
+   "target_customer": "Apartment dwellers in Stockholm, Copenhagen and Malmo who want fresh greens indoors.",
+   "problem_solved": "Small-space food growing is hard in dark winters; existing kits are plastic, one-off and messy.",
+   "trend_evidence": "AP ran a 2026 spotlight on microgardening from windowsills and balconies; 2026 garden roundups cite kitchen-garden growth. Search-volume data not verified.",
+   "evidence_links": [
+    "https://www.ap.org/news-highlights/spotlights/2026/microgardening-means-getting-a-surprisingly-big-harvest-from-a-windowsill-or-balcony-garden/",
+    "https://shopping.yahoo.com/home-garden/gardening/articles/2026-garden-trends-know-planting-141055584.html"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Daylight-based placement guide from building-industry experience, branded seed and mat refills, design-led tray.",
+   "price_point_eur": "29-35 (refill packs 9-12 need bundling to stay above 15)",
+   "est_landed_cost_eur": "7-10 per kit",
+   "tooling_needed": "Stock tray with custom print, or small ceramic mould under EUR 1k; seed phytosanitary/marketing rules to check"
+  },
+  {
+   "name": "Nordic Native Pollinator Seed Tins",
+   "concept": "Three region-specific wildflower seed mixes (meadow, balcony pot, hedge edge) in tin or paper packaging with a sowing calendar and Swedish/Danish provenance.",
+   "target_customer": "Garden and balcony owners following rewilding and pollinator trends.",
+   "problem_solved": "Generic wildflower mixes include non-native species and give little guidance for Nordic climate.",
+   "trend_evidence": "Native planting and gardening for pollinators and birds are repeatedly listed as top 2026 garden trends. Brand-level demand not verified.",
+   "evidence_links": [
+    "https://shopping.yahoo.com/home-garden/gardening/articles/2026-garden-trends-know-planting-141055584.html",
+    "https://www.hopesgrovenurseries.co.uk/blog/garden-trends-2026/",
+    "https://phsonline.org/for-gardeners/gardeners-blog/top-gardening-trends-2026"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Local-provenance sourcing contracts with a seed grower, seasonal subscription and brand; formulation is hard to copy cheaply.",
+   "price_point_eur": "15-19 per tin, 39 for trio",
+   "est_landed_cost_eur": "3-5",
+   "tooling_needed": "None; check EU seed marketing and labelling rules"
+  },
+  {
+   "name": "Dishwasher-Safe Hygiene Bird Feeder",
+   "concept": "Ceramic or borosilicate and steel feeder that disassembles for full cleaning, aligned to new hygiene advice, sold with branded seed or suet refills.",
+   "target_customer": "Garden bird feeders in SE and DK, mostly 40+ and gift buyers.",
+   "problem_solved": "Feeders spread disease when not cleaned; advice on hygiene tightened in 2026 and most feeders are hard to clean.",
+   "trend_evidence": "Garden bird feeding market forecast to grow about 5% CAGR; harvestwildlife.com reports RSPB feeding advice changed in 2026 which creates a hygiene-led opening. Search growth not verified.",
+   "evidence_links": [
+    "https://www.harvestwildlife.com/feeding-garden-birds-2026-changes-explained/",
+    "https://www.businessresearchinsights.com/market-reports/bird-feeder-market-120492",
+    "https://www.weforum.org/stories/nature-and-biodiversity/how-britain-s-backyard-bird-feeders-are-shaping-evolution"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Registered design for the tool-free disassembly mechanism plus refill seed lines; ornithology-group endorsement.",
+   "price_point_eur": "35-45",
+   "est_landed_cost_eur": "9-12 (glass/ceramic risk, check breakage returns)",
+   "tooling_needed": "Ceramic plaster mould or stock glass tube with custom parts, under EUR 1.5k"
+  },
+  {
+   "name": "Roof-Window and Deep-Sill Cat Perch",
+   "concept": "Plywood and wool-felt cat shelf engineered for deep Nordic window reveals and angled roof-window sills, with tool-free clamp mount.",
+   "target_customer": "Indoor cat owners in apartments and attic flats in Sweden and Denmark.",
+   "problem_solved": "Suction-cup perches fail on deep sills and sloped roof windows; cats lose a daylight spot.",
+   "trend_evidence": "Europe cat segment is the fastest-growing pet category (6.8% CAGR forecast); catio and window perch products are visible on Amazon, so the base niche is already crowded. Roof-window variant demand is unverified.",
+   "evidence_links": [
+    "https://www.marketdataforecast.com/market-reports/europe-pet-market",
+    "https://www.amazon.com/Dephet-Catio-Window-Perch-Large/dp/B0DRPHNBGG",
+    "https://www.hswestmi.org/bunnysbuds/unlocking-the-joys-of-catios-a-treasure-trove-of-enrichment-for-indoor-cats"
+   ],
+   "trend_stage": "peaking",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Building-industry fit data for sill depths and roof-window angles; mounting design patentable or registrable.",
+   "price_point_eur": "39-49",
+   "est_landed_cost_eur": "8-12",
+   "tooling_needed": "CNC/laser cut plywood and sewn felt; metal clamp via stock hardware; weight and load testing needed"
+  },
+  {
+   "name": "Scent-Work Nosework Starter Kit with Natural Scent Refills",
+   "concept": "Fabric hide pouches and tins plus refill scent sachets (birch, juniper) and a training card set for at-home nosework.",
+   "target_customer": "Dog owners seeking mental enrichment, especially urban owners.",
+   "problem_solved": "Owners want brain-tiring activities but generic snuffle mats are commoditised and give no progression.",
+   "trend_evidence": "Snuffle and enrichment products are heavily covered and sold, indicating strong demand but likely crowded; nosework-specific growth is not verified, so confidence is low.",
+   "evidence_links": [
+    "https://thepuzzlefeeder.com/blogs/news/2025-best-dog-enrichment-toys-a-comprehensive-guide-to-keeping-your-canine-happy-and-engaged",
+    "https://sodapup.com/blogs/enrichment/snuffle-mat-vs-lick-mat",
+    "https://www.amazon.com/stores/Vivifying/page/CEFC3954-71CB-490A-A929-137D3F40B5BC"
+   ],
+   "trend_stage": "flooded",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Structured training curriculum with certified trainer, branded scent refills, community challenges.",
+   "price_point_eur": "29-39 (refills 12-15)",
+   "est_landed_cost_eur": "6-10",
+   "tooling_needed": "None; sewn textile; check pet-safe materials and EU toy/GPSR labelling"
+  },
+  {
+   "name": "Engraved Corten and Brass Plant Markers and Garden Labels",
+   "concept": "Laser-engraved weathering steel and solid brass kitchen-garden markers sold as design sets, with optional custom engraving.",
+   "target_customer": "Design-minded kitchen-garden and allotment owners, also gift market.",
+   "problem_solved": "Plastic and wooden labels fade or rot, and do not suit the aesthetic raised-bed trend.",
+   "trend_evidence": "Kitchen garden is described as becoming design-conscious with Corten raised beds in 2026 roundups. No direct search data on markers verified.",
+   "evidence_links": [
+    "https://shopping.yahoo.com/home-garden/gardening/articles/2026-garden-trends-know-planting-141055584.html",
+    "https://phsonline.org/for-gardeners/gardeners-blog/top-gardening-trends-2026"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Registered designs and curated herb/vegetable icon set; personalisation builds a brand but items are copyable.",
+   "price_point_eur": "19-29 per set",
+   "est_landed_cost_eur": "4-7",
+   "tooling_needed": "Laser cutting and engraving, no mould"
+  }
+ ]
+}

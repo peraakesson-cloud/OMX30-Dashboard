@@ -1,0 +1,96 @@
+{
+ "lens": "H - Regulatory and technology change",
+ "slice": "D4 - kids, family, hobby, office and desk",
+ "ideas": [
+  {
+   "name": "Nordic PFAS-Free Reproof Wax Bar (kids outerwear)",
+   "concept": "Plant/beeswax-based rub-on re-waterproofing bar and care card for kids' rain/shell gear, sold with independent total-fluorine test report (<50 mg F/kg).",
+   "target_customer": "Danish and Swedish parents of 2-10 year olds with daycare/forest-school outerwear.",
+   "problem_solved": "PFAS impregnation sprays are banned in Denmark from 1 July 2026 and kids' shells lose repellency; parents want a safe way to re-proof.",
+   "trend_evidence": "Danish order bans PFAS (>=50 mg F/kg) in clothing, footwear and waterproofing agents from 1 Jul 2026, sell-off to 1 Jan 2027; universal EU PFAS restriction advanced (RAC opinion Mar 2026, SEAC final expected end 2026). Consumer demand size for wax re-proofing NOT verified; no search data seen.",
+   "evidence_links": [
+    "https://www.sgs.com/en/news/2025/09/safeguards-14825-denmark-introduces-national-ban-on-pfas-in-clothing-and-footwear",
+    "https://www.ul.com/news/pfas-denmark-prohibits-import-and-sale-clothing-footwear-and-certain-impregnation-agents",
+    "https://chemical.chemlinked.com/news/chemical-news/echa-risk-assessment-committee-adopts-opinion-on-universal-pfas-restriction"
+   ],
+   "trend_stage": "early",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Own formulation plus third-party fluorine test and Nordic daycare/forest-school community brand; hard to copy credibly without testing.",
+   "price_point_eur": "16-19 (bar 100g); refill bar 12",
+   "est_landed_cost_eur": "3.5-5.5",
+   "tooling_needed": "None (poured/filled tins; small-batch contract blender). Check CLP/REACH mixture labelling."
+  },
+  {
+   "name": "Daylight Lab Model Kit",
+   "concept": "Laser-cut birch/cardboard model house kit with movable roof window and sun-path dial that teaches kids how daylight, roof pitch and window angle work.",
+   "target_customer": "Parents/grandparents of 7-12 year olds and STEM-minded gift buyers in SE/DK.",
+   "problem_solved": "Sustainable, PFAS/bisphenol-clean educational toys with real content; ties to founders' VELUX daylight expertise.",
+   "trend_evidence": "EU Toy Safety Regulation 2025/2509 (in force Jan 2026, applies Aug 2030) bans intentional PFAS, 10 bisphenols and requires QR digital product passport, favouring compliant-by-design small brands. STEM demand not independently verified in this research.",
+   "evidence_links": [
+    "https://www.sgs.com/news/2025/12/safeguards-18725-eu-toy-safety-regulation-2025-2509-published",
+    "https://www.cps.bureauveritas.com/newsroom/eu-toy-safety-regulation-20252509-published",
+    "https://brc.org.uk/news-and-events/news/associate-insight/2026/new-eu-toy-regulations-eu-20252509-and-en-71-1/"
+   ],
+   "trend_stage": "early",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Proprietary design and daylight-science content authored with building-industry credibility; QR passport built in ahead of 2030.",
+   "price_point_eur": "29-35",
+   "est_landed_cost_eur": "6-9",
+   "tooling_needed": "Laser/die-cut only (cutting dies under EUR 500); EN71 testing ~EUR 600-1000."
+  },
+  {
+   "name": "Refillable Family-Planner Whiteboard Marker System",
+   "concept": "Aluminium-barrel dry-erase markers with sealed ink refill bottles/cartridges, magnetic fridge/desk board set in paper-only packaging.",
+   "target_customer": "Households and home-office users who run fridge/wall planners.",
+   "problem_solved": "Throwaway marker waste and plastic packaging as packaging rules tighten; refill makes the cost per use lower.",
+   "trend_evidence": "PPWR (Reg 2025/40) became applicable 12 Aug 2026 with PFAS, labelling, recyclability and reusable-packaging duties; refill/recyclable-first packaging is a direct fit. Demand for refillable markers not verified by search.",
+   "evidence_links": [
+    "https://products.cooley.com/2026/04/27/productwise-bitesize-eu-packaging-and-packaging-waste-regulation/",
+    "https://www.packaging-gateway.com/news/new-eu-wide-packaging-rules-take-effect-in-august-2026/",
+    "https://www.intertek.com/products-retail/insight-bulletins/2026/1536-eu-ppwr-requirements-effective-from-august/"
+   ],
+   "trend_stage": "unknown",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Proprietary refill interface/cartridge format creates lock-in and repeat purchase; design registration possible.",
+   "price_point_eur": "24 starter; refill 9",
+   "est_landed_cost_eur": "6-9 starter; 1.5-2.5 refill",
+   "tooling_needed": "Stock aluminium barrels plus custom cap/cartridge adapter; keep any tooling under EUR 2k or use existing standard cartridge."
+  },
+  {
+   "name": "Repairable Desk Tool Set with Spare-Parts Kit",
+   "concept": "Machined stapler/punch/tape-dispenser style desk tools with numbered spring/anvil/blade spares and QR repair guides.",
+   "target_customer": "Design-conscious office and home-office workers aged 28-50.",
+   "problem_solved": "Disposable desk gear; buyers want items that can be fixed and spare parts guaranteed.",
+   "trend_evidence": "EU Right to Repair Directive 2024/1799 applies from 31 Jul 2026 (spare parts at reasonable price, no blocking of independent repair), though scope is mainly products with ecodesign repair rules, so desk tools are not directly regulated; this is a positioning play. Demand not verified.",
+   "evidence_links": [
+    "https://twobirds.com/en/insights/2024/germany/recht-auf-reparatur-richtlinie-veroeffentlicht-auswirkungen-fuer-wirtschaftsakteure-in-der-eu",
+    "https://www.dihk.de/en/right-to-repair-repair-instead-of-disposing-175000",
+    "https://www.shma.co.uk/our-thoughts/the-eu-right-to-repair-directive"
+   ],
+   "trend_stage": "early",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Published spare-parts guarantee and design registration; supplier exclusivity on the mechanism.",
+   "price_point_eur": "39-49",
+   "est_landed_cost_eur": "9-12",
+   "tooling_needed": "CNC/stamped metal parts on supplier machines; no injection moulds."
+  },
+  {
+   "name": "Plastic-Glitter-Free Sparkle Craft Kit",
+   "concept": "Kid craft kit using cellulose/mineral sparkle that is outside the microplastics definition, EN71-tested, plain-paper packaging, with refill pouches.",
+   "target_customer": "Parents and kindergartens buying seasonal craft (Christmas, birthdays).",
+   "problem_solved": "Loose plastic glitter banned; parents and schools want the sparkle without microplastic guilt and without sourcing doubt.",
+   "trend_evidence": "Loose plastic glitter restricted in EU since 17 Oct 2023; biodegradable/soluble/natural/inorganic glitter is out of scope; further amendment for toys/craft glitter under discussion in 2026 (details not verified). Eco glitter is already sold by several brands, so likely not early.",
+   "evidence_links": [
+    "https://single-market-economy.ec.europa.eu/sectors/chemicals/reach/restrictions/commission-regulation-eu-20232055-restriction-microplastics-intentionally-added-products_en",
+    "https://www.kvk.nl/en/sustainability/microplastics-ban-what-rules-apply-now/",
+    "https://www.spielwarenmesse.de/en/mag/toy-market-news/toy-association-advocates-for-key-changes-to-eu-glitter-microplastics-proposed-amendment/"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Weak on formulation; defend via design/brand and Nordic seasonal craft kits with refills.",
+   "price_point_eur": "19-24",
+   "est_landed_cost_eur": "4-6",
+   "tooling_needed": "None (stock pigments, printed boxes)."
+  }
+ ]
+}

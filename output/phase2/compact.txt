@@ -1,0 +1,346 @@
+I001 | A | Kafé Kit: pre-sized linen cafe curtain + sink skirt set | Linen cafe curtain and optional sink-skirt kits cut to standard Nordic kitchen window sizes, with tension rod and clip rings in one box, in moody palettes. | 34-49
+I002 | A | Hosting linen set in Pinterest colourways | Stone-washed linen napkins x4, runner and simple napkin rings sold in rotating deep colourways (aubergine, sage, moody blue) as a boxed set, with seasonal colou | 29-45
+I003 | A | Pantry label kit in Swedish/Danish | Matte, water-resistant pantry and spice-jar label sets with Scandinavian-language terms and a clean typographic system, in packs with refill sheets. | 15-19
+I004 | A | Modular magnetic wall/fridge rail system | A designed magnetic-rail plus add-on modules (spice, utensil, towel) that mounts on fridge sides or via adhesive steel plate on tiled or painted walls, with Nor | 22-39
+I005 | A | Color-drenched linen tea towel and apron collection | Heavyweight linen-cotton tea towels and aprons in kitchen-cabinet-matched colours, sold with a colour-matching guide to popular cabinet paints. | 18-32
+I006 | A | Refillable Solitary-Bee Nest Block | Birch-plywood and clay nest block with replaceable paper nesting tubes sold as annual refills, built to the scientific critiques of cheap bee hotels. | 29-39 (refill tubes 12-15)
+I007 | A | Windowsill Microgreens Kit with Hemp Refill Mats | Compact ceramic or recycled tray with reusable lid plus compostable hemp grow mats and seed packs shipped as refills, tuned for low Nordic winter light. | 29-35 (refill packs 9-12 need bundling to stay above 15)
+I008 | A | Nordic Native Pollinator Seed Tins | Three region-specific wildflower seed mixes (meadow, balcony pot, hedge edge) in tin or paper packaging with a sowing calendar and Swedish/Danish provenance. | 15-19 per tin, 39 for trio
+I009 | A | Dishwasher-Safe Hygiene Bird Feeder | Ceramic or borosilicate and steel feeder that disassembles for full cleaning, aligned to new hygiene advice, sold with branded seed or suet refills. | 35-45
+I010 | A | Roof-Window and Deep-Sill Cat Perch | Plywood and wool-felt cat shelf engineered for deep Nordic window reveals and angled roof-window sills, with tool-free clamp mount. | 39-49
+I011 | A | Scent-Work Nosework Starter Kit with Natural Scent Refills | Fabric hide pouches and tins plus refill scent sachets (birch, juniper) and a training card set for at-home nosework. | 29-39 (refills 12-15)
+I012 | A | Engraved Corten and Brass Plant Markers and Garden Labels | Laser-engraved weathering steel and solid brass kitchen-garden markers sold as design sets, with optional custom engraving. | 19-29 per set
+I013 | A | Modular utility bag charm system | Brass/enamel bag charms that snap onto a base clip, with interchangeable functional modules (mini pouch, key clip, lip-balm sleeve, card holder), sold as a base | Base clip + 1 module EUR 29-35; add-on modules EUR 15-19
+I014 | A | Nordic Charm Bar starter kits | Stainless-steel Italian-style link bracelets and chain necklaces with a Nordic-themed charm library (Dala horse, Viking, sauna, Danish pastry, midsummer motifs) | Starter kit (bracelet + 3 charms) EUR 39; extra charms EUR 9-12
+I015 | A | Cast brass brooches for knitwear | A small range of heirloom-style gold-plated brass brooches/lapel pins in Scandinavian motifs, styled for knitwear, coats and scarves, with a modular add-on pend | EUR 29-49
+I016 | A | Jelly-gummy silicone jewelry and hair-tie sets | Chunky translucent silicone bracelets, ring-style hair ties and 3D charm pieces in a coordinated jelly colour palette, sold as themed sets. | Set of 3-5 pieces EUR 19-25
+I017 | A | Water-bottle charm and strap kit | Premium charm/strap set sized for popular insulated tumblers and bottles, with detachable carabiner and enamel/brass charms. | EUR 19-24 per kit
+I018 | A | Analog phone-free lock pouch | Designed fabric/leather-look pouch with a combination or key lock that holds a phone out of reach for focus time, stylish enough to leave on a desk or in a bag. | EUR 25-35
+I019 | A | Bedazzle refill system with premium glass crystals | Design-led kit: pen applicator, wax pickup and curated sheets of glass crystals in Nordic-inspired palettes, sold with templates; crystal refill packs drive rep | Starter kit EUR 19-24; refill packs EUR 9-12
+I020 | A | Nordic Letter Seal Set | Modular brass wax-seal stamp with swappable Scandi-motif heads plus refillable wax sticks and FSC envelopes, sold as a gift-ready letter-writing set. | 29-39 set; 9-12 wax refills
+I021 | A | Kids Pen Pal Starter Box | Paper-based box for ages 7-11 with illustrated stationery, stickers, stamps, envelopes and a Nordic/English prompt booklet to write to a friend or relative abro | 22-29 box; 12-15 refill pack
+I022 | A | Window Sun-Print Kit | Kids/family kit using pre-coated sun-print paper, a clear acrylic press and a wooden window-mount frame to print daylight silhouettes of leaves and shapes on th | 24-32 kit; 9-12 refill paper
+I023 | A | Nordic Character Crochet Kits | Beginner crochet kits with proprietary Scandi character and cosy-home patterns, pre-measured yarn, bamboo hook, video tutorial QR and gift tin. | 29-39
+I024 | A | Analog Focus Timer Set | Set of calibrated mechanical sand timers (5/15/25/45 min) in colour-coded glass on an oak base with routine cards, for desk focus and kids' routines, no batteri | 29-39
+I025 | A | Underseat 40x30x15 Organiser Cube Set | Fit-tested soft packing cubes and a flat-lay toiletry pouch engineered to fill an EU-spec 40x30x15 cm underseat personal item exactly, sold as a 3-piece system  | 29-39 for 3-piece set
+I026 | A | Nordic Magnetic Utility Rail Shelf | Stamped powder-coated steel shelf and hook rail that clips to any magnetic surface (cooker hood side, fridge, utility cabinet, workshop panel) with a strong flu | 24-34
+I027 | A | Pre-Printed Nordic Label System | Premium waterproof, removable pre-printed label sets in Swedish and Danish (pantry, freezer, drawers, workshop, cables, spice jars) with a minimalist type syste | 15-19 per set; 9-12 refill
+I028 | A | Gridfinity-Compatible Drawer Kits (EU Printed) | Curated, ready-to-use Gridfinity-standard baseplate and bin starter kits for tool, hardware and kitchen drawers, produced via commercial 3D-print farm (no mould | 29-59 per kit
+I029 | A | Rechargeable Window Moisture Trap Refills | Reusable non-chemical window-sill moisture absorber (zeolite/silica in breathable fabric pouches, oven-rechargeable) with a colour indicator, sold as a starter  | 19-24 starter; 12-15 refill
+I030 | B | Nordic Pantry Decant Kit | Stainless funnel, scoop and a set of printed, reusable waterproof labels in Swedish/Danish/German/English, sold with a refill-friendly design guide; sold as a s | 29-39 kit; 12-15 label refill pack
+I031 | B | Window Sill Moisture Trays (design-led) | Reusable, rechargeable (oven/radiator-dry) silica or clay moisture-absorbing tray shaped to fit common window-sill/frame profiles, finished in Nordic matte colo | 19-29 tray; 9-12 refill sachets
+I032 | B | Scandi Taper Dinner Set | Weighted brass/steel taper holders in a stackable set of three heights with drip-free unscented tapers; tapers sold as a refill subscription. | 34-49 set; 12-16 taper refill 12-pack
+I033 | B | Nordic Matcha Ritual Set | Bamboo chasen, scoop and a custom-glaze matcha bowl in a gift box with Swedish/Danish brewing card. | 39-55
+I034 | B | Linen Tablescape Napkin Set | Stonewashed linen napkins with brass/ceramic rings in 4-packs in a restrained Nordic palette and seasonal colourway drops. | 32-45 per 4-pack
+I035 | B | Nordic Window Bird Feeder + Seed Refill Club | Clear window-mounted bird feeder (stock acrylic, no new moulds, custom wood/metal frame and branding) bundled with a Nordic-species ID card and recurring seed-r | 29-39 (feeder), 12-15 refill packs
+I036 | B | Nordic Wet-Weather Dog Walk Kit | Reflective, waterproof waxed-canvas walk pouch with poop-bag roll, treat pocket and leash clip, plus matching leash wrap; cut-and-sew only, no hard tooling. | 29-39
+I037 | B | Lick Mat Collection with Recipe Cards | Design-led food-grade silicone lick mats in distinctive patterns, sold as a set with a seasonal recipe-card subscription (dog-safe home recipes, no health claim | 16-22
+I038 | B | Cat-Safe Door Latch, Scandinavian Design | Premium, tool-free door strap/latch letting cats through while keeping dogs and toddlers out of the litter room, in textile plus stainless hardware with design- | 15-19
+I039 | B | Car and Dog Hair Detailer Duo | Reusable rubber-and-wood pet hair raking tool plus crevice brush, packaged as a car-boot kit for dog owners; branded with own tool profile and carry bag. | 15-19
+I040 | B | Muddy-Paw Mat and Wipe Station | Entryway kit for rainy-season dogs: washable microfibre absorbent paw mat plus lidded wipe-and-towel hook set, sewn textile, no moulds, aimed at the Nordic mudr | 24-34
+I041 | B | Nordic French Hair Pin and Comb Sets | Stainless/brass French hair pins and combs in a modular 3-piece set with a signature Scandinavian silhouette, sold as a gift-able set. | 29-39 per set
+I042 | B | Modular Bead Phone Strap System | Nordic-designed beaded phone/wrist straps with a standard clip and collectible bead packs (refills) to rebuild and swap looks. | 19-29 starter, 9-12 bead packs
+I043 | B | Collectible Modular Bag Charm System (post-Labubu) | Small designer charms (felt/plush/metal) on a shared clip so owners swap and stack; seasonal drops and blind-pack mechanic. | 19-24 per charm
+I044 | B | Reflective Fashion Charms for Nordic Dark Season | Design-led reflective bag/zip-pull charms and strap accessories that look like jewelry but make the wearer visible on bikes and walks. | 15-25
+I045 | B | Tassel and Silk-Cord Hair Barrettes | Barrettes with hand-knotted tassel/silk cord details, in a limited seasonal palette. | 19-29
+I046 | B | Interchangeable-Bead Glasses Chain | Glasses chain/cord with a standard clasp and swappable beads, doubling as a mask/earbud-case strap. | 19-29
+I047 | B | Nordic Analog Bag Refill Kit | Pre-curated pouch for the 'analog bag' habit (pocket sketchbook, watercolour pan set, pencils, mini planner) with a monthly-style refill pack of paper and paint | 29-39 kit, 12-15 refill
+I048 | B | Screen-Free Kids Travel Roll | Wipe-clean illustrated activity roll in a pouch with swappable paper refill sheets for cars, trains and restaurants. | 24-29 roll, 9-12 refills
+I049 | B | Scandinavian Architecture Cardboard Build Kit | Die-cut cardboard or birch-ply kits of Nordic houses and roof/daylight studies for adults and teens, with a 'light box' effect. | 29-45
+I050 | B | Nordic Letter-Writing Kit with Refills | Boxed stationery set (paper, envelopes, wax seal or stamp, pen) with seasonal refill sets for a snail-mail habit. | 25-35 kit, 12-18 refill
+I051 | B | Refillable Undated Desk Pad System | Undated weekly tear-off desk pad on a magnetic stand with Nordic layout (focus block, daylight/break prompts) and annual refill pads. | 18-24 system, 9-12 refill
+I052 | B | Nordic-Pattern Beginner Crochet and Embroidery Kits | Premium beginner kits with Scandinavian patterns, natural yarn and QR video lessons, with refill yarn packs. | 27-39
+I053 | B | Original-Art Gem Sticker Albums (Nordic Nature) | Crystal/gem art sticker albums with original Nordic nature illustrations, unlicensed IP, aimed at teens and adults. | 15-22
+I054 | B | Gate-Fit Under-Seat Packing System | Soft-sided sling/under-seat bag plus 3 matched packing cubes sized to the 40x30x20 cm free budget-airline personal item, sold as one set. | 39-49 (set), cubes only 19-24
+I055 | B | Skadis-Compatible Birch & Steel Accessory Set | Laser-cut birch and bent-wire holders, hooks and trays that fit IKEA SKADIS pegboards, bundled as a desk starter set. | 29-49 per set
+I056 | B | Nordic Pantry & Drawer Label Refill System | Reusable Swedish/Danish-language label sets (waterproof, wipe-clean) with a refillable sheet subscription for pantry, freezer, spice and drawer organisation. | 15-19 starter, 9-12 refill pack
+I057 | B | Felt Modular Drawer Organiser Set (Nordic sizes) | Recycled-PET felt folding trays in sizes matched to standard Nordic/IKEA drawer widths, sold as measured kits. | 24-34 per kit
+I058 | B | Design Luggage Tag with Tracker Pocket | Vegetable-tanned or recycled-material luggage tag with a concealed pocket for a standard tracker (AirTag/Tile-agnostic), no battery supplied. | 19-25
+I059 | C | Magnetic Pane secondary glazing kit | Pre-cut clear PET/acrylic panes with magnetic-tape frame in the 6-8 most common Nordic window sizes; removable, no drilling, sold with size chart. | 29-49
+I060 | C | Trickle-vent refresh kit | Brush plus replaceable die-cut dust filter inserts and clip-in baffles for common window trickle vents; sold as annual refill pack. | 19-25 starter kit, 12-15 refill
+I061 | C | Nordic Wood Care Bar | Food-safe rapeseed-oil and beeswax/carnauba conditioning bar in a tin for cutting boards, wooden spoons and cast iron, with refill bars. | 19-24
+I062 | C | Hard-Water Glass Rescue pack | Citric-acid based dishwasher descaler sachets plus an etching-vs-limescale vinegar test card, sold as a 3-month set for hard-water regions. | 15-19
+I063 | C | Spare-blade peeler | Stamped-steel peeler with a stocked, subscription-able replacement-blade pack and turned-wood or recycled handle, positioned as buy-once-forever. | 15-19 with blade pack
+I064 | C | Nordic Bird-Safe Window Kit | Pre-spaced outdoor-applied UV/frosted-pattern decal sheets with a printed 5 cm grid template and squeegee, sold as seasonal refill packs. | 19-29
+I065 | C | Balcony Bokashi Finisher Refills | Branded bokashi bran plus a balcony-planter burial kit solving the 'where does the fermented output go' gap. | 19-24
+I066 | C | Hallway Dog Dry Station (Nordic design) | Design-led entryway set: wall-hung quick-dry towel with hand pockets plus absorbent runner in matching textiles, aimed at interiors-conscious owners rather than | 29-39
+I067 | C | Rural Biothane Long Line + Safety Swivel Kit | Heavy-duty, odour-free biothane 5/10 m long lines with rated swivel clip and reflective stitching, tested and load-rated for strong dogs that cannot go off-leas | 24-34
+I068 | C | Winter Mirror and Glass Clear Kit | Compact kit: wide flexible mirror scraper, soft-edge windshield blade and de-icing cloth in a magnetic pouch, aimed at the frosted side-mirror annoyance. | 15-19
+I069 | C | Nordic design reflector pins (seasonal collectible drops) | Enamel/laser-cut retroreflective pins and clips designed as wearable jewellery, sold as 3-packs with yearly limited editions; EN 17353/EN 13356 tested. | 19-24 per 3-pack
+I070 | C | Nordic-architecture bag charms | Small enamel/wood/metal charms of Nordic house and roof silhouettes (gables, roof windows, Scandi cabins) for bags, keys, zips; design-first, not plush. | 15-22
+I071 | C | Refillable solid perfume tin with refill pods | Alcohol-free solid fragrance in a reusable metal tin with sealed refill pods, one signature scent family tied to a Nordic theme. | 24-32 tin, 14-18 refill
+I072 | C | Lens-cloth that cannot be lost (clip-on, washable, replaceable) | Premium microfibre lens cloth permanently attached to a slim magnetic clip that sits on glasses case, strap or phone, sold with replacement cloths. | 15-19 kit
+I073 | C | Hard eyewear case with serviceable hinge and Nordic-size fit | Slim EVA/leather hard case with replaceable latch and pocket-friendly size, sized for common Nordic frames. | 19-26
+I074 | C | Flat-pack tangle-free travel chain keeper | Slim fold-flat necklace and chain keeper with individual slots and anti-tarnish lining, in recycled fabric. | 16-22
+I075 | C | Nordic Light-Seal Kit (blackout edge frame for kids' rooms and roof windows) | Cut-to-size magnetic/adhesive fabric-and-foam edge strips that close the light gaps around any blackout blind, with a variant sized for sloped roof windows. | 29-39
+I076 | C | Wet-Palette Refill System for Miniature Painters | Gasket-sealed wet palette using an off-the-shelf box plus branded consumable membrane/sponge refill packs sold on subscription. | 24 palette, 9 refill pack
+I077 | C | Standing-Desk Slack Kit (height-travel cable sleeve) | Pre-measured coiled/zip sleeve plus clip set engineered for the cable slack a desk needs across its height range, sold per desk-height range. | 19-29
+I078 | C | Kids' Art Archive Box (year-by-year keepsake system) | Flat-pack printed cardboard archive with year dividers, a rotating display clip line and annual refill folder packs. | 25-35
+I079 | C | Wall Paint-Pot Rack System by Brand Size | Laser-cut birch plywood modular racks with pot sizes matched to Citadel/Vallejo/AK/Army Painter and a labelled colour layout. | 29-49
+I080 | C | Leak-Seal Divider Insert for Kids' Bento Boxes | Food-grade silicone compression divider/gasket insert that retrofits popular bento boxes to stop compartment cross-leak. | 15-19
+I081 | C | Under-Seat 24L Pack System | Rigid-edged packing cube/insert set sized exactly to the 40x30x20 cm free cabin bag, so any backpack becomes an optimised Ryanair/Wizz bag. | 29-39
+I082 | C | IKEA-Fit Felt Drawer Inserts | Die-cut recycled-PET felt dividers cut to fit common IKEA drawer sizes (Alex, Malm, Kallax), snap-together with no plastic trays. | 22-34 per drawer kit
+I083 | C | Nordic Label-and-Pouch Cable Kit | Zip pouch set pre-printed in Swedish/Danish (Sladdar, Laddare, Batterier etc.) with removable elastic inserts and swappable plug-set holder. | 19-27
+I084 | C | Takbox/Car Soft-Pack Family Set | Set of colour-coded soft duffel cubes sized to common Nordic roof boxes, one per family member, with a packing-list card. | 49-69 per set
+I085 | C | Daylight-Window Sill Organiser Tray | Slim felt/cork tray set that sits on deep Nordic window sills and roof-window niches, designed to keep plants and clutter clear of the sash opening. | 25-35
+I086 | D | Nordic Titanium Cutlery Set (travel/lunch + home) | Pure-titanium fork/spoon/knife and chopsticks set in a slim EU-designed case, sized for lunchboxes and picnic as well as home use. | 39-59 (set)
+I087 | D | Manual Vacuum Lid for Standard Jars | Hand-pump (no battery) silicone vacuum lid system fitting common EU jar sizes (Weck/Kilner-type), with date dial; refill gaskets sold as consumable. | 24-34 (3-lid set)
+I088 | D | Flat-Fold Silicone-Steel Cooking Tool Family | Different, non-infringing take on the flexible silicone-over-steel-core spatula/turner/lid-scraper category, in a Nordic colour range and wall-hook set. | 19-29 (set of 2)
+I089 | D | EU-Made Clay-Pot Rice and Stew Cooker (donabe-style) | Lidded stove/oven ceramic pot with double lid and rice-cooking guide, produced by an EU (PL/PT) ceramics maker to cut shipping and breakage, sold with a recipe  | 59-89
+I090 | D | Nordic Windowsill Self-Watering Herb Planter | Ceramic/stoneware windowsill planter sized to Nordic deep sills with wick reservoir and daylight-reflective back panel; refill seed/soil pods as consumable. | 29-45
+I091 | D | Modular Nordic Hardwood Board System with Care Refills | Cutting/serving board with stackable modules, juice groove and magnetic knife slot in FSC beech/ash, sold with food-safe board-oil and wax refill sticks. | 35-55
+I092 | D | Fine-Fragrance Wool Dryer Balls + Scent Refills | Felted wool dryer balls with refillable Nordic-scented oil vials (no plastic sheets), subscription refills. | 19-29
+I093 | D | Foldable Sofa-Step Dog Ramp | Foam-core fabric ramp/step that folds into a bench or ottoman, re-designed in Nordic-interior textiles with washable covers; cut-and-sew, no moulds. | 59-79
+I094 | D | Wicking Planter with Refill Nutrient Inserts | Passive self-watering ceramic/stoneware balcony planter with a wicking reservoir, sold with subscription refill soil/fertiliser inserts; no sensors or electroni | 29-39
+I095 | D | Modular Dog Back-Seat Hammock with Anchor Liner | Quilted, waterproof back-seat hammock with ISOFIX-friendly harness anchor points and removable washable liner, cut to fit common Nordic cars (Volvo, VW, Skoda,  | 49-69
+I096 | D | Winter Boot Organiser for Nordic Cars | Modular felt/Cordura boot organiser with fold-flat dividers and a wet-gear tray for skis, ice scraper, snow brush, dog towels and jump leads. | 39-59
+I097 | D | Hand-Operated Garden Weeding Groove Tool | Forged/stamped steel manual hand tool for creating planting grooves and weeding, with ash or beech handle, sold in a bed-prep kit with seed tape. | 22-29
+I098 | D | Ultralight Slim Folding Camp Table | Roll-up slatted aluminium and webbing camping table in Nordic colours, packing to 40cm, aimed at dog-walking and van weekends. | 35-49
+I099 | D | Nordic Magnetic Modular Hair Clip System | A premium magnetic claw/hair clip with swappable decorative caps, sold as a base plus collectible caps; Scandinavian design, tool-less assembly, CNC/stamped met | 29-39 base; 12-15 per cap pack
+I100 | D | Ti/Brass EDC Pocket Comb + Hair-Tie Winder | A CNC-machined metal pocket comb with an integrated elastic/hair-tie winder, anodised or brass, in a minimal Nordic finish and a gift tin; positioned for long-h | 29-45
+I101 | D | Wooden Comb + Refill Care Oil Set | A hand-finished FSC birch/beech wide-tooth comb in the Japanese-comb tradition with a small refill tin of plant-based wood-conditioning wax, sold as a ritual se | 34-49 set; 12 refill
+I102 | D | Nordic Modular Dice and Pendant Jewelry | Hypoallergenic stainless steel or brass modular pendants and bracelets with swappable dice/charm modules, themed around Nordic myth and board-game culture; sold | 35-59 base; 15-25 module
+I103 | D | Clip-On Glare Shade for Prescription Glasses | A lightweight non-magnetic clip-on sun/glare shade that fits slim optical frames, with Nordic low-sun (winter glare) positioning and a slim case. | 24-35
+I104 | D | Wet-palette kit with refill membranes (miniature painters) | Retail-ready wet palette in a sealed, gasket-lidded tray, sold with a consumable pack of membrane paper and sponge refills; physical product, not a 3D-print fil | 24-29 kit; 9-12 refill pack
+I105 | D | Nordic-language tactile word builder for kids | Screen-free wooden/laser-cut letter-wheel word builder with Swedish and Danish letter sets (a, a, o / ae, oe, aa) and picture cards. | 29-35
+I106 | D | Scandi-localised family card game | Short-session strategy card game with Swedish/Danish rules and art, designed for parent-child play, sold in a compact tuck box. | 19-25
+I107 | D | Flat-pack magnetic desk organizer in Nordic materials | Modular desk tray system with magnetic dividers in wool felt and birch, flat-packed to avoid the shipping cost that makes heavy US organizers expensive in the E | 39-59
+I108 | D | Refillable aluminium fidget pen, EU-priced | Pen with magnetic or rotating fidget mechanism at EUR 29-39 using standard refills, sold as a desk gift. | 29-39
+I109 | D | Analogue desk fidget dial (premium, no electronics) | Precision detented aluminium dial for the desk with a distinct EU colourway and gift packaging. | 25-35
+I110 | D | Felt Gridfinity-fit drawer bins | Die-cut recycled-PET felt bins/trays sized to the 42 mm Gridfinity grid, flat-packed with a printed baseplate liner, for desk drawers and workshops. | 29-49 per starter set
+I111 | D | Steel magnetic wall-rail tool storage | Powder-coated laser-cut steel rail with magnetic holders for sockets, bits, hand tools and desk gear; Nordic-styled, tool-free mounting, expandable. | 35-59 per kit
+I112 | D | Refillable pocket notebook with magnetic cover | Slim notebook cover with magnet-closed pen/card holder and paper refills (FSC, dot grid, A6-ish) in a subscription-free refill pack. | 22-29 cover plus 9-12 refill 3-pack
+I113 | D | Nordic flat travel document pouch | Slim sewn pouch holding passport, boarding pass, cards and phone, with EU/Interrail/ferry-ticket sizing and a clear RFID-free flip panel. | 29-39
+I114 | D | Laser-cut wood TTRPG/dice storage chests | Birch-ply stackable chests in Nordic mythology themes, grid-compatible inserts for dice, cards and minis; add-on insert refills. | 35-59
+I115 | D | Expandable gap-storage steel rack | Telescopic stainless/powder-coated rack that fits narrow gaps (10-25 cm) by sinks, fridges and wardrobes, packed flat. | 25-39
+I116 | E | Magnetic Fridge-Side Spice Shelf System | Nordic-designed magnetic spice jar set (steel-lid jars, magnetic rail/tray, pre-printed SV/DA/DE labels) that mounts on fridge or hood, sold with refill spice p | 29-39 per set
+I117 | E | Soft-Egg Kit (ramen/onsen egg maker + marinade sachets) | Heat-safe borosilicate/silicone soft-boiled and marinated egg maker bundled with Nordic-flavoured marinade sachets (e.g. dill-soy, smoked), sold as refillable k | 24-29 kit, 8-9 sachet refill
+I118 | E | Fridge/Cabinet Magnetic Sponge and Brush Sink Holder | Stainless, magnetic-mount holder for sink-interior wall with drip catch, sized for Swedish dishcloths and Nordic brushes. | 19-24
+I119 | E | Vertical Cutting-Board and Baking-Sheet Rack, Japanese-style | Slim adjustable steel-wire vertical divider for cutting boards, trays and lids sized to EU/Nordic cabinet widths (60 cm modules). | 19-25
+I120 | E | Nordic Fermentation and Pickling Jar Kit | Glass jars with airlock lids, glass weights and a Swedish/Danish pickling spice-mix refill, positioned as kimchi/sauerkraut/pickles starter. | 29-39 kit
+I121 | E | Nordic Car-Nap Cushion-Blanket | Dual-function car seat cushion that unfolds into a large travel blanket, designed in Scandinavian textile and colour for road trips and winter car waiting. | 29-39
+I122 | E | Model-Specific Car Window Privacy Set | Magnetic/fitted window privacy and sun curtains made per popular Nordic car models (e.g. Tesla Model Y, Volvo EX30/XC40, VW ID.4), sold as complete sets. | 39-59
+I123 | E | Dog Enrichment Combo: Slow-Feed Lick Mat Set | Design-led silicone slow-feeder bowl with removable lick mat and freezer-safe insert, in muted Nordic colours with a refillable treat-recipe card system. | 19-24
+I124 | E | Road-Trip Dog Tie-Out Anchor | Portable weighted/stake-free dog anchor for campsites, beaches and car stops, adapted for EU leash norms with a washable cover. | 39-49
+I125 | E | Windowsill Self-Watering Herb Planter Set | Slim self-watering wicking planters sized for windowsills and balcony rails with a seed-pod refill subscription (consumable). | 24-34
+I126 | E | Compact Pet Home-Fit Accessories (Japan-style) | Small-apartment pet accessories (odour-sealing treat tin, tidy feeding mat, foldable travel bowl) in interior-matching design. | 19-29
+I127 | E | Nordic Modular Charm System (bag + phone) | Minimal Scandinavian-design charm base with swappable pearl/stone/brass bead modules and a phone-strap adapter; sold as starter kit plus seasonal module packs. | EUR 29-39 kit; EUR 12-19 module packs
+I128 | E | Refillable Scented Bag Charm | Charm with a porous ceramic or wood diffuser core and 10 ml scent refills, positioned as a wearable fragrance accessory (no skin contact). | EUR 29 charm; EUR 12-15 refill
+I129 | E | Wool-Felt Bag Organiser Inserts Sized to Popular Bags | Recycled wool-felt organiser inserts cut to exact interiors of popular Nordic tote/backpack sizes, with magnetic-free pockets and a pouch format. | EUR 24-32
+I130 | E | Nordic-Minimal Press-On Nail Capsule with Cuticle Oil | Short almond and clear-tone press-on tips in sensible Nordic palettes, sold with a cuticle oil pen and reusable adhesive tabs; refill tip drops. | EUR 15-19 set; EUR 12-15 refill
+I131 | E | Fine-Hair Heatless Curl Set (Nordic Edition) | Satin heatless curling rod set sized and tensioned for fine straight Nordic hair, with sleep-friendly scrunchies, in OEKO-TEX satin and recycled packaging. | EUR 19-24
+I132 | E | Nordic Techo Planner + Refills | Hobonichi-style thin-paper (Tomoe River-type) day-per-page planner with Danish/Swedish layouts, school-term and holiday grids, cover plus annual refill. | 29-39 (cover+refill), refill 19
+I133 | E | Deco Kit: Nordic Sticker-Flake Journal Set | Korean 'dakku'-style diary-decoration kit: designed sticker flake sheets, washi, stamps and a memo pad in a flat box, with seasonal refill packs. | 19-24 (kit), refill sheets 6-9
+I134 | E | Small-Parts Kid Organizer File (Komagoma-style) | Upright-standing, clear-window A5 organizer file with many mini compartments for LEGO minifig parts, beads, cards, craft bits; Nordic colours. | 18-24
+I135 | E | Fold-Flat Magnetic Pen Stand Case | Silicone or fabric pen case that unfolds into an upright magnetic pen stand on desk or steel surface, with a recycled-material Scandi design. | 17-22
+I136 | E | Modular Build-Your-Own Desk Sorter for Kids | Snap/slot recycled-board or sheet-PP modules that kids assemble and customise with stickers into a homework desk organizer. | 19-29 (starter set)
+I137 | E | Premium Photocard/Trading Card Collect Binder Set | Sturdy fabric-bound 4-pocket binder with acid-free sleeves, magnetic closure and matching toploader pack, positioned for K-pop and TCG collectors. | 22-29
+I138 | E | Nordic Pouch System (modular colour-coded pouch set) | 3-5 piece cut-and-sew pouch set (cables, toiletries, daily-carry, documents) in recycled ripstop with a shared colour/label system and zip-in carrier sleeve. | 34-44 per set (add-on pouch 12-15 excluded from hard floor via bundles)
+I139 | E | Carry-on Fit Packing Organizer (airline personal-item sized) | Compression/divider packing organizer dimensioned to fit common budget-airline personal-item bag limits, with a flat-fold shirt board. | 29-39
+I140 | E | Mesh Desk System (3COINS-style modular desk organizer) | Powder-coated metal-mesh desk organizer modules in muted Nordic colours that clip/stack, with wooden accent lids. | 24-39 per kit
+I141 | E | Sunglasses & Jewellery Travel Roll (premium vegan-leather/linen) | Padded roll-up case that holds up to 5 sunglasses or a jewellery set, in premium materials with a minimalist Nordic finish. | 19-29
+I142 | E | Daylight Window-Sill Tidy Set (building-edge angle) | Slim stackable sill/ledge storage trays sized to common Nordic window-sill depths, for plants, keys and small items, in folded sheet metal or bamboo. | 24-35
+I143 | E | Daiso-style Manga/Book Storage Case (flat-pack) | Flat-pack, assembled-by-user storage case for paperbacks/comics, sized to Nordic paperback and graphic novel formats. | 19-29
+I144 | G | Induction Solo Pan | Single-portion enamel-steel or stainless pot and pan duo (16-18 cm), induction-compatible, nesting with one shared lid, Nordic colourways. Sourced from existing | 39-59 for duo
+I145 | G | Big-Number Measuring Set | Laser-engraved stainless measuring cups and spoons with oversized high-contrast numerals and tactile ridges, including small-batch (1/4 and 1/2 recipe) markings | 24-29 per set
+I146 | G | Nordic-Size Window Frost Kit | Pre-cut, removable secondary-glazing film kits sized to common Nordic window formats, with reusable adhesive frame tape, plus a condensation guide. Annual film  | 22-29 per kit, 12-15 refill
+I147 | G | Desk-to-Dinner Mat | Reversible wool-felt and cork surface: large desk mat on the work side, dinner placemat set on the other, packed with a table runner. Lets hybrid workers in one | 29-39
+I148 | G | Freezer Single Portion Tiles | Stackable stainless or glass 1-portion freezer-to-oven tiles with silicone lids sized for lunch for one, sold with a Nordic batch-cooking recipe system for solo | 29-39 per 4-pack
+I149 | G | Renter Kitchen Rail System | Modular rail with adhesive plates and hooks for small rental kitchens, designed around the reusable-adhesive weight limits and Scandinavian styling, with tested | 25-39
+I150 | G | Roof-Window Cat Perch | Flat-pack perch with clamp-on rails sized for sloped roof-window sills and standard sills, daylight-optimised, no drilling. | 39-49
+I151 | G | Refillable Silvervine Cat Toy System | Durable Nordic-design fabric toys with a replaceable silvervine/catnip insert; sell refill pouches by subscription. | 19 toy + 9-12 refill
+I152 | G | Senior Dog Paw-Grip Stair and Floor Kit | Non-slip adhesive tread strips and runner mat sized for home stairs and car boot sills, styled for living rooms (comfort, not medical). | 24-34
+I153 | G | Nordic Native Balcony Pollinator Seed Kit | Seed mix plus compostable pot for balcony planters, curated for SE/DK native pollinators, with seasonal refill packs. | 15-22
+I154 | G | No-Drill Balcony Rail Planter Clamp | Tool-free clamp system holding standard planters on common Nordic balcony railings, wind-rated and rental-friendly. | 29-39 pair
+I155 | G | Window-Mount Bird and Insect Habitat Set | Flat-pack FSC wood feeder plus bee/insect hotel mounting to window or railing, with refillable seed/food pouches. | 29-39
+I156 | G | Nordic Wet-Weather Dog Boot Mat | Super-absorbent, machine-washable mat that fixes into car boot and hallway, with paw-wipe zone, in muted Scandinavian styling. | 34-45
+I157 | G | Readers Companion Chain System | Design-led glasses chain/neck cord with magnetic quick-release end-pieces and matching slim readers case, sold as a modular set with swappable bead/cord packs. | 29-39 (set), 12-15 add-on packs
+I158 | G | Hearing-Aid and Eyewear Safety Clip Line (non-medical) | Nordic-minimal metal clips and tethers that secure hearing aids, glasses and cochlear processors to collar or hair, sold as jewelry-style accessories with an au | 24-45
+I159 | G | Breed-Portrait Pet Bag Charms | Minimal enamel/acrylic bag charms and keyrings depicting the owner's dog breed or coat pattern, in a Nordic design series with a numbered breed library and a ma | 15-22
+I160 | G | Dog-and-Human Matching Walk Set | Premium leash and collar paired with a matching human wrist strap or key tether in the same webbing and hardware, sold as a gift set with replaceable webbing co | 39-59
+I161 | G | Dog Travel Organiser Pouch | Structured, washable travel pouch with removable inserts (bowl, bags, tags, documents) designed in Nordic style for dog owners travelling domestically. | 35-49
+I162 | G | Refillable Silicone Scalp Brush Ecosystem | Shower scalp brush with replaceable heads in different bristle firmness and a hair-type fit, sold as handle plus recurring refill head packs (no health or hair- | 19-29, 9-12 refills
+I163 | G | Nordic Bag-Charm Punch Needle Mini Kits | Pocket-size punch-needle/needlepoint kits (6-8cm) for making bag charms and keyrings, with proprietary Nordic/architectural motifs and refillable yarn packs. | EUR 24-29 kit; EUR 9-12 refill packs
+I164 | G | Daylight Lab Paper Model Kits for Kids | Flat-pack card/paper house and roof-window models with sun-path and daylight experiments, so kids learn how light enters a room; expansion sets add roofs, facad | EUR 24-34
+I165 | G | Solo and Duo Pocket Card Games | Design-led compact card games for 1-2 players with a premium tin/box, built around calm, cozy themes and expandable with cheap booster decks. | EUR 19-24
+I166 | G | Undated Neuro-Friendly Desk Pad with Tear-Off Refills | A3 paper desk pad with a visual day-block layout, time-lane and single-focus zones, sold with refill pads; framed strictly as planning/focus tool with no medica | EUR 19-24 pad; EUR 12-15 refill pack
+I167 | G | Wool-Felt Pegboard Desk Wall Organiser | Modular wall-mounted felt pegboard with accessories for small home offices, designed with the founders' interior/daylight sensibility and sold as base plus add- | EUR 39-59 base; EUR 12-19 add-ons
+I168 | G | Reusable Fabric Sticker-Scene Quiet Play Pouch | Soft reusable-sticker scene mats (city, roofscape, forest) in a roll-up pouch for restaurants, flights and waiting rooms, with themed expansion packs. | EUR 19-26
+I169 | G | Hybrid-Worker Micro-Hobby Break Boxes | Desk-sized craft kits (mini embroidery, clay, paper-cut) designed for 15-minute screen breaks and sold as a monthly-themed set, aimed at remote workers rather t | EUR 22-32 per box
+I170 | G | Reveal-Fit Window Shelf | Tension-fit, no-drill powder-coated steel shelf that wedges into deep Nordic window reveals for plants, books and daylight styling. | 29-39
+I171 | G | Radiator Glove and Boot Dryer Shelf | Heat-safe stainless shelf that hooks over panel radiators to dry gloves, hats and insoles in small flats without a drying room. | 29-35
+I172 | G | Roof-Window Reach Pole | Telescopic, design-grade hook pole for opening and closing high or roof windows and blinds, with a soft-tip and storage clip. | 19-29
+I173 | G | Wall-Mount Lever Jar and Bottle Opener | Under-cabinet adhesive/screw-mount stamped steel lever opener designed as a good-looking, non-medical-looking helper for weak grip. | 19-25
+I174 | G | Dog Hotel-Stay Roll | Fold-flat waterproof roll holding a mat, collapsible bowl and towel for pet-friendly travel and hotel stays. | 29-39
+I175 | H | Nordic Tray-Fit PFAS-Free Baking Liner | Platinum-cured silicone (no PTFE) reusable oven liners pre-cut to exact Swedish/Danish standard oven tray sizes, with printed cut-guides and a migration-test re | 19-25 (2-pack)
+I176 | H | Tare-Marked Steel Cafe Box | Stock 18/8 stainless leak-proof lunch/takeaway box with laser-engraved tare weight and volume on the lid, designed to be accepted by cafes for bring-your-own fi | 29-39
+I177 | H | Carbon-Steel Seasoning Balm | Food-grade oil and beeswax seasoning/maintenance balm in a refillable tin for carbon-steel and cast-iron pans, sold with a refill pouch. | 16-19 (100 g tin)
+I178 | H | Heat-Keep Pot Cozy | Insulated textile cooking cozy (recycled/wool-blend with reflective liner) that lets a pot finish cooking off-heat, sized for common 20-26 cm pots. | 34-45
+I179 | H | Glue-Free Solid Wood Board | Single-piece FSC beech/birch cutting board, no resin joins, with juice groove and knife-guide engraving, positioned as a plastic-board replacement. | 39-55
+I180 | H | Nordic PFAS-free glide wax kit | Temperature-zoned fluorine-free glide/grip wax kit (3 pucks, cork, scraper) sold as a Nordic-conditions system, white-labelled from an existing wax blender. | 29-39 kit
+I181 | H | PFAS-free Nordic proofing set for tents, boots and shells | Wash-in concentrate plus wax bar for re-proofing technical shells, footwear and tents, sold as refill concentrates in pump bottles (no aerosol). | 19-29
+I182 | H | Safety-release dog collar and harness line | Design-led collars/harnesses with quick-release safety buckles and breakaway features, positioned as compliant with the new EU welfare rules on choke/prong coll | 24-39
+I183 | H | Microchip-ready pet ID tag and registration kit | Engraved stainless or brass tag with QR/phone plus a card guiding owners through chip registration, sold as a gift/new-pet starter pack with a bandana or lead t | 15-24
+I184 | H | Passive greenhouse and cold-frame vent opener | Battery-free thermal-wax automatic vent arm engineered for garden-room, shed and VELUX-style roof windows, in a clean Nordic design with lift-force chart. | 24-34
+I185 | H | Nordic PFAS-Free Shoe & Outerwear Proofing Kit | Refillable proofing system (plant/bio-wax paste tin plus spray refill pouch) for shoes, jackets, bags, sold as PFAS-free from day one. | 24-29 starter, 15-18 refill
+I186 | H | Refill-Pan Cheek & Lip Balm Compact | Reusable magnetic metal compact for tinted balm/cream cheek and lip with cheap refill pans sold in plastic-free paper packs. | 22 starter, 15 for 3-refill pack
+I187 | H | Compliant Mineral Glitter Festival Kit | Cosmetic-grade plant-cellulose/mineral glitter gels and loose glitter in refill-friendly tins for festivals, parties, Lucia/New Year. | 16-22 kit
+I188 | H | Repair-First Mending Kit for Bags, Shoes & Jackets | Well-designed kit (waxed thread, awl, leather/textile patches, glue, instructions with QR repair videos) sold as a longevity companion for accessories. | 29-39
+I189 | H | Refillable Wax-Balm Care Pack for Leather & Wool Goods | Beeswax/plant-wax conditioner in refillable tin with refill blocks for leather bags, belts, wallets and wool coats, positioned as PFAS-free care. | 19-25
+I190 | H | Nordic PFAS-Free Reproof Wax Bar (kids outerwear) | Plant/beeswax-based rub-on re-waterproofing bar and care card for kids' rain/shell gear, sold with independent total-fluorine test report (<50 mg F/kg). | 16-19 (bar 100g); refill bar 12
+I191 | H | Daylight Lab Model Kit | Laser-cut birch/cardboard model house kit with movable roof window and sun-path dial that teaches kids how daylight, roof pitch and window angle work. | 29-35
+I192 | H | Refillable Family-Planner Whiteboard Marker System | Aluminium-barrel dry-erase markers with sealed ink refill bottles/cartridges, magnetic fridge/desk board set in paper-only packaging. | 24 starter; refill 9
+I193 | H | Repairable Desk Tool Set with Spare-Parts Kit | Machined stapler/punch/tape-dispenser style desk tools with numbered spring/anvil/blade spares and QR repair guides. | 39-49
+I194 | H | Plastic-Glitter-Free Sparkle Craft Kit | Kid craft kit using cellulose/mineral sparkle that is outside the microplastics definition, EN71-tested, plain-paper packaging, with refill pouches. | 19-24
+I195 | H | Fix-It Drawer Kit | Compact precision driver set with magnetic screw tray and pre-printed spare-part/serial log cards in a flat box, aimed at first-time appliance repairers. | 34-39
+I196 | H | Spare Parts Cabinet Label System | Stackable fabric/paper-board organiser with labelled pockets for manuals, receipts, spare parts and warranty data per appliance, with QR to repair info. | 24-29
+I197 | H | Home Maintenance Spare Kit for Windows | Branded pack of replacement window seals, hinge grease and gauge tools with a how-to for draught-proofing, from VELUX-type window know-how. | 29-39
+I198 | H | Refill-Ready Travel Bottle Set | Durable travel toiletry bottles with a standardised wide-mouth refill system, colour-coded labels and bulk-refill compatibility, designed for reuse rather than  | 19-25
+I199 | H | PFAS-Free Dry Packing Cubes | Water-resistant packing cubes and pouches made from fabric certified PFAS-free for water repellency, marketed with test documentation. | 22-32 per set
+I200 | H | Appliance Care Refill Kit | Subscription-style replacement kit (filters, belts, brushes) with a simple installation tool for popular household vacuum and small appliance models, using Nilf | 19-29
+I201 | I | Hinged-lid drain-through dish brush station | Sink caddy with brush plus refillable soap reservoir whose pump does not clog, with replaceable brush heads. | 24-29
+I202 | I | Magnetic-base spice jar system with cleanable lids | Slim stackable jars with dishwasher-safe silicone-free lids and sifter/pour toggle. | 29-39
+I203 | I | Replaceable-insert cutting board with juice groove | Slim board with swappable thin sheets so the board is not binned when stained. | 29-35
+I204 | I | Fold-flat sink drying mat with drainage channel | Mat that angles water to the sink with antimicrobial-free easy-clean surface. | 19-25
+I205 | I | Weighted no-flip pet water mat bowl | Silicone bowl with weighted base and spill-catch rim for messy drinkers. | 19-24
+I206 | I | Magnetic leash-clip waste bag pouch | Pouch with magnet and bag-feed slot that stays closed and clips without swinging. | 16-19
+I207 | I | Compact fold-flat windscreen frost and sun cover | Rigid-edged cover with mirror-wrap flaps and fitted size chart by car model, stored in a slim pouch. | 22-29
+I208 | I | Litter-trapping mat with washable tray | Two-layer mat with deep grid and removable washable catch tray. | 24-29
+I209 | I | Brass-and-metal hose quick-connect set with Nordic frost-proof spec | Metal hose connectors and drain valve sold as a winterisation kit. | 18-25
+I210 | I | Wide-Fit Contoured Sleep Mask | Moulded 3D eye-cup sleep mask with wider adjustable strap and nose-seal flap, in OEKO-TEX fabric. | 24-29
+I211 | I | Grip-Lined Claw Clip for Thick Hair | Reinforced-spring claw clip with silicone grip teeth and broken-spring-proof hinge, in 2 sizes. | 15-19
+I212 | I | Tangle-Proof Travel Jewelry Roll | Slim roll with individual necklace channels, ring foam, magnetic closure, in recycled leather-alternative. | 29-35
+I213 | I | Leak-Proof Refillable Travel Bottle Set | Cosmetic travel bottles with locking caps and refill-labelled bulk pouches sold as subscription refills. | 19-25
+I214 | I | Satin-Lined Cap for Curly Hair Nights | Adjustable satin-lined sleep bonnet with wide non-marking band and sizing for long hair. | 19-25
+I215 | I | Daylight-matched desk lamp shade/diffuser clip | Clip-on CRI/CCT-tuned diffuser and glare hood for common LED desk lamps and monitor light bars. | 19-24
+I216 | I | Leak-proof kids bento insert system | Silicone-sealed divider inserts that retrofit popular lunch boxes to stop leaks and sauce mixing. | 16-20
+I217 | I | Non-slip, non-scratch laptop stand pads kit | Retrofit pad and stabiliser set that fixes wobble and slip on thin aluminium laptop stands. | 15-19
+I218 | I | Reusable adhesive-free cable clip desk system | Clamp-on (no sticky tape) cable channel for desk edges of varying thickness. | 15-19
+I219 | I | Refillable whiteboard marker and eraser family kit | Refillable-ink dry-erase markers with a felt-pad eraser, sold with ink refills for home planners and kids. | 17-22
+I220 | I | Duo-Zip Packing Cube Set | Packing cubes with oversized YKK-style zippers and double-stitched seams, sized to fit cabin bags (Ryanair/SAS carry-on). | 29-39
+I221 | I | Click-Lock Bit Organiser | Pocket bit holder with a strong magnet plus mechanical detent so bits do not fall out; sized-coded labels in Nordic standard sets. | 19-25
+I222 | I | Cable Box With Real Slack Channels | Fabric/felt-over-board cable hider with side notches and a deeper lid so power strips plus bulky adapters actually fit. | 22-29
+I223 | I | Grip-Base Drawer Tray Set | Modular drawer trays with silicone grip base and cut-to-fit tabs, with an IKEA drawer-size compatibility chart. | 24-32
+I224 | I | Leakproof Roll-Top Toiletry Pouch | Welded TPU-lined hanging toiletry bag with taped seams and a reinforced hook that does not tear. | 25-35
+I225 | J | Birch Board Care Kit | Refillable food-safe board oil + beeswax paste with a birch applicator, sold as a refill subscription. | 22-29
+I226 | J | Ash Pot Lifter Trivet | Folding ash-wood and cork trivet that doubles as a pot lifter, laser-cut flat pack. | 24-32
+I227 | J | Linen Swedish Dishcloth Set | Cellulose-cotton dishcloths with linen-trim, Nordic pattern collaborations, compostable packaging. | 15-19
+I228 | J | Enamel Candle Dinner Set | Small enamelled steel taper holders in muted Nordic colours using existing blanks. | 29-39
+I229 | J | Cork Pot Mat Roll | Roll-up recycled cork and felt table mat, die-cut, no tooling beyond a cutting die. | 19-25
+I230 | J | Wool Felt Cast-Iron Handle Sleeve | Wool felt grip covers fitted to common cast-iron skillet handles, sold with seasoning wax. | 16-22
+I231 | J | Birch-ply modular bird feeder refills | Laser-cut FSC birch plywood flat-pack feeder with refillable seed cartridges (subscription refills). | 39-49 feeder, 12-15 refill
+I232 | J | Wool-felt dog travel mat | Pressed Nordic wool felt roll-up car/cafe mat with oiled ash toggle. | 45-59
+I233 | J | Ash-wood dog toy and tug set | Turned ash/birch fetch stick with natural-rubber and wool rope, sold with refill ropes. | 22-29
+I234 | J | Enamel camp mug and bowl set (pet + human) | Enamelled steel Nordic-palette camp set with matching dog bowl. | 29-39
+I235 | J | Cork and wool car organiser | Cork-faced wool-felt seat-back/console organiser. | 29-39
+I236 | J | Birch kindling and fire-starter kit refills | Pine-resin fire starters with a birch box; subscription refills. | 19-25
+I237 | J | Ash-wood Hair Stick Set | Turned FSC ash/birch hair sticks and a bun fork with a tiny-run brass end cap, sold as a 2-piece gift set with linen pouch. | 29-39
+I238 | J | Wool Felt Everyday Carry Sleeves | Pressed Nordic-style wool felt sleeves for AirPods case, lip balm, cards and keys, with a laser-cut modular snap system. | 19-29
+I239 | J | Linen Travel Jewellery Roll | Washed European linen roll with cork-lined compartments and an anti-tarnish interior, sized for carry-on. | 29-45
+I240 | J | Refillable Brass Solid Fragrance Compact | Weighted brass pocket compact with refill pucks in Nordic botanical scents (juniper, birch tar, cloudberry), non-medical cosmetic only. | 39-59 (refills 15-19)
+I241 | J | Cork-and-Wool Minimal Card Holder | Portuguese cork bonded to wool felt, slim 6-card holder with RFID-free simple pull tab; vegan leather alternative. | 25-35
+I242 | J | Birch Wood Beard/Hair Comb with Linen Case | Wide-tooth laser-cut birch comb, oiled finish, with a linen travel case; unisex, no health claims. | 19-27
+I243 | J | Felt Desk Mat, Nordic Wool (modular tiles) | Merino-blend wool felt desk mats in 4 Nordic-muted colours with laser-cut cable slot and magnetic-free modular add-on tiles. | 39-59
+I244 | J | Birch Cable-and-Dock Desk Tray | CNC/laser birch plywood desk tray with a graded groove system for pens, phone, cable ends; flat-packed. | 29-45
+I245 | J | Refillable Wool-Felt Kids Learning Mat and Play Pieces | Felt play-scape (roads, landscape, weather) with replaceable themed felt packs sold as expansions. | 34-49 starter; 15-22 packs
+I246 | J | Ash-Wood Pencil and Craft Tool Roll Set for Kids | Child-size ash hand tools and linen roll for woodworking/craft hobby kits with Nordic-designed projects. | 39-59
+I247 | J | Cork and Linen Desk Pad with Daylight-Angle Task Guide | Cork desk pad with printed sun-path and daylight-positioning guide, using VELUX daylight know-how for desk placement near windows. | 35-49
+I248 | J | Recycled Aluminium Stackable Pen/Brush Cups with Birch Lids | Spun/CNC recycled-aluminium cups stacking into a desk or art-table system with birch lids; kits for hobby painters. | 25-39
+I249 | J | Wool Felt Laptop and Tablet Sleeve with Pen Loop (Danish-style) | Pressed wool felt sleeve in Nordic colourways with leather-alternative cork trim and replaceable accessory pouches. | 35-55
+I250 | J | Birch daylight-window sill tray set | Laser-cut Nordic birch plywood sill/shelf organiser trays with a window-ledge plant and key layout, designed around real window-sill depths. | 29-39
+I251 | J | Wool felt travel tech roll | 100% wool felt (Nordic-style grey/oat) roll-up cable and charger organiser, no zips, with die-cut slots sized for modern GaN chargers and USB-C cables. | 25-35
+I252 | J | Cork-and-ash entry key and mail rail | Wall-mounted ash rail with replaceable cork inserts for keys, post and sunglasses; refill inserts sold separately. | 34-45
+I253 | J | Recycled-aluminium travel tag and luggage ID set | Anodised recycled aluminium luggage tag plus wool-felt sleeve, engraved with Nordic typography. | 19-29
+I254 | J | Wooden phone-free evening dock | Solid ash dock with felt lining that holds phones and glasses at the door/bedroom, no electronics or batteries. | 35-49
+I255 | J | Modular birch tool wall for small hobby tools | Click-together birch rails and felt-lined pockets for hand tools, craft supplies and gardening kit. | 39-59
+I256 | K | Nordic Compost-Ready Dishcloth Subscription | Design-led cellulose/cotton dishcloth set in Scandi prints, sold as a 3-month replacement pack. | 19-29 per set
+I257 | K | Refill Dish-Soap Concentrate Tablets with Glass Pump | Dissolvable dish-soap tablets, with a reusable glass bottle and pump; refills ship as letterbox packs. | 22 starter, 12 refill
+I258 | K | Reusable Beeswax-Free Plant Food Wraps (PFAS-free) | Plant-wax coated cotton food wraps in sized sets with a refresh-wax block as a consumable. | 18-26
+I259 | K | Reusable Silicone-Free Stretch Lids in Linen/Cotton | Elastic fabric bowl covers with food-safe lining, sized for Nordic bowls. | 17-24 per set
+I260 | K | Compostable Coffee Filter and Descaler Refill Kit | Unbleached filters plus plant-based descaler sachets sold as a recurring kit for common machines. | 15-22 per kit
+I261 | K | Daylight-Style Herb Pot Refill Pods | Self-watering ceramic windowsill herb pot with seed/soil refill pods, using window-sill light know-how. | 29 pot, 9 pods
+I262 | K | Dissolvable dog-wash tablets + aluminium refill tin | Concentrated pet shampoo tablets in a reusable tin/pump bottle, refilled via mailbox pouches. | 19-24 starter, 12-15 refill
+I263 | K | Compostable-certified poop bag roll in reusable holder | EN 13432 certified bags on cardboard cores with a design clip-on holder; refill rolls. | 15-18 per 4-roll set
+I264 | K | Concentrated car-care refill sachets (glass, interior, wash) | Three-pack of water-activated sachets plus branded spray bottle; refill sachets monthly. | 22-29 starter, 10-14 refills
+I265 | K | Plant-food tablets for outdoor pots, in tin | Slow-release organic tablets sized by pot, sold as seasonal refill packs. | 15-19
+I266 | K | Reusable silicone-free pet-waste/bird-feeder refill system | Window/garden bird feeder with compressed seed-block refills in compostable wrap. | 24-29 feeder, 9-12 refill
+I267 | K | Biodegradable plant-fibre dog chew / enrichment refills | Reusable holder toy with refill chew inserts made from natural fibres. | 18-24
+I268 | K | Refillable solid-cartridge deodorant system | Metal/glass-free reusable twist case with paper-pouch refills of aluminium-free solid deodorant. | Case 19 / refill 12
+I269 | K | Safety-razor refill blade club (design-led) | Premium brass safety razor with annual sealed paper blade packs by subscription. | Razor 39 / blades 12
+I270 | K | Reusable organic-cotton makeup pad set with laundry puck refills | Stitched round pads with branded wash bag and solid wash-bar refills. | 16-19
+I271 | K | Refillable travel fragrance atomizer with paper-capsule decants | Aluminium atomizer plus compostable pouch decants of niche-style scents. | Atomizer 15 / refill 18
+I272 | K | Plant-based hair clip and tie set (cellulose acetate / bio-based) | Claw clips and hair ties in plastic-free bio-acetate with natural-rubber elastic, Nordic colourways. | 15-24
+I273 | K | Wooden/metal comb and brush with replaceable pad or pins | Daylight-ash wood hairbrush with replaceable natural-rubber cushion and pins. | 29-39
+I274 | K | Refillable lip/face balm tin with stick refills | Reusable aluminium tin; refill paper-tube balms with Nordic botanical formulas. | Tin 14 / refills 8
+I275 | K | Refillable desk glue/paste pot with paper-pod refills | Glass/metal desk glue pot plus plant-starch paste refill pouches in paper packaging. | 19-24 starter, 8-9 refill
+I276 | K | Plant-wax kids crayon refill tins | Soy/beeswax-free plant-wax chunky crayons in a reusable metal tin with refill paper sleeves. | 18-22 tin, 12 refill
+I277 | K | Refillable whiteboard/dry-erase marker for home desks | Aluminium marker body with ink cartridge refills and magnetic board holder. | 24 set, 9 refill pack
+I278 | K | Compostable sticker-and-label refill sets for planners | Cellulose-film stickers and labels in tin dispenser with themed monthly refills. | 15-18
+I279 | K | Daylight-themed kids desk lamp-free craft kits (window art refills) | Reusable window-cling film and plant-based glass paints, refill pigments, leveraging founders' daylight/window expertise. | 22-29
+I280 | K | Refillable desk cleaning kit (keyboard/screen) with concentrate refills | Reusable spray bottle and screen/keyboard microfibre set with tablet concentrate refills. | 19-25, 7 refill
+I281 | K | Refillable Lint/Pet-Hair Roller with Paper Refill Sheets | Metal-or-bamboo handle roller with compostable adhesive refill rolls, sold as handle plus refill packs. | 19 handle + 3 refills; 9 refill 3-pack
+I282 | K | Modular Travel Bottle Set with Refill Pouches | Aluminium or glass-free silicone-lined travel bottles with flat refill pouches for shampoo/lotion decanting at home. | 24-29 set
+I283 | K | Replaceable-Head Scandi Dish & Cleaning Brush | Beech handle with snap-on compostable plant-fibre heads, sold as annual head packs. | 16 handle, 12 for 3 heads
+I284 | K | Magnetic Reusable Cable/Small-Parts Organiser Roll | Felt-and-cork roll with magnetic closure and labelled zones for tools, cables, craft parts. | 22-29
+I285 | K | Daylight Window Cleaning Squeegee with Refill Blades | Compact telescoping-free squeegee for windows and skylights; replaceable rubber blades and microfibre pads as consumables, leveraging window/daylight know-how. | 29 kit, 12 blade+pad refill
+I286 | K | Reusable Beeswax-Free Produce and Bread Storage Wraps | Plant-wax coated cotton wraps in sized sets with re-waxing bars as refill. | 19-24 set
+I287 | K | Refillable Window-Vent Condensation Absorber Pods | Reusable ceramic/silica tray with refill salt or silica packs for window sills to fight condensation and mould. | 19 tray, 9 refill
+I288 | M | Roof-window blackout cover, universal cut-to-fit | Magnetic/velcro-edge blackout + heat-reflective panel sized to common roof-window frames (e.g. 78x98, 114x118), cut-to-fit marks. | 29-39
+I289 | M | Window condensation channel strip kit | Self-adhesive absorbent strip plus drip channel for window sills/frames, with reusable refill cores. | 19-24
+I290 | M | Draught-seal tape with Nordic frame profiles | Window/door sealing strips sold as sized sets by gap profile with a gap-measuring card. | 15-19
+I291 | M | Reflective summer heat-shield for windows | Reusable reflective insert panels pressed into window reveals, sized sets for roof and wall windows. | 25-35
+I292 | M | Window-film privacy and daylight diffuser sets | Static-cling frosted/gradient films designed to keep daylight while hiding views, pre-cut for standard panes. | 18-26
+I293 | M | Bird-safe window decal sets (Nordic species) | UV-reflective, removable window decal sets designed as a coherent art system to prevent bird strikes on glazing, sold as seasonal packs. | 19-29
+I294 | M | Reusable car and garage anti-condensation pods | Rechargeable (dry in oven or sun) mineral desiccant pods sized for car footwell and window-sill, with colour humidity indicator and refill granules. | 19-24
+I295 | M | Renter-friendly cat window-screen frame | Tension-fit, no-drill mesh frame for tilt windows that lets cats enjoy fresh air safely and keeps insects out; sized to common EU window profiles. | 29-39
+I296 | M | Balcony rail planter clip system | Modular clip-on planter and trellis brackets that fit common balcony rail profiles with wind-load tested straps; refill soil/seed pods optional. | 24-34
+I297 | M | Pet-door and cat-flap draught seal kit | Magnetic brush-and-gasket insert to retrofit existing cat/dog flaps, cutting draughts in Nordic winters. | 19-25
+I298 | M | Terrace and garden-furniture winter cover and moisture kit | Breathable covers with integrated vent flaps and reusable desiccant strips to prevent mould on stored cushions and furniture. | 29-45
+I299 | M | Sillguard condensation wick strip | Self-adhesive absorbent wick and drip channel for the bottom of window frames; replaceable cartridge strips (consumable). | 19-24 per kit
+I300 | M | Rechargeable mineral humidity buffer pods | Design-led zeolite/clay pods for wardrobes, attic storage and cabins, recharged in the oven or on a radiator; no chemicals, no batteries. | 22-29 per 2-pack
+I301 | M | Tilt-stop micro-ventilation clip | Stamped steel/aluminium clip that locks a tilt-and-turn window at a fixed 8-10 mm gap for permanent trickle airing while keeping it burglar-resistant and draugh | 24-29 per 2-pack
+I302 | M | Analog brass hygrometer plus airing guide | Battery-free design hygrometer calibrated at 40-60% marks with a Nordic-language 'vädra rätt' airing card, packaged as a gift/home item. | 24-32
+I303 | M | Magnetic tilt-window insect and dust mesh | Frame-fit magnetic mesh panel for tilted windows allowing nightly ventilation without insects or dust, sized to Nordic window standards. | 19-25
+I304 | M | Window-frame cold-bridge insulation tape kit | Thermal-break adhesive foam strips for window reveals and frames reducing cold surfaces where condensation forms, sold as a sized kit. | 19-27
+I305 | M | Kids-room blackout clip-on panel set | Reusable, no-drill blackout fabric panel with edge light-seal flaps and a printed Nordic pattern, sized to common Swedish/Danish window widths (incl. roof-windo | 29-39
+I306 | M | Desk-window glare shield for home office | Foldable light-diffusing translucent screen that clips to a window frame or sits on the desk to cut monitor glare while keeping daylight. | 34-49
+I307 | M | Window condensation absorber refill system | Reusable window-sill moisture-wicking strip with replaceable absorbent refill inserts, sized for Nordic triple-pane sills. | 19-24 starter, 12 refill
+I308 | M | Kids' roof-window pull-cord safety and style kit | Child-safe cord management plus decorative handle extenders for roof windows and blinds in attic kids' rooms. | 19-29
+I309 | M | Hobby-room daylight check card and film kit | Printable/physical daylight planner plus adhesive diffusing film strips for hobby rooms and craft desks, teaching placement by window orientation. | 24-32
+I310 | M | Reusable window draught-seal and insulating film refill pack | Reusable transparent insulating film frame system with reusable edge seal and annual replacement film, cut for Nordic window sizes. | 22-29
+I311 | M | Attic Hatch Seal Kit | Pre-cut EPDM/foam gasket plus compression latches for loft hatches, sized to Nordic standard hatch dimensions, sold as a kit with fit guide. | 24-29
+I312 | M | Window Frame Condensation Wick Strips | Self-adhesive absorbent channel strips for window sills with replaceable inserts and refill packs. | 19-25
+I313 | M | Roof-Window Blind Spare Parts Kit | Universal replacement cords, clips and side-rail glides for common roof-window blinds, sold by model compatibility. | 15-22
+I314 | M | Draught Tape Tuner Set | Window and door seal kit with different profile thicknesses, a gap-measuring gauge card and cutting guide to choose right size. | 19-24
+I315 | M | Attic Storage Floor Marker and Load Tags | Reusable joist markers and weight-limit tags so users store safely on non-boarded attic floors. | 15-19
+I316 | M | Magnetic Window Insulation Film Frame Kit | Reusable magnetic-tape frame for clear secondary glazing film with seasonal storage tube and pre-cut Nordic sizes. | 29-39
+I317 | N | Dock-Fresh descaler sachets | Hard-water descaler/cleaner sachets sized for robot mop dock tanks and self-cleaning trays, sold as a 6-month subscription pack. | 19-24
+I318 | N | Sill-Ramp threshold climber set | Modular low-profile ramps/wedges for door sills of 10-30 mm, designed with building-trade dimensions (flooring transitions) so robots cross rooms. | 24-34
+I319 | N | Sealed dock-floor mat | Premium washable, raised-lip silicone mat under robot docks catching mop water spills and protecting wood/laminate floors. | 22-30
+I320 | N | Hair-cutter brush heads | Replacement main brushes with anti-tangle blade geometry, model-specific for top EU brands, sold with a service kit (filter, side brushes). | 29-39 kit
+I321 | N | Seasonal robot care box | Subscription box with filters, pads, cleaning brush and descaler sized for 3 popular robot models, delivered every 6 months. | 39-49
+I322 | N | MowerMate blade and skid-plate service kits | Branded replacement blade sets (stainless, tuned to Husqvarna/Gardena/Worx/Segway-style mowers) plus a skid-plate and wheel-cleaning brush in a subscription-sty | 19-29 kit
+I323 | N | Mower garage clip-on weather cover | Slim UV and rain cover for robot mowers with ventilation and a docking-station cut-out, in designed Scandinavian colours. | 39-59
+I324 | N | Pool robot filter-basket refills | Fine-mesh reusable and disposable filter baskets/cartridges for popular pool robots (Maytronics, Aiper, Wybotics) sold as 2-3 pack. | 19-35
+I325 | N | Muddy-paw station: absorbent doormat plus paw rinse cup | Design-led diatomite/microfibre entry mat bundled with a silicone paw washer cup, sold as a Nordic mudroom set. | 29-45
+I326 | N | Dog-walk gear wash: enzyme paw and coat wipes refill tin | Reusable tin with compostable, pH-balanced wipes and refill pouches for post-walk paw/coat/car-seat cleaning. | 15-22
+I327 | N | Concentrate car-wash pods (rinseless wash) | Water-soluble rinseless/waterless wash pods in a tin: one pod per 8 L bucket, with microfibre cloth bundle. | 18-29
+I328 | N | Garden-robot docking mat and drainage base | Heavy-duty recycled-rubber/composite base plate for mower and pool-robot charging docks that prevents sinking, mud and wheel slip. | 25-39
+I329 | N | Leather & Suede Sneaker Care Refill System | Premium sneaker cleaner concentrate in refillable aluminium bottle with a proprietary-bristle brush; refill pouches. | 24-29 kit, 14 refill
+I330 | N | Makeup Brush Dry-Clean Dock | Compact silicone/aluminium brush drying and cleaning mat plus solid cleansing bar, no electronics. | 19-25
+I331 | N | Jewelry & Watch Cleaning Pen Set | Refillable cleaning pen with brass-free micro brush plus polishing cloth set in a gift tin. | 19-24
+I332 | N | Pet-Hair Garment Roller, Reusable Refill | Design-led reusable lint roller with washable adhesive-free refill sleeves, sold in refill packs. | 17-22
+I333 | N | Wool & Knitwear Care Kit | Stone/comb de-pilling tool, cedar block and wool wash concentrate in one Nordic-styled box. | 29-39
+I334 | N | Eyeglasses & Sunglasses Lens Cleaning Capsule | Pocket aluminium spray capsule with refill cartridges and microfibre cloth, lens-safe formula. | 15-19
+I335 | N | Brick Care Kit (LEGO/collector dust set) | Soft-bristle anti-static brush set plus microfibre display cloths and air-puff bulb, sized for brick models and display shelves. | 19-29
+I336 | N | Resin Printer Wash Consumable Pack | Branded replacement filters, nitrile glove and wipe kit and cleaning-station mesh for resin 3D printers. | 18-25
+I337 | N | Desk Reset Kit (keyboard, screen, cable-tray) | Compact kit: keyboard keycap puller and brush, screen-safe cloth and refillable spray, mini crevice tool, in a desk-friendly case. | 19-29
+I338 | N | Record Care Refill System | Carbon-fibre brush, microfibre pads and concentrated record-cleaning fluid sold as subscription refills with a Nordic design brand. | 22-35
+I339 | N | Craft-Table Cleanup Mat and Brush Set (kids) | Washable silicone craft mat with crumb/glitter funnel lip and a small hand-brush and scoop for kids' craft and play tables. | 19-27
+I340 | N | Miniature Painter Brush Care Station | Brush washer cup with silicone texture pad and brush-soap refill for miniature painters and model builders. | 16-24
+I341 | N | Sill & Track Kit | Window-sill/track cleaning kit: slim angled brush, microfibre wedge, reusable sleeves, wall-mount hook. Daylight/window framing. | 19-24
+I342 | N | Skylight Pole Duster | Telescopic light pole with washable microfibre head for roof windows, high ceilings and dark corners. | 29-39
+I343 | N | Microfibre Refill Cloth Subscription | Premium, colour-coded microfibre cloth sets with replacement cycle (wash count tag), sold as refills. | 15-22 per set
+I344 | N | Concentrate Tablet Cleaning Set | Glass/multi/bath tablets with design refillable bottles in a minimalist kit; refill packs repeat-purchase. | 24-29 starter, 9-12 refill
+I345 | N | Wall-Mount Cleaning Station | Rail system that hangs mop, brushes and handheld vacuum tools in a tidy modular line; no drilling option via adhesive. | 29-45
+I346 | N | Travel Cleaning Pouch | Compact kit for hotels/campervans/Airbnb hosts: lint roller refill, screen/glass wipes cloth, mini brush. | 16-22

@@ -1,0 +1,76 @@
+{
+ "lens": "A - Rising search demand",
+ "slice": "D5 - small tools, storage, organisation, travel gear and hardware-free gadgets",
+ "ideas": [
+  {
+   "name": "Underseat 40x30x15 Organiser Cube Set",
+   "concept": "Fit-tested soft packing cubes and a flat-lay toiletry pouch engineered to fill an EU-spec 40x30x15 cm underseat personal item exactly, sold as a 3-piece system with a printed bag-size card.",
+   "target_customer": "Nordic/EU budget-airline travellers, carry-on-only and one-bag travellers, 25-45.",
+   "problem_solved": "Free underseat bags are tiny and gate-checks are strict; generic cubes waste the new legal size envelope.",
+   "trend_evidence": "EU rules from 23 Oct 2027 guarantee a free underseat bag max 40x30x15 cm (SMH 9 Nov 2026, bymetz.nl). Glimpse lists vanity bag at +66% YoY. Airlines now measure bags with automated gates (SmarterTravel). I did not verify Google Trends volumes for underseat-specific queries directly.",
+   "evidence_links": ["https://www.smh.com.au/traveller/reviews-and-advice/free-carry-on-bags-in-europe-look-like-a-win-but-there-s-more-to-it-20261109-p61c4y.html","https://bymetz.nl/en/blogs/blog/new-eu-cabin-baggage-rules-2027-what-do-they-mean-for-your-underseater","https://meetglimpse.com/google-trends/products/","https://www.smartertravel.com/the-real-rules-for-carry-on-luggage/"],
+   "trend_stage": "early",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Dimensions locked to the regulation with design registration, a named fit-standard and sizing card; first-mover on the 2027 rule while bag makers (Cabin Zero, Zeeksack) sell bags, not inserts.",
+   "price_point_eur": "29-39 for 3-piece set",
+   "est_landed_cost_eur": "6-9 (my estimate: cut-and-sew ripstop, no tooling, MOQ 300-500)",
+   "tooling_needed": "None (cut-and-sew pattern, woven labels)"
+  },
+  {
+   "name": "Nordic Magnetic Utility Rail Shelf",
+   "concept": "Stamped powder-coated steel shelf and hook rail that clips to any magnetic surface (cooker hood side, fridge, utility cabinet, workshop panel) with a strong flush magnet backing, in a Scandinavian colour palette.",
+   "target_customer": "Renters and small-flat owners in SE/DK, kitchen and utility room organisers.",
+   "problem_solved": "No-drill storage in small spaces where adhesive fails.",
+   "trend_evidence": "Exploding Topics shows 'Magnetic Shelf' at 6.6K monthly searches, +983% over two years, flagged Exploding, with related rising topics (adhesive wall shelf +620%). The volume is likely US-weighted and I could not verify EU or Nordic search data. Cheap AliExpress lookalikes likely exist, so crowding risk is real.",
+   "evidence_links": ["https://explodingtopics.com/topic/magnetic-shelf","https://explodingtopics.com/product-topics"],
+   "trend_stage": "growth",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Weak on product alone; edge is a registered design, rated load claims with tested magnet pull force, matching rail-and-accessory ecosystem (hooks, jar holders) and Nordic design language.",
+   "price_point_eur": "24-34",
+   "est_landed_cost_eur": "5-8 (my estimate, sheet-metal stamping or laser-cut and bend; magnets drive cost)",
+   "tooling_needed": "Low (sheet-metal die or laser cut, roughly EUR 300-800); must confirm no injection mould"
+  },
+  {
+   "name": "Pre-Printed Nordic Label System",
+   "concept": "Premium waterproof, removable pre-printed label sets in Swedish and Danish (pantry, freezer, drawers, workshop, cables, spice jars) with a minimalist type system and refill packs.",
+   "target_customer": "Home organisers and pantry restock fans, 28-50, SE/DK, plus makers and workshop users.",
+   "problem_solved": "Label printers are costly and need batteries; owners want ready, good-looking, local-language labels without setup.",
+   "trend_evidence": "Exploding Topics lists 'Label Printer' at 165K monthly searches, +332% (Exploding), showing strong labelling intent. A US storage report names pantry restock and decanting as an emerging growth category. No Nordic-language demand figures verified.",
+   "evidence_links": ["https://explodingtopics.com/product-topics","https://www.sourceready.com/report/detail/us-storage-organization-market-report-2026"],
+   "trend_stage": "growth",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Local-language typography and copyrighted design set, themed collections and refills build repeat purchase; copyable by printers but brand and curation help.",
+   "price_point_eur": "15-19 per set; 9-12 refill",
+   "est_landed_cost_eur": "1.5-3 (my estimate, digital print on vinyl)",
+   "tooling_needed": "None (digital print and die-cut)"
+  },
+  {
+   "name": "Gridfinity-Compatible Drawer Kits (EU Printed)",
+   "concept": "Curated, ready-to-use Gridfinity-standard baseplate and bin starter kits for tool, hardware and kitchen drawers, produced via commercial 3D-print farm (no moulds) and sold with a drawer-measuring configurator.",
+   "target_customer": "DIY and workshop owners, tool drawer organisers, hobbyists without a 3D printer, 30-55.",
+   "problem_solved": "Gridfinity is popular among printer owners but non-owners cannot get a clean finished system.",
+   "trend_evidence": "Gridfinity tool-storage content is widespread on Pinterest, Printables and maker groups, signalling community pull. I found no quantified search growth figure, so this is qualitative only. Open-standard means anyone can copy.",
+   "evidence_links": ["https://www.pinterest.com/ideas/gridfinity-tool-storage/894249151676/","https://gridfinitylayouttool.com/gridfinity-tool-drawer","https://www.printables.com/@craigrg31_3681956/collections/2700522"],
+   "trend_stage": "early",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Brand, curated drawer-size kits and configurator tool; product itself is copyable, so defensibility rests on community and bundles.",
+   "price_point_eur": "29-59 per kit",
+   "est_landed_cost_eur": "8-12 per kit (my estimate, FDM/MJF print farm; may exceed margin target at larger kits)",
+   "tooling_needed": "None (3D printing; per-unit cost is the risk)"
+  },
+  {
+   "name": "Rechargeable Window Moisture Trap Refills",
+   "concept": "Reusable non-chemical window-sill moisture absorber (zeolite/silica in breathable fabric pouches, oven-rechargeable) with a colour indicator, sold as a starter pack plus seasonal refill packs.",
+   "target_customer": "Nordic homeowners and renters with winter window condensation and mould concerns, including roof window owners.",
+   "problem_solved": "Winter window condensation, mould on sills and frames; disposable calcium chloride packs create waste.",
+   "trend_evidence": "Condensation and mould threads recur on Reddit, Facebook groups and home sites (winter seasonal). I did not obtain verified search growth data for this query, so trend confidence is low. Not a clear early-growth proof; it is seasonal.",
+   "evidence_links": ["https://www.reddit.com/r/DIY/comments/197aod2/is_there_a_way_to_prevent_this_much_moisture_from/","https://www.facebook.com/groups/84911630448/posts/10165554928020449/","https://www.homesandgardens.com/solved/I-tried-ways-to-stop-condensation-on-my-windows"],
+   "trend_stage": "unknown",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Founder building-industry credibility (daylight, windows, indoor climate), tested sill-fit sizing, and refill subscription; claims must stay non-medical (no health claims).",
+   "price_point_eur": "19-24 starter; 12-15 refill",
+   "est_landed_cost_eur": "3-5 (my estimate, fabric pouch plus mineral fill)",
+   "tooling_needed": "None (sewn pouch, bulk mineral fill); check REACH and packaging EPR"
+  }
+ ]
+}

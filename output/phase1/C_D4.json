@@ -1,0 +1,110 @@
+{
+ "lens": "C - Reddit and forum wish-lists",
+ "slice": "D4 - kids, family, hobby, office and desk",
+ "ideas": [
+  {
+   "name": "Nordic Light-Seal Kit (blackout edge frame for kids' rooms and roof windows)",
+   "concept": "Cut-to-size magnetic/adhesive fabric-and-foam edge strips that close the light gaps around any blackout blind, with a variant sized for sloped roof windows.",
+   "target_customer": "Parents of toddlers/school kids in SE/DK, attic and roof-window room owners; midnight-sun summers.",
+   "problem_solved": "Blackout blinds and curtains still leak light at sides/top, causing early waking.",
+   "trend_evidence": "Repeated Mumsnet threads on light leaking around blackout blinds' edges and DIY fixes (velcro, caulk, stuffed sheets). Could not verify search-volume growth or Reddit-specific threads; Nordic summer-light angle is my inference.",
+   "evidence_links": [
+    "https://www.mumsnet.com/talk/home_decoration_pictures/5031066-making-toddlers-room-as-dark-as-possible-help",
+    "https://www.mumsnet.com/talk/sleep/755819-BLACKOUT-BLINDS-how-to-achieve-total-darkness?page=1",
+    "https://www.mumsnet.com/talk/sleep/70807-getting-rid-of-the-little-bits-of-light"
+   ],
+   "trend_stage": "unknown",
+   "trend_confidence": "Medium",
+   "defensibility_angle": "Window-geometry know-how (VELUX roof windows), tested fit-per-window-model sizing guide and brand; no moulds, textile cut-and-sew.",
+   "price_point_eur": "29-39",
+   "est_landed_cost_eur": "6-9",
+   "tooling_needed": "None; die-cut foam/fabric, cut-and-sew, magnetic tape."
+  },
+  {
+   "name": "Wet-Palette Refill System for Miniature Painters",
+   "concept": "Gasket-sealed wet palette using an off-the-shelf box plus branded consumable membrane/sponge refill packs sold on subscription.",
+   "target_customer": "Warhammer/miniature painters in Nordics/DE, Amazon and hobby-store buyers.",
+   "problem_solved": "Palettes leak, seals are weak, paint dries after a week, upkeep of cheap palettes is poor.",
+   "trend_evidence": "Review sites and forums list weak seals, leaks, drying out and warping as recurring complaints; hobby is established. Did not verify growth data or any Reddit threads.",
+   "evidence_links": [
+    "https://www.coolminiornot.com/forums/threads/wet-pallet-update.45581/",
+    "https://www.fauxhammer.com/?p=12279",
+    "https://www.fauxhammer.com/?p=6472"
+   ],
+   "trend_stage": "growth",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Consumable refill ecosystem and a proprietary lid-gasket design; incumbents (Army Painter, Redgrass) exist so differentiation must be leak-proof proof.",
+   "price_point_eur": "24 palette, 9 refill pack",
+   "est_landed_cost_eur": "5-8 kit, 1-1.5 refill",
+   "tooling_needed": "Custom-cut membranes and silicone gasket (die cut); stock box."
+  },
+  {
+   "name": "Standing-Desk Slack Kit (height-travel cable sleeve)",
+   "concept": "Pre-measured coiled/zip sleeve plus clip set engineered for the cable slack a desk needs across its height range, sold per desk-height range.",
+   "target_customer": "Home-office workers with sit-stand desks in EU.",
+   "problem_solved": "Static cable trays fail when the desk moves; built-in cable management is rare and mostly aftermarket.",
+   "trend_evidence": "Reddit desksetup/DeskCableManagement posts and articles say built-in management is missing and moving desks break static management. Cable accessories are already crowded on Amazon, so differentiation is the uncertainty.",
+   "evidence_links": [
+    "https://redlib.ssps.io/r/desksetup/comments/1l3aggq/whats_missing_from_current_standing_desk_designs",
+    "https://www.hexcal.com/blogs/articles/cable-management-height-adjustable-standing-desk-under-desk-tray",
+    "https://tomsguide.com/opinion/i-spent-a-year-reviewing-standing-desks-and-this-is-the-one-accessory-i-cant-live-without"
+   ],
+   "trend_stage": "peaking",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Tested kit sizes per desk model/height range and clear fit guide; weak copy-resistance, treat as fallback.",
+   "price_point_eur": "19-29",
+   "est_landed_cost_eur": "4-7",
+   "tooling_needed": "None; off-the-shelf sleeve, clips, custom packaging."
+  },
+  {
+   "name": "Kids' Art Archive Box (year-by-year keepsake system)",
+   "concept": "Flat-pack printed cardboard archive with year dividers, a rotating display clip line and annual refill folder packs.",
+   "target_customer": "Parents of 3-10 year olds in SE/DK who hate clutter but want to keep drawings.",
+   "problem_solved": "No tidy system for choosing, displaying and keeping kids' artwork.",
+   "trend_evidence": "r/declutter thread and parenting blogs repeat the dilemma (photograph, rotate, keep a curated box). Demand rising not verified.",
+   "evidence_links": [
+    "https://lr.eu.psf.lt/r/declutter/comments/1dr7mx1/kids_drawings_what_to_do_and_what_do_you_do",
+    "https://www.cubbyathome.com/ask-maxwell-children-art-storage-80001883"
+   ],
+   "trend_stage": "unknown",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Brand/Scandi design and annual refill habit (repeat purchase); easy to imitate on structure.",
+   "price_point_eur": "25-35",
+   "est_landed_cost_eur": "6-9",
+   "tooling_needed": "None; printed die-cut cardboard (cutting die under EUR 300)."
+  },
+  {
+   "name": "Wall Paint-Pot Rack System by Brand Size",
+   "concept": "Laser-cut birch plywood modular racks with pot sizes matched to Citadel/Vallejo/AK/Army Painter and a labelled colour layout.",
+   "target_customer": "Miniature and craft painters wanting desk/wall storage.",
+   "problem_solved": "Painters want organized storage of paint pots and brushes beyond what kits provide.",
+   "trend_evidence": "Reviewer complaints that kit storage compartments are less useful than dedicated organizers; Etsy competition likely high, not verified.",
+   "evidence_links": [
+    "https://www.fauxhammer.com/?p=12279"
+   ],
+   "trend_stage": "unknown",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Brand-size accuracy plus modular ecosystem; weakly defensible against Etsy laser cutters.",
+   "price_point_eur": "29-49",
+   "est_landed_cost_eur": "7-12",
+   "tooling_needed": "None; laser cutting."
+  },
+  {
+   "name": "Leak-Seal Divider Insert for Kids' Bento Boxes",
+   "concept": "Food-grade silicone compression divider/gasket insert that retrofits popular bento boxes to stop compartment cross-leak.",
+   "target_customer": "Parents of nursery/school children, DK/SE.",
+   "problem_solved": "Bento boxes leak between compartments and cannot keep wet items separate.",
+   "trend_evidence": "Mumsnet and a Reddit r/noplastic post ask for leak-free compartments; Bentgo/Yumbox leakage mentioned. Retail price risk: accessory may sit near EUR 15.",
+   "evidence_links": [
+    "https://www.mumsnet.com/talk/food_and_recipes/4873203-is-there-such-a-thing-as-a-lunchbox-that",
+    "https://reddit.sudovanilla.org/r/noplastic/comments/1j7eino/bento_style_box"
+   ],
+   "trend_stage": "unknown",
+   "trend_confidence": "Low",
+   "defensibility_angle": "Fit-tested to named boxes, LFGB-certified silicone; fit-dependent so compatibility is a risk.",
+   "price_point_eur": "15-19",
+   "est_landed_cost_eur": "3-5",
+   "tooling_needed": "Aluminium silicone compression mould approx EUR 800-1500 (verify)."
+  }
+ ]
+}
