@@ -3,8 +3,8 @@
     "date": "2026-11-12",
     "dateLabel": "Thu 12 Nov",
     "predicted": 0.5,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.019,
+    "result": "partial",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "CAUTIOUS_BULLISH",
@@ -16,8 +16,8 @@
       "Overbought technicals (RSI 80.32, Stoch K/D 91.5/93.4) create mean-reversion risk despite bull regime"
     ],
     "narrative": "OMX30 opens into a bull regime (+5.9% above 200-MA, +2.6% above 50-MA) with strong overnight US momentum (+1.31% S&P, +1.60% NASDAQ) and modest European follow-through. However, technicals flash critical overbought warnings: RSI sits at 80.32, Stochastic at 91.5/93.4, and price is -0.1% from 52-week highs. ADX 71.2 with bullish DI bias confirms trend strength, but elevated VIX (+7.38% to 18.78) and US 10Y yields jumping +100bp to 5.048% signal rising rate/risk premium concerns. The 0.275% correlation signal is positive but masks divergence: Asia weakness (-1.26% Hang Seng, -0.70% Nikkei) and mixed European performance suggest selective strength rather than broad conviction.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3359.37,
+    "magnitudeError": 0.519,
     "sectorImpacts": [
       {
         "sector": "Industrials",
