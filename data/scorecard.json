@@ -3,8 +3,8 @@
     "date": "2026-11-13",
     "dateLabel": "Fri 13 Nov",
     "predicted": 0.1,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.074,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BULLISH_BUT_VULNERABLE",
@@ -17,8 +17,8 @@
       "OMX30 at 52W highs (100% of range) leaves minimal upside buffer"
     ],
     "narrative": "OMX30 enters Friday in a technically overbought state with RSI 77.4 and Stochastic 93.4, both deep into mean reversion territory despite maintaining a bull regime (+6.0% vs 200-MA, strong ADX 66.0). However, the negative correlation signal (-0.203%), S&P 500 weakness (-0.35%), and NASDAQ selloff (-0.39%) create a downstream headwind that cannot be ignored. US 10Y yields surged +210bps to 5.103%, pressuring Swedish growth and tech valuations while benefiting banks. USD/SEK strength (+0.83%) is a modest positive for industrials exporters, but the Nvidia scandal narrative is creating sector-wide sentiment damage in technology. At 52W highs with limited upside room, the risk-reward tilts cautiously defensive.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3356.87,
+    "magnitudeError": 0.174,
     "sectorImpacts": [
       {
         "sector": "Banks",
