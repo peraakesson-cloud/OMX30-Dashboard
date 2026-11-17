@@ -3,8 +3,8 @@
     "date": "2026-11-17",
     "dateLabel": "Tue 17 Nov",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.444,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "NEUTRAL",
     "technicalBias": "BULLISH",
@@ -17,8 +17,8 @@
       "OMX30 technicals remain constructive (bull regime, +4.2% above 200-MA, ADX 29.3) but correlation signal (-0.833%) overrides"
     ],
     "narrative": "OMX30 faces conflicting signals this morning: technicals remain solidly bullish with the index trading +4.2% above its 200-day MA, MACD above signal, and ADX showing strong trending momentum at 29.3. However, a -0.833% weighted correlation signal from yesterday's broad European selloff (DAX -1.17%, CAC -1.10%, FTSE -1.09%) combined with negative momentum from Asia (Nikkei -1.34%) suggests overnight positioning favors caution. US yields jumping 47bp to 5.145% creates a net-negative headwind for the 28% industrial weighting due to oil's +1.59% spike raising input costs, offsetting gains for the 18% banking sector from wider NIMs. The Deutsche Bank scandal creates systemic contagion risk in financial sentiment. While RSI at 58 and Stochastic neutral indicate no overbought compression, the technical strength appears vulnerable to correlation reversal if European risk-off persists.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3341.95,
+    "magnitudeError": 0.244,
     "sectorImpacts": [
       {
         "sector": "Industrials",
