@@ -3,8 +3,8 @@
     "date": "2026-11-18",
     "dateLabel": "Wed 18 Nov",
     "predicted": -0.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -1.63,
+    "result": "correct",
     "confidence": "Low",
     "recommendation": "NEUTRAL",
     "technicalBias": "BEARISH",
@@ -17,8 +17,8 @@
       "USD/SEK strength (+0.72%) provides modest exporter tailwind but insufficient to offset headwinds"
     ],
     "narrative": "OMX30 faces a conflicted open Wednesday morning. While the index remains +2.9% above its 200-day moving average in structural bull mode, overnight European weakness (DAX -0.41%, CAC -0.30%, FTSE -0.56%, all r>0.78 correlation) combined with a fresh MACD bearish crossover (histogram -1.211) and sharp commodity selloff (copper -4.60%, Brent -3.18%) create near-term headwinds. The weak ADX reading of 12.2 strips confidence from technicals; RSI 47.5 sits neutral with no oversold bounce trigger. USD/SEK +0.72% benefits exporters, but that offset is marginal against broad industrial input-cost pressure. VIX compression (-4.44%) and modest US equity resilience (S&P +0.06%, NASDAQ +0.31%) provide some downside cushion, but the weighted correlation signal is -0.242%\u2014a bearish lean.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3287.48,
+    "magnitudeError": 1.43,
     "sectorImpacts": [
       {
         "sector": "Industrials",
