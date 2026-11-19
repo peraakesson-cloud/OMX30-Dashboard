@@ -3,8 +3,8 @@
     "date": "2026-11-19",
     "dateLabel": "Thu 19 Nov",
     "predicted": 0.4,
-    "actual": null,
-    "result": "pending",
+    "actual": -0.951,
+    "result": "miss",
     "confidence": "Medium",
     "recommendation": "BULLISH",
     "technicalBias": "NEUTRAL",
@@ -16,8 +16,8 @@
       "OMX30 above 200-MA (+3.0%) maintaining structural bull market backdrop"
     ],
     "narrative": "Global equities show mixed signals with US tech outperformance offsetting European weakness. OMX30 sits in structural bull territory (+3.0% vs 200-MA) but technically neutral\u2014RSI at 49.87, MACD below signal, ADX weak at 7.4 indicating low directional conviction. USD/SEK strength at 10.15 favors Swedish exporters, while the 50bp US 10Y yield rise supports bank NIM outlook. Key headwind: weak technicals (MACD negative, Stochastic neutral) and 2.7% distance from 52-week highs signal caution. The Anthropic IPO narrative and geopolitical headlines (Xi/Trump/Putin) add macro volatility overhang.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3256.21,
+    "magnitudeError": 1.351,
     "sectorImpacts": [
       {
         "sector": "Banks",
