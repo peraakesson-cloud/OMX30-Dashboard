@@ -3,8 +3,8 @@
     "date": "2026-11-20",
     "dateLabel": "Fri 20 Nov",
     "predicted": -1.2,
-    "actual": null,
-    "result": "pending",
+    "actual": -2.507,
+    "result": "correct",
     "confidence": "Medium",
     "recommendation": "BEARISH",
     "technicalBias": "BEARISH",
@@ -16,8 +16,8 @@
       "ADX 19.4 moderate with bearish DI bias and OMX30 -5.2% from 52W high signals momentum breakdown"
     ],
     "narrative": "OMX30 faces significant headwind from synchronized global equity rout\u2014DAX, US indices, and Nikkei all down 2%+ overnight, with ADX showing moderate momentum but bearish directional bias. Technical picture deteriorates sharply: RSI at 35.22 triggers mean-reversion watch, MACD crossed below signal, and price now trades below lower Bollinger Band at -0.07%B, indicating capitulation selling. Stochastic (K=7.2, D=11.4) is deeply oversold, suggesting potential bounce, but weighted correlation bias remains firmly negative at -1.966%. Falling US yields (10Y at 4.992%, -119bp) and collapsing commodities (Gold -2.83%, Oil -3.27%, Copper -1.20%) point to growth concerns overriding yield support. High-beta exporters and cyclicals face immediate pressure; defensive rotation into pharma/healthcare warranted but limited by broad risk-off.",
-    "omxClose": null,
-    "magnitudeError": null,
+    "omxClose": 3175.06,
+    "magnitudeError": 1.307,
     "sectorImpacts": [
       {
         "sector": "Industrials",
