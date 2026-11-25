@@ -1,34 +1,21 @@
 {
-  "date": "2026-11-24",
-  "dateLabel": "Tuesday 24 November 2026",
-  "generatedAt": "16:31 UTC",
-  "recommendation": "NEUTRAL",
-  "confidence": "Low",
-  "expectedMove": "-0.4%",
+  "date": "2026-11-25",
+  "dateLabel": "Wednesday 25 November 2026",
+  "generatedAt": "16:11 UTC",
+  "recommendation": "BEARISH",
+  "confidence": "Medium",
+  "expectedMove": "-1.2%",
   "correlationBias": "BEARISH",
   "technicalBias": "BEARISH",
-  "narrative": "OMX30 faces significant headwinds this morning despite maintaining +1.1% above its 200-day moving average. The global correlation signal is deeply negative at -1.064%, with Asian equities leading selloff (Nikkei -5.06%) and US tech collapsing (NASDAQ -2.39%) as the Jensen Huang rally exhausts. VIX has spiked to 29.06, reflecting elevated risk aversion. Technically, the index is in lower half of Bollinger Bands (%B=0.11) with RSI at 39.29 showing neutral-to-soft momentum, MACD below signal line, and critically weak ADX (14.4) which reduces forecast confidence to Low. Oil down 2.58% and copper crashed 3.82%, directly pressuring the 36% allocation to industrials and mining. Only mild support from USD/SEK (+0.08%) and defensive positioning offer relief.",
-  "morningBrief": "OMX30 likely opens -0.4% to -0.6% on broad risk-off backdrop. Watch 3085 support (lower Bollinger) and 3123 (yesterday close) as key intraday pivots; 3180 (50-MA) is now resistance on oversold technics. ADX weakness (14.4) means reduced directional confidence\u2014treat bounces with skepticism. Industrials (Atlas Copco, Volvo, Sandvik) face margin pressure from commodity rout; banks (SEB, Handelsbanken) gain minor NIM traction but sentiment overwhelms. Tech/telecom (Ericsson, Hexagon) follow NASDAQ lead lower. Pharma/defensive (AstraZeneca, Essity) hold relative strength. USD/SEK +0.08% offers thin exporter tailwind; monitor for renewed risk liquidation if US Jobless Claims (14:30 CET) surprise weak. Copper down 3.82% makes Boliden vulnerable despite gold holding\u2014avoid chasing oversold bounces until VIX stabilizes below 25.",
+  "narrative": "OMX30 faces significant headwinds this morning following a severe US tech rout (NASDAQ -4.25%) and sharp VIX spike to 33.21, signaling broad risk-off positioning. Swedish equities are caught between deteriorating US sentiment and domestic technical weakness: Stochastic K at 11.7 (deeply oversold) and RSI at 38.26 signal mean reversion risk, while the index trades -2.4% below its 50-MA and MACD has rolled negative. However, the index remains +0.4% above the 200-MA (bull market support), and the DAX/CAC show more resilience than US peers, suggesting European valuation attraction may cushion the decline. The correlation signal of -0.821% reflects genuine risk-off, but oversold technicals create tactical bounce potential intraday. Yield compression (-1.94% on US 10Y) will pressure Swedish banks despite wider NIM mechanics, as risk appetite dominance matters more than carry signals in this environment.",
+  "morningBrief": "OMX30 opens to significant selling pressure\u2014expect -1% to -1.5% gap down at open tracking US tech contagion (NASDAQ -4.25%) and VIX surge. Key support: 3085 (lower Bollinger band); 3050 (psychological level). Resistance: 3123 (yesterday close), 3155 (50-MA). Watch for bounce attempts if Stochastic K overshoots below 10\u2014mean reversion traders may step in mid-morning. Banks (SEB A, Handelsbanken A) will trade weaker despite yield mechanics due to risk-off rotation, though AstraZeneca and Essity should outperform as defensive havens. Industrials/Exporters (Volvo B, Atlas Copco A, Ericsson B) face dual headwinds: US sentiment contagion + no USD/SEK relief (USD/SEK flat). Watch for US Jobless Claims at 14:30 CET\u2014any softness could trigger further liquidation. Volume and breadth critical; monitor if decline holds above 3050 or breaks lower.",
   "drivers": [
-    "Global risk-off with Nikkei -5.06% and NASDAQ -2.39% signaling tech/growth weakness",
-    "VIX spike to 29.06 (+9.17%) and compressed valuations across equities",
-    "Weak technicals: RSI 39.29 approaching oversold, MACD below signal, ADX 14.4 reduces confidence by 30%",
-    "Commodity selloff (copper -3.82%, oil -2.58%, gold -2.43%) pressures industrials and mining",
-    "USD/SEK strength (+0.08%) provides modest exporter support but insufficient to offset risk-off tone"
+    "US tech selloff contagion (NASDAQ -4.25%, VIX +25.99%)",
+    "OMX30 oversold technicals (Stochastic K=11.7, RSI 38.26 near 30 threshold)",
+    "Risk-off sentiment with strong USD/SEK headwind for exporters",
+    "MACD below signal line with negative histogram (-14.538)"
   ],
   "sectorImpacts": [
-    {
-      "sector": "Industrials",
-      "stocks": [
-        "Atlas Copco A",
-        "Volvo B",
-        "Sandvik"
-      ],
-      "direction": "NEGATIVE",
-      "magnitude": "Moderate",
-      "reason": "Copper -3.82%, oil -2.58% compress input margin expectations; ADX 14.4 reduces confidence severity by 30%.",
-      "keyDriver": "commodity_down"
-    },
     {
       "sector": "Banks",
       "stocks": [
@@ -36,21 +23,22 @@
         "Handelsbanken A",
         "Swedbank A"
       ],
-      "direction": "POSITIVE",
-      "magnitude": "Minor",
-      "reason": "US 10Y yield -69bp to 4.884% is mixed signal; SEK strength (+0.08% USD/SEK) modestly supports NIM via FX translation, but risk-off tone dominates.",
-      "keyDriver": "yields_down_offset_by_risk_off"
+      "direction": "NEGATIVE",
+      "magnitude": "Moderate",
+      "reason": "Despite yield compression supporting NIM, risk-off sentiment and VIX spike (33.21) override carry trades. Flight-to-safety behavior pressures financial equities.",
+      "keyDriver": "risk_off_dominates"
     },
     {
-      "sector": "Mining & Materials",
+      "sector": "Industrials",
       "stocks": [
-        "Boliden",
-        "SSAB A"
+        "Volvo B",
+        "Atlas Copco A",
+        "Sandvik"
       ],
       "direction": "NEGATIVE",
-      "magnitude": "Strong",
-      "reason": "Copper -3.82%, gold -2.43%, oil -2.58% all down; Boliden's primary revenue driver collapses despite commodity price being only marginal benefit.",
-      "keyDriver": "commodity_rout"
+      "magnitude": "Moderate-to-Strong",
+      "reason": "US recession fears and capex pullback concerns dominate; USD/SEK flat provides no offset. Exporters de-rate on demand destruction outlook.",
+      "keyDriver": "tech_contagion_demand"
     },
     {
       "sector": "Tech & Telecom",
@@ -60,20 +48,31 @@
         "Sinch"
       ],
       "direction": "NEGATIVE",
-      "magnitude": "Moderate",
-      "reason": "NASDAQ -2.39% and risk-off sentiment cascade into sector; MACD below signal amplifies weakness.",
-      "keyDriver": "nasdaq_down"
+      "magnitude": "Strong",
+      "reason": "NASDAQ -4.25% AI trade unwind hits sentiment hard. Hexagon (SaaS multiple compression), Ericsson (capex cycle risk). Direct contagion from US peers.",
+      "keyDriver": "nasdaq_selloff"
     },
     {
-      "sector": "Pharma",
+      "sector": "Pharma & Defensive",
       "stocks": [
         "AstraZeneca",
         "Essity B"
       ],
       "direction": "POSITIVE",
-      "magnitude": "Minor",
-      "reason": "Defensive rotation into lower-volatility names as VIX spikes to 29.06; risk-off favors stable earners.",
-      "keyDriver": "risk_off_defensive"
+      "magnitude": "Moderate",
+      "reason": "Risk-off rotation into defensive sectors. AstraZeneca and Essity relative outperformers; expect inflows from equity rotation.",
+      "keyDriver": "risk_off_rotation"
+    },
+    {
+      "sector": "Mining & Materials",
+      "stocks": [
+        "Boliden",
+        "SSAB A"
+      ],
+      "direction": "NEGATIVE",
+      "magnitude": "Moderate",
+      "reason": "Gold -2.47% and copper -0.50% despite risk-off; deflationary pressure (recession fears) overwhelms safe-haven bid. SSAB pressured by steel demand outlook.",
+      "keyDriver": "commodity_deflation"
     },
     {
       "sector": "Real Estate",
@@ -82,225 +81,226 @@
         "Castellum"
       ],
       "direction": "NEGATIVE",
-      "magnitude": "Minor",
-      "reason": "Yield decline (-69bp) reduces refinancing burden slightly, but risk-off sentiment and uncertainty dominate valuation compression.",
-      "keyDriver": "risk_off_sentiment"
+      "magnitude": "Moderate",
+      "reason": "Yield compression (-1.94% on US 10Y) is positive for DCF, but risk-off selling and refinancing uncertainty in volatile backdrop outweigh. Sector sees tactical liquidation.",
+      "keyDriver": "risk_off_volatility"
     }
   ],
   "watchList": [
     {
-      "stock": "Boliden",
-      "action": "AVOID_LONG",
-      "reason": "Copper -3.82% and gold -2.43% collapse primary revenue drivers; oversold bounce likely but ADX weakness means no momentum support.",
-      "catalyst": "Commodity prices"
-    },
-    {
-      "stock": "Atlas Copco A",
-      "action": "SELL_TECHNICAL",
-      "reason": "Industrial flagship facing margin pressure from oil/copper selloff; USD/SEK +0.08% insufficient offset; RSI 39 near oversold but MACD below signal.",
-      "catalyst": "Input cost inflation"
-    },
-    {
       "stock": "Ericsson B",
-      "action": "WATCH_SHORT",
-      "reason": "NASDAQ -2.39% cascade pressures tech sentiment; stock likely to test recent lows as risk-off persists.",
-      "catalyst": "NASDAQ weakness"
+      "action": "SELL_TACTICAL",
+      "reason": "NASDAQ -4.25% AI unwind flows directly to Swedish tech. Stochastic oversold may bounce intraday, but sell any rally into 65-70 SEK range.",
+      "catalyst": "US_Tech_Contagion"
     },
     {
       "stock": "AstraZeneca",
-      "action": "RELATIVE_STRENGTH",
-      "reason": "Defensive positioning in high-VIX environment (29.06); expect outperformance vs. cyclicals despite modest equity decline.",
-      "catalyst": "Risk-off rotation"
+      "action": "BUY_DEFENSIVE",
+      "reason": "Relative outperformer in risk-off; expect rotation inflows. Defensive dividend appeal shines in 33-VIX environment.",
+      "catalyst": "Risk_Off_Rotation"
+    },
+    {
+      "stock": "Volvo B",
+      "action": "WATCH_SHORT",
+      "reason": "Industrial bellwether hit hard by US capex/demand fears. No EUR/SEK tailwind (USD/SEK flat). Watch 125-130 SEK for support; break lower targets 120.",
+      "catalyst": "US_Recession_Fears"
     },
     {
       "stock": "SEB A",
-      "action": "HOLD_TECHNICAL",
-      "reason": "NIM expansion from yield structure partially offset by risk-off; watch for accumulation if VIX stabilizes above 25.",
-      "catalyst": "Interest rate dynamics"
+      "action": "SELL_TACTICAL",
+      "reason": "Banks often lead in risk-off despite NIM logic. VIX 33 drives systematic selling. Support at 95-96 SEK; resistance 98-99 SEK.",
+      "catalyst": "Broad_Risk_Off"
+    },
+    {
+      "stock": "Boliden",
+      "action": "WATCH_LONG_INTRADAY",
+      "reason": "Oversold on commodity deflation fears; potential bounce if gold stabilizes. Wait for Stochastic to bottom; copper -0.50% is headwind but mining discount may attract value.",
+      "catalyst": "Oversold_Rebound"
     }
   ],
   "keyLevels": {
-    "support": "3085 (lower Bollinger band, %B=0.11); 3070 (key technical floor)",
-    "resistance": "3180 (50-MA, -1.8% above current); 3140 (intraday rebound target)",
-    "pivotWatch": "3123 (yesterday close, current pivot)"
+    "support": "3050 (psychological), 3085 (lower Bollinger band), 3010 (medium-term support)",
+    "resistance": "3155 (50-MA), 3180 (200-MA proxy), 3200 (psychological)",
+    "pivotWatch": "3123 (yesterday close)"
   },
-  "econCalendarAlert": "US Jobless Claims at 14:30 CET\u2014potential catalyst for intraday volatility reversal if data surprises weak (adds to recession fears) or strong (supports rate hold narrative).",
-  "topRisk": "VIX continuation above 30 triggers cascade liquidation in growth/momentum names; ADX weakness means technical support breaks cleanly if panic accelerates. NASDAQ further breakdown could push OMX30 through 3085 to 3070.",
+  "econCalendarAlert": "US Jobless Claims at 14:30 CET\u2014key test for recession narrative. Swedish data light today. Monitor any US data surprise for direction confirmation.",
+  "topRisk": "Cascading liquidation if 3050 breaks decisively; algorithmic selling could accelerate into 3000. Secondary risk: US credit stress signals emerging (CDS widening on financials). Watch for circuit-breaker behavior if VIX crosses 35+.",
   "technicalSummary": [
-    "Bull market regime challenged: +1.1% above 200-MA but -1.8% below 50-MA signals transition risk",
-    "RSI 39.29 neutral-bearish, approaching oversold without momentum confirmation from MACD (below signal)",
-    "ADX 14.4 weak: confidence reduced by 30%, bearish DI bias\u2014treat mean-reversion moves with caution",
-    "Bollinger %B=0.11 indicates lower half compression; width 5.77% suggests volatility contraction risk on breakout",
-    "52W position at 78% of range, -4.3% from high\u2014room for further pullback to -8% to -10% from highs"
+    "MACD below signal line (hist=-14.538) \u2014 bearish crossover confirmed",
+    "Stochastic K=11.7, D=26.7 \u2014 deeply oversold, mean reversion risk intraday",
+    "RSI 38.26 \u2014 near 30 threshold, reversal flag but not yet triggered",
+    "ADX 23.1 (moderate, bearish DI bias) \u2014 downtrend structural but not extreme",
+    "-2.4% below 50-MA, +0.4% above 200-MA \u2014 trapped between support levels",
+    "Bollinger %B=0.05 (lower half) \u2014 price hugging lower band, breakout risk"
   ],
   "marketSnapshot": {
     "DAX 40": {
-      "change": -1.455,
-      "last": 24968.5195,
+      "change": -0.896,
+      "last": 24793.7207,
       "corr": 0.89,
       "region": "Europe"
     },
     "CAC 40": {
-      "change": -0.144,
-      "last": 8033.2798,
+      "change": -0.226,
+      "last": 8022.3398,
       "corr": 0.85,
       "region": "Europe"
     },
     "FTSE 100": {
-      "change": -0.289,
-      "last": 10450.5303,
+      "change": -0.093,
+      "last": 10457.3799,
       "corr": 0.78,
       "region": "Europe"
     },
     "S&P 500": {
-      "change": -1.11,
-      "last": 7156.8301,
+      "change": -2.825,
+      "last": 6997.6602,
       "corr": 0.52,
       "region": "Americas"
     },
     "Dow Jones": {
-      "change": 0.099,
-      "last": 49644.3008,
+      "change": -1.506,
+      "last": 49265.4219,
       "corr": 0.51,
       "region": "Americas"
     },
     "NASDAQ": {
-      "change": -2.39,
-      "last": 23513.7695,
+      "change": -4.248,
+      "last": 22725.2402,
       "corr": 0.49,
       "region": "Americas"
     },
     "Nikkei 225": {
-      "change": -5.059,
-      "last": 56436.6484,
+      "change": 3.912,
+      "last": 58644.6289,
       "corr": 0.38,
       "region": "Asia"
     },
     "Hang Seng": {
-      "change": -0.121,
-      "last": 22383.7402,
+      "change": -0.733,
+      "last": 22219.6504,
       "corr": 0.31,
       "region": "Asia"
     },
     "Shanghai": {
-      "change": 0.146,
-      "last": 3538.948,
+      "change": 0.266,
+      "last": 3548.3689,
       "corr": 0.22,
       "region": "Asia"
     }
   },
   "otherData": {
     "Brent Oil": {
-      "change": -2.585,
-      "last": 87.06
+      "change": -1.608,
+      "last": 89.93
     },
     "Gold": {
-      "change": -2.432,
-      "last": 3562.6001
+      "change": -2.471,
+      "last": 3473.8999
     },
     "Copper": {
-      "change": -3.821,
-      "last": 5.412
+      "change": -0.504,
+      "last": 5.3355
     },
     "US 10Y Yield": {
-      "change": -0.691,
-      "last": 4.884
+      "change": -1.937,
+      "last": 4.809
     },
     "VIX": {
-      "change": 9.166,
-      "last": 29.06
+      "change": 25.986,
+      "last": 33.21
     },
     "EUR/SEK": {
-      "change": 0.085,
-      "last": 11.2275
+      "change": 0.374,
+      "last": 11.2476
     },
     "USD/SEK": {
-      "change": 0.08,
-      "last": 10.2326
+      "change": -0.004,
+      "last": 10.2723
     },
     "EUR/USD": {
-      "change": 0.016,
-      "last": 1.0973
+      "change": 0.4,
+      "last": 1.0952
     },
     "DXY": {
-      "change": -0.496,
-      "last": 103.803
+      "change": 0.118,
+      "last": 103.932
     }
   },
   "newsHeadlines": [
     {
       "source": "FT Markets",
-      "title": "US tech stocks slide as Jensen Huang return rally fades",
-      "description": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides"
+      "title": "US stocks sell-off deepens as AI trade cracks",
+      "description": "Tech-heavy Nasdaq 100 falls more than 4% as weeks-long slide continues"
     },
     {
       "source": "FT Markets",
-      "title": "Inside the \u2018war room\u2019 that lobbied Trump to bring back Jensen Huang",
-      "description": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry"
+      "title": "\u2018Anflopic\u2019 bodes badly for OpenAI\u2019s IPO prospects",
+      "description": "By pushing its listing to the limit, the Claude maker has made itself a hard act to follow"
     },
     {
       "source": "FT Markets",
-      "title": "Trump made up to $15mn on Nvidia shares after Huang\u2019s return",
-      "description": "Profit on 30% jump in chip group\u2019s share price based on maximum amount US president could have owned in latest disclosure"
+      "title": "\u2018Tech bros strike back\u2019 as Trump rescues Nvidia\u2019s Huang",
+      "description": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat"
     },
     {
       "source": "FT Markets",
-      "title": "Britain bought fake C4 explosives for Ukraine",
-      "description": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4"
+      "title": "How an ex-McKinsey partner reverse engineered a $500bn wealth manager",
+      "description": "Backed by Abu Dhabi\u2019s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients \u2014 and is on the hunt for more"
     }
   ],
   "technicals": {
     "rsi": {
-      "value": 39.29,
+      "value": 38.26,
       "signal": "neutral"
     },
     "macd": {
-      "macd": -7.5382,
-      "signal": 5.1903,
-      "histogram": -12.7286,
+      "macd": -12.9826,
+      "signal": 1.5557,
+      "histogram": -14.5383,
       "crossover": "none",
       "above_signal": false
     },
     "bollinger": {
-      "upper": 3383.83,
-      "middle": 3288.92,
-      "lower": 3194.01,
-      "pct_b": 0.106,
-      "band_width": 5.77,
+      "upper": 3389.3,
+      "middle": 3285.12,
+      "lower": 3180.94,
+      "pct_b": 0.05,
+      "band_width": 6.34,
       "position": "lower_half"
     },
     "moving_averages": {
-      "ma50": 3272.15,
-      "ma50_pct": -1.77,
+      "ma50": 3270.97,
+      "ma50_pct": -2.43,
       "above_ma50": false,
-      "ma200": 3177.75,
-      "ma200_pct": 1.15,
+      "ma200": 3177.98,
+      "ma200_pct": 0.42,
       "above_ma200": true,
       "cross": "none"
     },
     "adx": {
-      "adx": 14.38,
-      "plus_di": 24.01,
-      "minus_di": 32.08,
-      "trend_strength": "weak",
+      "adx": 23.11,
+      "plus_di": 22.03,
+      "minus_di": 35.27,
+      "trend_strength": "moderate",
       "bullish_trend": false
     },
     "stochastic": {
-      "k": 22.73,
-      "d": 24.04,
-      "zone": "neutral",
+      "k": 11.68,
+      "d": 26.67,
+      "zone": "oversold",
       "k_above_d": false
     },
     "roc90": {
-      "value": 2.16,
+      "value": 0.16,
       "signal": "neutral"
     },
     "week52": {
       "high52": 3360.01,
-      "low52": 2699.35,
-      "pct_from_high": -4.34,
-      "pct_from_low": 19.07,
-      "pct_of_range": 77.9
+      "low52": 2725.35,
+      "pct_from_high": -5.02,
+      "pct_from_low": 17.1,
+      "pct_of_range": 73.4
     }
   }
 }
